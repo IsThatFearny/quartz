@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo $(sed 's/[0-9]\+/'$1'/g' "/mnt/c/Users/willf/Obsidian/.obsidian/snippets/Readable Line Control.css") > "/mnt/c/Users/willf/Obsidian/.obsidian/snippets/Readable Line Control.css" 
