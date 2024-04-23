@@ -1,2 +1,0 @@
-# Stalin WWII Spider Diagrams
-
