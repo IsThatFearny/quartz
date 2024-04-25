@@ -431,3 +431,16 @@ Philosophy, Epistemology: Part-way through Reason flashcards. Finished Descartes
 **2024-04-23 17:38**
 
 History, Russia: Reviewed flashcards
+
+**2024-04-24 18:00**
+
+Philosophy, Moral Philosophy: Completed 25 marker on [[Moral Philosophy 25 Mark Questions#Assess Kant’s deontological ethics|Kantian Deontology]]
+
+**2024-04-24 17:27**
+
+Philosophy, Epistemology: Completed Reason flashcards
+
+**2024-04-24 18:19**
+
+Philosophy, Moral Philosophy: Reviewed flashcards
+
