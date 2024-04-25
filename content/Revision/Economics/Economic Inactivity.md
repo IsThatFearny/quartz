@@ -14,4 +14,6 @@
 ### Economic problems associated with a labour shortage
 
 - Negative output gap will cause a lack of short-run growth
-- Increase in the wage rate causes an increase in the costs of production for firms, which may lead to cost-push inflation.
+- Increase in the wage rate causes an increase in the costs of production for firms, which may lead to cost-push inflation
+- Decrease in income tax revenue causes a budget deficit
+- Increased government spending on benefits
