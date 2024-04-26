@@ -27,3 +27,11 @@
 	- Workers
 	- Factories
 	- GDP
+
+</br>
+
+### Connected themes
+
+- Role of the individual
+- Finance Ministers and Tsars
+- 
