@@ -38,3 +38,7 @@
 	- Population change
 	- Growth of middle class
 	- Growth of urban/working class
+- Opposition
+	- Famine
+	- Strikes
+	- Agricultural unrest
