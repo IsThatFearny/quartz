@@ -34,4 +34,7 @@
 
 - Role of the individual
 - Finance Ministers and Tsars
-- 
+- Social change
+	- Population change
+	- Growth of middle class
+	- Growth of urban/working class
