@@ -1,0 +1,13 @@
+# Great Famine Extract
+
+> **Extract 1**
+> 
+> Tolstoy blamed the famine (of 1891) on the social order, the Orthodox Church and the government… His message struck a deep chord in the moral conscience of the liberal public, plagued as it was both by feelings of alienation from the peasantry and by guilt on account of its privileges.
+> 
+> Russian society was politicised by the famine, and from 1891 it became more organised in opposition to the government. The zemstvos expanded their activities to revive the rural economy. Doctors, teachers and engineers formed professional bodies and began to demand more influence over public policy. In the press and periodicals, in universities and learned societies, there were heated debates on the causes of the crisis…
+> 
+> **Orlando Figes, Revolutionary Russia, 1891-1991**
+
+</br>
+
+The main argument of Extract 1 is that the Great Famine of 1891-92 catalysed a major shift in the public political consciousness. This argument is supported by the statement that “Russian society was politicised by the famine”, and I find it to be mostly convincing. The extract states that “it [society] became more organised in opposition to the government”. Indeed, in the decade and a half following the famine, organised opposition movements were widely established - the Beseda Symposium, which was to become the leader of liberal opposition, was established in 1899, along with the Socialist Revolutionaries; and the Union of Liberation was founded in 1903. The establishment of this organised opposition, much of which was intended to appeal to the peasantry (the SRs made land reform their main priority) shows how the Great Famine caused Russian society to move from an attitude of acceptance to an attitude of opposition and discontent. The extract stresses the extent of the politicisation of society, and there is substantial evidence to support this: the Tver Zemstvo, representing local government and the wider peasantry, petitioned the Tsar in 1895 to form an advisory body; and Prince Lvov, a liberal noble, took up this mantle even after the Tsar dismissed the notion as “senseless nonsense”. Such an increase in opposition, greater publicity and organisation, and the growth of land-based policies, was largely as a result of the Great Famine of 1891-92, which had caused widespread discontent amongst the peasantry, and thus the argument can be said to be wholly convincing. 
