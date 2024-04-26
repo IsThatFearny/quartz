@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/IsThatFearny/quartz",
-    Component.MobileOnly(Component.Explorer()),
     },
+    Component.MobileOnly(Component.Explorer()),
   }),
 }
 
