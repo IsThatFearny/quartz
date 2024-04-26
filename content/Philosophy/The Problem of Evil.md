@@ -127,3 +127,9 @@ Plantinga’s argument might be criticised for only addressing the *amount* of e
 Is free will such a good that it outweighs all the evil that exists? Is free will such a good that it should never be interfered with? We might argue that free will is compatible with ‘selective interference’ by God to prevent especially horrendous instances of evil.
 
 Plantinga’s reply is that if God intervened to prevent evil, this is the same as causing us to do good, so eliminating free will.
+
+</br>
+
+### Explain Hick’s response to [the animals point]
+
+Hick questions whether, strictly speaking, animals ‘suffer’ in a morally meaningful sense. Yes, they experience pain, but it suggests they do not ‘suffer’ in a sense comparable to humans. Hick warns against misrepresenting the experience of animals, who, he says, live in the present moment, and so don’t experience moral regret, they don’t fear future moral misfortune
