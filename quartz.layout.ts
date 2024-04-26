@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/IsThatFearny/quartz",
     },
-    Component.MobileOnly(Component.Explorer()),
   }),
 }
 
@@ -31,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.MobileOnly(Component.Explorer()),
   ],
 }
 
