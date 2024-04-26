@@ -31,9 +31,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-  footer: [
-    Component.TableOfContents(),
-  ],
     
 }
 
