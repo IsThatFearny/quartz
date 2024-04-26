@@ -7,8 +7,8 @@
 
 - Agriculture
 	- Peasants
-		- Urban vs Rural population
-		- Movement
+		- Urban vs Rural population - only 13% urban population in 1894, marginally increased to 14-15% by 1917
+		- Movement - Peasants still mostly tied to the mir, unable to move to find other work
 	- Production
 		- Grain
 		- Meat
@@ -20,13 +20,13 @@
 		- Investment
 - Industry
 	- Production
-		- Coal
+		- Coal - Output only 10% of Britain’s by 1913
 		- Iron
 		- Oil
 		- Steel
 	- Workers
 	- Factories
-	- GDP
+	- GDP - GNP only 20% of Britain’s by 1913
 
 </br>
 
@@ -42,3 +42,4 @@
 	- Famine
 	- Strikes
 	- Agricultural unrest
+	- Organised groups - Sr'
