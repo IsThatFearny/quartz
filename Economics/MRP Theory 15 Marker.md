@@ -1,0 +1,18 @@
+---
+tags: Labour-Markets
+---
+
+# MRP Theory 15 Marker
+
+**Nurses, who benefit society, earn comparatively little, while some bankers, whose work may cause harm, can earn millions. This is not fair.**
+
+**How does economic theory explain such differentials in pay?**
+
+</br>
+
+The pay gap between such jobs can be explained by MRP (Marginal Revenue Product) theory. The factors which determine wage differ between these jobs, and so there will naturally be a wage differential. The two main factors which affect this differential are supply and demand.
+
+A large part of why nurses earn comparatively little when contrasted with bankers is the amount of supply there is for each job. For nurses, there is a large amount of workers available for hire. This means that, despite a specific skillset, the supply of nurses is much more elastic, because one can easily be substituted for another (note that this does *not* include Doctors, for whom the opposite is true). The opposite applies to high-level bankers. Often these people are experienced in economics and have a very specific skillset which others may not have. This means that they will be paid more, perhaps as an incentive to stay at a firm. Additionally, bankers are able to move jobs more easily, as skill in economics can be applied elsewhere, whilst nursing skills are less easily transferable. Further, nursing has a much more vocational aspect: people enter the field because they want to help people, not necessarily for monetary concerns (the low pay of nurses is well known, and so information is close to perfect, meaning that anyone who enters the market is willing to work at that level of pay), and this means that employers can pay nurses less (this is useful for public healthcare, funded by the government). The supply of bankers is much more inelastic than nurses for these reasons. The diagrams below demonstrate this: the diagram on the left represents the wage elasticity of nurses - the demand and supply curves are far more elastic than the diagram on the right, which represents wage elasticity for bankers: an increase in the wage of nurses from P1 to P2 will result in a much higher increase in entry to the labour market than the same increase when applied to bankers, as can be seen below.
+
+![[MRP Theory 15 Marker Nurses Elasticity|500x500]]
+Demand for workers is also a reason, and the extent to which this affects the wage differential depends on other factors. One of these is the price for which goods are sold. In the UK, unless working in private healthcare, the profit of the nurses’ employers is low (because the NHS is owned by the government and therefore funding is dependent on politics), and this means that there is little money available to increase the pay of nurses. This is a stark contrast with banking: because it is in the private sector, banks are able to make higher profits (goods are sold at the profit maximisation point, because there is a profit incentive in the private sector) and so can afford to pay their highly-skilled bankers much more. Additionally to this, bankers have a much higher MRP than nurses: high-level banking staff bring in much more money to a firm (from investment decisions, financial prudence, etc.) than an individual nurse can, and therefore they are in higher demand. In order to attract bankers to a firm, they must raise the wage rate to make sure that bankers want to work at the firm. 
