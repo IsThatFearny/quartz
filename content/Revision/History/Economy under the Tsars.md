@@ -42,4 +42,4 @@
 	- Famine
 	- Strikes
 	- Agricultural unrest
-	- Organised groups - Sr'
+	- Organised groups - SRs formed in 1899
