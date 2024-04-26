@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Will's Vault",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -84,13 +84,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      
       ],
-    transformers: [
-      Plugin.Latex(),
-      Plugin.HardLineBreaks(),
-
-      ]
   },
 }
 
