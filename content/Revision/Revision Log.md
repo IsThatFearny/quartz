@@ -360,7 +360,7 @@ Now starting each session with flashcard revision unless activity demands the fu
 
 History, Britain: Reviewed flashcards
 
-**2024-04-12 17:10**
+**2024-04-12 17:10**2024-04-27 08:20**
 
 Economics, Macro: Completed pages covering [[Absolute and Comparative Advantage]], [[Benefits and Costs of Free Trade]], and [[Reasons for changes in the pattern of trade]]. Need to complete page on [[Revision/Economics/Protectionism|Protectionism]].
 
@@ -444,3 +444,14 @@ Philosophy, Epistemology: Completed Reason flashcards
 
 Philosophy, Moral Philosophy: Reviewed flashcards
 
+**2024-04-27 08:20**
+
+History, Britain: Completed [[Liberal Reforms 25 Marker]]
+
+**2024-04-28 11:05**
+
+Philosophy, Epistemology: Completed Limits of Knowledge Flashcards
+
+**2024-04-28 12:26**
+
+Philosophy, Moral Philosophy: Continued meta-ethics flashcards - up to is-ought gap
