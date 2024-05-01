@@ -89,3 +89,6 @@ Indirect Realism is the claim that our perception is indirect, and that we perce
 ### What is idealism?
 
 Idealism is the claim that all of our perception is entirely mind-dependent, and that the sole cause of our perception is God. It attacks the primary/secondary quality distinction, instead arguing that primary qualities such as shape are also mind-dependent, similarly to secondary qualities. Idealism also argues that there may be no external world consisting of mind-independent physical objects, as all of our perceptions are mind-dependent.
+
+</br>
+
