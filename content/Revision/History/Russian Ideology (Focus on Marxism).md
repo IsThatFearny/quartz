@@ -1,4 +1,4 @@
-# Russian Ideology
+# Russian Ideology (Focus on Marxism)
 
 </br>
 
