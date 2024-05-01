@@ -68,3 +68,13 @@ id3 --> id4(Revolution is therefore part of a scientific view of History)
 - This did *not* include Russia, which was still in a semi-feudal, peasant-based state
 - But the principle that materialism and material events shaped ideas, not the other way around, gave Lenin and his contemporaries the leeway to adapt his theories to suit them
 - In an echo of Marx’s thoughts, they used their own ideological developments to justify the kind of state they were creating
+
+#### Within the Bolshevik Party/communist state
+
+- Marxist-Leninism - vanguardism, one party rule, establishing socialism in Russia
+- War communism vs NEP
+- Dictatorship of the proletariat or one-party rule?
+- Economics - right = more profit motive and market-led/private ownership; left = less profit motive and greater central planning/ownership
+- Creating a utopia - sacrifice to achieve abundance?
+- Creating a utopia - social and cultural utopia?
+- Internationalism vs socialism in one country
