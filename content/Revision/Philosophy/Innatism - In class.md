@@ -24,4 +24,3 @@ In arguing against Innatism, the empiricist can appeal to the distinction betwee
 
 ---
 
-### Simple and Complex Concepts
