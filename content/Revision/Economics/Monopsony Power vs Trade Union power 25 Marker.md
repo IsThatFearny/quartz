@@ -1,4 +1,4 @@
-# Monopsony Power vs Trade Union power 25 Marker
+# Monopsony power vs Trade Union power 25 Marker
 
 > Since the 1980s, politicians have been freeing up one side of the labour market by reducing the power of trade unions and their influence over the supply of labour. Meanwhile, they have been doing very little about the monopsony power of employers.
 > 
@@ -14,5 +14,6 @@ However, disproportionate monopsony power can have negative effects on the econo
 
 ![[Monopsony Power vs Trade Union power 25 Marker Disequilibrium Diagram|250x250]]
 
-</br>
+
+In a contrary scenario, the labour market would also see significant changes if trade union power were more than monopsony power. Trade unions are able to use collective bargaining in order to raise the wage rate. They will threaten to put a vote to their members to go on strike, which will result in a restriction in the supply of labour and a loss in net profits (as seen in the diagram above, explained previously). This will have an exacerbated effect in a market where the unions operate a ‘closed shop’, i.e. all workers must be a member of the union. The effects of free collective bargaining can be shown in the diagram below - the increase in the wage rate is seen as an increase from W1 to W2. This substantially benefits the workers 
 
