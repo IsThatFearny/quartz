@@ -38,3 +38,12 @@ We can also object to Direct Realism by arguing from illusion. Take, for example
 However, another issue with Direct Realism can be raised, which raises serious doubts over its plausibility. Similarly to an illusion, a hallucination causes us to perceive something deceiving. However, we cannot respond to hallucination by appealing to relational properties, because the content of our hallucinations are mind-dependent, and do not really exist. Therefore, they cannot have relational properties, because our hallucinations have no bearing in the mind-independent external world. The Direct Realist has no response to this, and so we can argue that Direct Realism fails entirely because it cannot account for our perception of hallucinations. We have no way of distinguishing hallucination from objective reality, and this lack of distinction causes Direct Realism to collapse.
 
 In conclusion, despite sound responses to the objection from time-lag and illusion, Direct Realism’s failure to account for hallucinations and inability to distinguish them from objective reality causes us to conclude that it cannot hold. If we take Direct Realism to be true, then we must accept the possibility of our reality being a deception, a hallucination. This is clearly absurd, and so we must replace Direct Realism with a different theory of perception.
+
+</br>
+
+## Limits of Knowledge
+
+### Do any arguments successfully defeat global scepticism?
+
+
+
