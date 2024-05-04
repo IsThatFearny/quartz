@@ -31,4 +31,24 @@
 
 ## Moral Philosophy
 
-1) Whi
+1) D ✓
+2) C✓
+3) C✓
+4) A X
+5) C ✓
+6) C ✓
+7) C ✓
+8) C ✓
+9) C ✓
+10) C ✓
+11) C ✓
+12) C ✓
+13) C ✓
+14) A X
+15) A ✓
+
+**Errors:**
+
+*4) Which of the following metaethical theories is both cognitivist and anti-realist?* **Answer:** Error theory claims that moral statements are cognitive, but that the properties of ‘rightness’ or ‘wrongness’ that they express do not exist (hence anti-realist)
+
+*14) Which metaethical theory did G.E. Moore argue for?* **Answer:** Moore argued for Moral non-naturalism (i.e. the property of ‘wrongness’ is a non-natural property)
