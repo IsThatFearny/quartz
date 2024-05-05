@@ -92,3 +92,25 @@ Idealism is the claim that all of our perception is entirely mind-dependent, and
 
 </br>
 
+## Rational Intuition and Deduction
+
+### What is Empiricism?
+
+Empiricism is the claim that all of our knowledge is a posteriori, derived from empirical experience. This is in opposition to rationalism.
+
+</br>
+
+## Limits of Knowledge
+
+### What is Philosophical Scepticism?
+
+Philosophical scepticism, also known as global scepticism, is the view that we must doubt all of our knowledge and our sense-experience, because it is possible that we are being deceived by an evil demon who makes us believe things that are not so.
+
+</br>
+
+### What is solipsism?
+
+
+Solipsism is the view that one is the only mind that exists in the world, and that we cannot prove that other people/minds exist. It arises from and is a form of scepticism.
+</br>
+

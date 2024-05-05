@@ -70,3 +70,19 @@ Berkeley’s Idealism, the claim that the content of our perception is mind-inde
 ### Explain Locke’s distinction between primary and secondary qualities
 
 In defending Indirect Realism, Locke posits the idea of primary and secondary qualities. He argues that mind-independent physical objects possess both types. Primary qualities are those which do not change depending on circumstances, such as shape (i.e. molecular structure), size, etc. These are mind-independent, and are the same between different people. In contrast, secondary qualities are those which change depending on the circumstance under which they are viewed, such as colour, temperature, etc. For example, depending on which angle I look at a table from, I might see it as being a slightly different shade of a colour than another person viewing the same table from a different perspective. Locke argues that secondary qualities are variable and mind-dependent.
+
+</br>
+
+## Rational Intuition and Deduction
+
+### Explain Locke’s distinction between simple and complex concepts
+
+In order to support his *tabula rasa* theory and reject innatism, Locke proposes a distinction between simple and complex concepts. Simple concepts, Locke argues, are basic: these include such properties as hardness, coldness, etc. We can use these simple concepts to form complex concepts. For example, we can combine hardness and coldness to form the complex concept of ice. We can also abstract simple concepts to form general concepts. For example, ‘has four legs, is fluffy, etc.’ applies to all dogs, not just a single dog, and so we can form concepts which generalise from simple concepts.
+
+</br>
+
+## Limits of Knowledge
+
+### Explain Russell’s claim that the existence of the external world is the best hypothesis
+
+In trying to prove that the external world exists, Russell proposes that its existence is the best hypothesis. Take these two statements: ‘the external world exists and it is the cause of our perceptions’; or ‘the external world does not exist and something else causes our perceptions’. Russell argues that the former is the most plausible and is supported by experience, and therefore, even though we cannot prove either statement, this is the best hypothesis and so should be taken as true. Russell argues that our experience supports this hypothesis using the following example: a cat is sitting on a sofa. I turn away, and when I turn around the cat is sitting on the floor. There are two explanations: either the cat went out of existence when I stopped perceiving it, and 
