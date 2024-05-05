@@ -21,3 +21,18 @@ Linda Zagzebski’s form of Virtue Epistemology (henceforth, ‘VE’) claims th
 
 </br>
 
+## Perception
+
+</br>
+
+### Briefly explain Direct Realism and explain how the argument from hallucination can be used to argue against this view
+
+Direct Realism is the claim that the mind-independent external world is the cause of our perceptions, and we perceive it exactly as it is. For example, if I were to look at the desk in front of me, then the Direct Realist would argue that this is an accurate representation of the mind-independent physical object that is the desk. Direct Realism makes the claim that there is no difference between our perception (e.g. sight, sensation, smell, etc.) and what exists in the world. However, this lack of distinction opens the theory up to attacks from multiple angles. One of these arguments is that from hallucination.
+
+The argument from hallucination posits that, because Direct Realism does not distinguish between the content of our perceptions and what exists in the mind-independent external world, any hallucinations that we may experience must be a part of the external world. Say, for example, that due to a mental disorder I were experiencing hallucinations of unicorns prancing around the room. Obviously, one may conclude that these unicorns are not really in the room, because unicorns do not exist. However, because Direct Realism claims that we perceive everything directly, the Direct Realist is forced to claim that the unicorns really exist in the room. This is an absurd claim. The argument from hallucination can be argued to be grounds for discounting Direct Realism as a theory, because it equates hallucinations with reality.
+
+</br>
+
+### Outline and explain the key differences between Indirect Realism and Idealism
+
+There are various differences between Indirect Realism and Idealism. Perhaps the most significant one is that Indirect Realism claims that a mind-independent reality exists, and is the cause of our perceptions, whereas Idealism claims that there is no objective mind-independent reality, and instead God is the cause of our perceptions.
