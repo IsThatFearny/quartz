@@ -73,11 +73,31 @@ In defending Indirect Realism, Locke posits the idea of primary and secondary qu
 
 </br>
 
-## Rational Intuition and Deduction
+## Reason as a source of knowledge
 
 ### Explain Locke’s distinction between simple and complex concepts
 
 In order to support his *tabula rasa* theory and reject innatism, Locke proposes a distinction between simple and complex concepts. Simple concepts, Locke argues, are basic: these include such properties as hardness, coldness, etc. We can use these simple concepts to form complex concepts. For example, we can combine hardness and coldness to form the complex concept of ice. We can also abstract simple concepts to form general concepts. For example, ‘has four legs, is fluffy, etc.’ applies to all dogs, not just a single dog, and so we can form concepts which generalise from simple concepts.
+</br>
+
+### Explain what Plato is trying to show about knowledge in his Meno’s slave argument
+
+Plato’s ‘Meno’s slave’ argument is as follows: Socrates meets a slave boy who has never been educated. He asks the boy a series of geometry questions, the theorems of which the boy has no knowledge. The boy, however, answers the questions correctly eventually, or at least is able to correct his mistakes. Plato uses this argument to claim that the boy has innate knowledge of the workings of geometry, that he knows a priori, and therefore, if the argument succeeds, rationalism is true.
+</br>
+
+### What is Hume’s fork?
+
+Hume’s fork is Hume’s distinction between ‘relations of ideas’ and ‘matters of fact’. Relations of ideas can be discovered purely by reflecting on them - they are *a priori*. Matters of fact, by contrast, are propositions about what is the case. Relations of ideas are intuitively or demonstratively certain, and matters of fact are statements which can be denied by contradiction. Hume’s fork can be used as an objection to certain rationalist arguments, or used to support empiricism.
+</br>
+
+### What is the intuition and deduction thesis?
+
+The intuition and deduction thesis is that in which Descartes attempts to prove that we know a number of claims by rational intuition (i.e. understanding rational truths such as deductive reasoning), and we can use these as the premises in deductive arguments to gain knowledge of further claims. Descartes attempts to ascertain the existence of the self, of God, and of the external world in order to prove that the thesis is correct.
+</br>
+
+### Briefly outline Descartes’ cogito argument
+
+In order to attempt to ascertain the existence of the self, Descartes proposes his cogito as a proof. The cogito can be summarised as *dubito, ergo cogito, ergo sum*, which translates to ‘I doubt, therefore I think, therefore I am’. In essence, Descartes argues that because it is possible for him to doubt, he exists. This is because, if an evil demon were deceiving us, it would not cause us to doubt. Because we can doubt, therefore, we can know that there is no evil demon deceiving us about our own existence (as a mind, at least).
 
 </br>
 
@@ -85,4 +105,4 @@ In order to support his *tabula rasa* theory and reject innatism, Locke proposes
 
 ### Explain Russell’s claim that the existence of the external world is the best hypothesis
 
-In trying to prove that the external world exists, Russell proposes that its existence is the best hypothesis. Take these two statements: ‘the external world exists and it is the cause of our perceptions’; or ‘the external world does not exist and something else causes our perceptions’. Russell argues that the former is the most plausible and is supported by experience, and therefore, even though we cannot prove either statement, this is the best hypothesis and so should be taken as true. Russell argues that our experience supports this hypothesis using the following example: a cat is sitting on a sofa. I turn away, and when I turn around the cat is sitting on the floor. There are two explanations: either the cat went out of existence when I stopped perceiving it, and 
+In trying to prove that the external world exists, Russell proposes that its existence is the best hypothesis. Take these two statements: ‘the external world exists and it is the cause of our perceptions’; or ‘the external world does not exist and something else causes our perceptions’. Russell argues that the former is the most plausible and is supported by experience, and therefore, even though we cannot prove either statement, this is the best hypothesis and so should be taken as true. Russell argues that our experience supports this hypothesis using the following example: a cat is sitting on a sofa. I turn away, and when I turn around the cat is sitting on the floor. There are two explanations: either the cat went out of existence when I stopped perceiving it, and reappeared in a different place when I looked back; or the cat moved from the sofa to the floor through a series of intermediary positions when I looked away. The latter is the most plausible explanation, and so should be taken as the best explanation.
