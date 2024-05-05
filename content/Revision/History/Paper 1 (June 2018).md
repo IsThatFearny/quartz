@@ -44,3 +44,10 @@ The main argument of Extract C is that Russia had transformed from an absolute m
 The subsidiary argument of Extract C is that there was little opposition to Tsarist political authority by 1914. This argument is supported by the statement that “the monarchy was in no immediate danger at home in the summer of 1914”. However, again, this argument is mostly unconvincing. The recent assassination (1911) of Stolypin demonstrates extreme discontent with the regime, as do events such as the Lena Goldfields strike. Revolutionary groups such as the Bolsheviks and Mensheviks were highly active, as were smaller think-tank-esque groups who challenged the regime. This is contradictory evidence, and so makes the argument substantially less convincing. However, it can be argued that Tsarist regime was in no *practical* danger in 1914 - the aforementioned revolutionary groups had little practical power: Lenin was in exile, with many Bolsheviks in prison. Whilst there were unique incidents, few were orchestrated by large organisations, and none commanded enough power to carry out a revolution, or even a coup. Still, there was at least ideological opposition to the regime, which can be argued to be equally important to practical opposition. Thus, the argument remains unconvincing.
 
 In conclusion, the extract as a whole is very largely unconvincing. The only redeeming factor is that there was little practical opposition that threatened to destabilise the Tsarist regime. Aside from this, all the evidence points to a contrary argument on both counts.
+
+--- 
+</br>
+
+```ad-quote
+color: 200, 20, 255
+```
