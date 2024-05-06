@@ -1,9 +1,6 @@
-
 ---
 draft: true
-
 ---
-
 # Extracts from Textbook 06-05-24
 
 **Extract 1:** Page 221 of textbook
