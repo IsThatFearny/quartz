@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 # Extracts from Textbook 06-05-24
 
