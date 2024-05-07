@@ -1,0 +1,6 @@
+# Global Scepticism 25 Marker (Rewritten)
+
+
+Global scepticism is the view that we are not able to trust or rely on any of our knowledge or our perceptions, because we have reason for doubt. There are various responses which attempt to ascertain a basic level of knowledge that we can know to be true: Descartes argues for the existence of God as knowledge that we cannot doubt; Reliabilism can claim that we cannot doubt things that can be realised through a reliable cognitive process; and Russell claims that the existence of the external world is the best hypothesis. This essay shall argue that Reliabilism is the most successful in attempting to defeat global scepticism when taken relatively, but ultimately fails to defeat scepticism in its entirety, as it still leaves open the possibility that we can doubt our experiences, despite our perception being argued to be a reliable method of forming true beliefs (and therefore allowing us to have knowledge of the external world). The essay shall conclude that no arguments su
+
+Descartes forms his concept 
