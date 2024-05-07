@@ -25,28 +25,28 @@
 
 ### June 2018
 
-**1)** Merit and demerit goods
+**1)** Merit and demerit goods (Micro)
 
-**4)** Ratio of capital to labour
+**4)** Ratio of capital to labour (Micro)
 
-**5)** Subsidies (specifically diagrams)
+**5)** Subsidies (specifically diagrams) (Macro)
 
-**7)** Quantitative easing
+**7)** Quantitative easing (Macro)
 
-**9)** Phillips curve (?)
+**9)** Phillips curve (?) (Macro)
 
-**13)** Circular flow and budget balance
+**13)** Circular flow and budget balance (Macro)
 
-**17)** Bank balances
+**17)** Bank balances (Micro)
 
-**18)** Causes of LRAS and SRAS shifts
+**18)** Causes of LRAS and SRAS shifts (Macro)
 
-**20)** Consequences of economies of scale
+**20)** Consequences of economies of scale (Macro)
 
-**21)** Competition diagrams
+**21)** Competition diagrams (Micro)
 
-**25)** Relationship between interest rates and the exchange rate
+**25)** Relationship between interest rates and the exchange rate (Macro)
 
-**26)** Monopsony employers
+**26)** Monopsony employers (Micro)
 
-**30)** Index numbers
+**30)** Index numbers (Macro and Micro)
