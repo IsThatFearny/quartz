@@ -23,10 +23,20 @@ color: 255, 20, 255
 Using the data in Extract A, calculate, to two decimal places, the overall percentage change in household bills from 2009 to 2013. [2 marks]
 ```
 
+
+$1420 - 1145 = 275$
+$\frac{275}{1145} \times 100 = 24.01$
+
+**24.01**% increase
+
 ```ad-question
 color: 255, 20, 255
 Explain how the data in Extract A shows that energy companies have exploited their market power. [4 marks] 
 ```
+
+From 2009 to 2013, the amount of profit that firms have taken per bill has risen proportionally higher than costs have rise. The average household bill has risen by 24.01%, whereas the profit taken per bill has risen by 850% from £10 per bill to £95 per bill. Such a large increase, out of line with inflation of energy bills, is clear evidence of exploitation, because firms have been able to raise their prices to increase profit, which causes the costs for households to increase - this is possible because consumers have no other choice in how they supply their energy. Further to this, the fact that the costs of the energy itself makes up just over half of the overall price is another example of how firms are exploiting their power - they are overcharging consumers.
+</br>
+
 
 ```ad-question
 color: 255, 20, 255
@@ -35,6 +45,12 @@ Extract B (lines 11–12) states that there is ‘no evidence of collusion betwe
 With the help of a diagram, explain how collusion between energy suppliers could affect the retail prices paid by consumers. [9 marks] 
 ```
 
+The energy industry is often oligopolistic, with very few firms involved. This is largely due to high sunk costs and high barriers to entry (only a certain amount of firms have access to the required infrastructure). This may result in collusive behaviour between suppliers, in order to make as much profit as possible. If firms collude, then they are able to raise their prices without sacrificing demand through one firm undercutting another. This means that prices across the industry will increase significantly for all firms involved in the collusive behaviour. The reasons for this can be demonstrated using Game Theory. Assuming the presence of two firms, there are four possible outcomes: 1) Firm A raises prices, Firm B lowers their price. Firm A will lose customers because Firm B is undercutting them in price; 2) Firm B raises prices, Firm A lowers their price. Ditto outcome, vice versa; 3) Both firms lower their prices, resulting in a net loss of profits for both firms; 4) Both firms raise prices, resulting in a net gain of profits for both firms. Without collusion, firms will not raise their prices, because they do not want scenario 1 or 2 to occur. If firms collude, then they are willing to raise prices, because they have an assurance that their competitors will not undercut them, and they will increase their profits. The diagram below demonstrates this: if firms lower their prices without colluding (from P1 to P3), then they will sacrifice proportionally more output, and vice versa with raising prices. If collusion takes place, then the demand curve will lose its kink, and prices will no longer be sticky at P1Q1.
+
+![[Specimen Paper 1 Kinked Demand Curve|250x250]]
+
+</br>
+
 
 ```ad-question
 color: 255, 20, 255
@@ -42,3 +58,5 @@ In Extract C, (lines 9–10) Ed Miliband is quoted as saying that a future Labou
 
 Using the data in the extracts and your economic knowledge, assess whether you agree that fixing a maximum price for energy that is sold to households is the best way of dealing with market failure in the UK energy industry? [25 marks]
 ```
+
+Due to the naturally oligopolistic nature of the UK energy industry, significant market failure often occurs in the industry, causing the exploitation of consumers and a loss of consumer welfare. 
