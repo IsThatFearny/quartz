@@ -118,6 +118,7 @@ Category: Moral Philosophy
 - After a discussion about Walt Whitman’s ‘Phallic symbolism, in reference to a phone… ‘Put it away… so to speak’
 - ‘David’s existence is contingent on mummy and daddy Harrison getting jiggy’
 - ‘You can get down to some serious gayness in the countryside’
+- ‘It’s a sort of David normative theory… me me me me me me me’
 </br>
 
 
