@@ -41,6 +41,12 @@ In conclusion, despite sound responses to the objection from time-lag and illusi
 
 </br>
 
+### Assess Indirect Realism
+
+
+
+</br>
+
 ### Is Berkeley’s idealist account of perception convincing?
 
 Idealism, the claim that all of our perceptions are entirely mind-dependent, has numerous arguments in its favour. However, the arguments for the most fundamental aspects of Idealism fail in their entirety, and thus this essay will conclude that Berkeley’s idealist account of perception is not convincing, because it is unable to suitably explain hallucinations and dreaming, and fails to prove that the existence of mind-independent objects is impossible.
