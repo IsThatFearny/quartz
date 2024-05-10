@@ -5,8 +5,7 @@
 
 - The monetarist theory is that there is too much money chasing too few goods. 
 
-> [!quote] Milton Friedman
-
+> [!quote] Milton Friedman 
 > “Inflation is always and everywhere a monetary phenomenon”
 
 - Increases in the money supply lead to increases in AD, which lead to increases in the price level

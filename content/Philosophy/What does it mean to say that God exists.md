@@ -14,8 +14,7 @@ tags: Religious-Language
 There are two approaches in Philosophy of Language: Cognitivism and Non-Cognitivism
 
 
-> [!note] Cognitivism and Non-Cognitivism (in the context of Religious Language)
-
+> [!note] Cognitivism and Non-Cognitivism (in the context of Religious Language) 
 > 
 > <h4>Cognitivism</h4>
 > 

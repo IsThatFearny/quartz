@@ -29,8 +29,7 @@ tags: Dualism
 6) The body has the property of divisibility, which the mind lacks
 7) Mind and body must, therefore, be distinct things
 
-> [!note] Leibniz's Law
-
+> [!note] Leibniz's Law 
 > 
 > If A & B have all the same properties, then A = B. If A & B have any different properties, then A ≠ B
 <br>

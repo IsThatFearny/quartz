@@ -131,12 +131,10 @@ Another customer may need to borrow. The 10% cash ration means that whilst holdi
 
 
 
-> [!note] Assets
-
+> [!note] Assets 
 > Claims that a bank has against others and represents how a bank has used its funds
 
-> [!note] Liabilities
-
+> [!note] Liabilities 
 > 
 > Claims that other people have on a bank and show the source of bank funds
 

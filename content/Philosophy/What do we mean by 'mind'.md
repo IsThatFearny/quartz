@@ -11,8 +11,7 @@ Minds: Point of view, perspective, e.g. I can make sense of and rationalise my e
 
 Non-Minds: lacks subjectivity of experience - sense of my place in relation to the world
 
-> [!note] [[Philosophy/Glossary#Intentionality|Intentionality]]
-
+> [!note] [[Philosophy/Glossary#Intentionality|Intentionality]] 
 > - What your thoughts are about/the direction or directedness of your thoughts
 > - Thoughts have intentionality, i.e. they are about something
 > 

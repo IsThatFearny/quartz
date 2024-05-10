@@ -8,8 +8,7 @@ tags: Physicalist
 
 - Function = ‘characteristic activity’
 
-> [!quote] Hilary Putnam argues...
-
+> [!quote] Hilary Putnam argues... 
 > ‘Pain is not a brain state… [it] is a functional state of the whole organism’
 
 Philosophical behaviourism argues that mental states can be equated to behavioural states, but this ignores the causal power of mental states; we generally think that mental states *cause* behaviour. For the functionalist, mental states are equal to functional states. What makes something, e.g. a screwdriver, is its characteristic activity, e.g. the fact that it drives screws into things rather than its physical makeup.

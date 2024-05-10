@@ -19,8 +19,7 @@
 > 
 > **Adapted from R B McKean, Between the Revolutions: Russia 1905–1917, 1998**
 
-> [!question]
-
+> [!question] 
 > Using your understanding of the historical context, assess how convincing the arguments in these three extracts are in relation to tsarist political authority in Russia before 1917.
 > [30 marks]
 

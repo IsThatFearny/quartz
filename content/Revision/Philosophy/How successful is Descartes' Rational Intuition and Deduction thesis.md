@@ -44,7 +44,6 @@ Hume’s fork - God’s existence is synthetic, so can only be known a posterior
 
 </br>
 
-> [!note] From here...
-
+> [!note] From here... 
 > 
 > Existence of the External World/response/evaluation/conclusion

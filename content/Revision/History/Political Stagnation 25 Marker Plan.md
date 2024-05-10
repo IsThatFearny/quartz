@@ -3,8 +3,7 @@
 
 </br>
 
-> [!question]
-
+> [!question] 
 > ‘The years 1941 to 1964 were a time of political stagnation in the USSR’. Assess the validity of this view.
 
 **Argument:** Little political progress during the Stalinist era, but Khrushchev’s process of destalinisation shows that the latter half of the period was characterised by reforms, despite some limitations.

@@ -1,8 +1,7 @@
 # Paper 1 (June 2018) 25 Markers
 
 
-> [!question]
-
+> [!question] 
 > ‘Opposition from within the Communist Party posed a greater threat to Soviet leaders than that from opponents and cultural dissidents outside it.’
 > Assess the validity of this view of the years 1941 to 1964.
 
@@ -17,6 +16,5 @@ Outside of the party, Khrushchev was popular. He was seen as a man of the people
 In conclusion, despite the existence of opposition in most quarters, both public and within the party, the ability of the Soviet leaders to remove said opposition at well through a combination of violence and slick political manoeuvring meant that there was never any significant threat to Stalinism nor the Khrushchev regime. Despite this, there was certainly more of a threat, if any, coming from within the party than out. Thus, it may be concluded that the view that opposition from within the Communist Party posed a greater threat to Soviet leaders than that from opponents and cultural dissidents outside it is entirely valid.
 </br>
 
-> [!question]
-
+> [!question] 
 > How significant was the emancipation of the serfs in 1861 to Russia’s economic growth in the years up to 1894?

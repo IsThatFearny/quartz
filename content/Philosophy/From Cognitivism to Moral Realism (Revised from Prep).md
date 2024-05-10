@@ -122,8 +122,7 @@ How do we discover moral properties that aren’t natural but are real? Mills sa
 
 What is an intuition?:
 
-> [!quote] Moore:
-
+> [!quote] Moore: 
 > 
 > “When I call such propositions [i.e. moral intuitions] intuitions, I mean merely to assert that they are incapable of proof; I imply nothing whatever as to the manner or origin of our cognition of them”
 
