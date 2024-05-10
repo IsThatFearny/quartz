@@ -131,18 +131,15 @@ Another customer may need to borrow. The 10% cash ration means that whilst holdi
 
 
 
-```ad-note
-title: Assets
-color: 50, 255, 50
-Claims that a bank has against others and represents how a bank has used its funds
-```
+> [!note] Assets
 
-```ad-note
-title: Liabilities
-color: 255, 50, 50
+> Claims that a bank has against others and represents how a bank has used its funds
 
-Claims that other people have on a bank and show the source of bank funds
-```
+> [!note] Liabilities
+
+> 
+> Claims that other people have on a bank and show the source of bank funds
+
 </br>
 
 In a balance sheet, *assets* should be **equal to** *liabilities*

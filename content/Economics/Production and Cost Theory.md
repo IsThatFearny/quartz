@@ -90,11 +90,9 @@ bestFitNumber: 0
 
 Initially, output per person rises - increasing marginal returns - (Increased specialisation and efficiency). There will come a point when output per person will start to fall. This is known as *the [[Economics/Glossary#law of diminishing returns|law of diminishing returns]]*.
 
-```ad-summary
-title: Law of Diminishing Returns
-
-If increasing quantities of a variable input are combined with a fixed input, everntually the marginal product and then the average product will decline
-```
+> [!summary] Law of Diminishing Returns
+> 
+> If increasing quantities of a variable input are combined with a fixed input, everntually the marginal product and then the average product will decline
 
 This is a short term law.
 </br>
@@ -114,21 +112,19 @@ This describes how output changes when the scale of all factors of production ch
 
 Returns to scale is all about factor inputs vs gains to output. So, returns to scale is a measure of output volume.
 
-```ad-note
-title: Increases and Decreases
-
-##### Increase in returns to scale
-
-An increase in the scale of all inputs causes a more than proportionate increase in output
-
-##### Constant returns to scale
-
-An increase in the scale of all inputs causes a proportionate increase in output
-
-##### Decrease in returns to scale
-
-An increase in the scale of all inputs causes a less than proportional increase in output
-```
+> [!note] Increases and Decreases
+> 
+> ##### Increase in returns to scale
+> 
+> An increase in the scale of all inputs causes a more than proportionate increase in output
+> 
+> ##### Constant returns to scale
+> 
+> An increase in the scale of all inputs causes a proportionate increase in output
+> 
+> ##### Decrease in returns to scale
+> 
+> An increase in the scale of all inputs causes a less than proportional increase in output
 <br>
 
 ##### Finding an optimal mix between Labour and Capital

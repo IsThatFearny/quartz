@@ -14,19 +14,17 @@ tags: Religious-Language
 There are two approaches in Philosophy of Language: Cognitivism and Non-Cognitivism
 
 
-```ad-note
-title: Cognitivism and Non-Cognitivism (in the context of Religious Language)
-color: 255, 100, 100
+> [!note] Cognitivism and Non-Cognitivism (in the context of Religious Language)
 
-<h4>Cognitivism</h4>
-
-'God exists' is meaningful because it has truth value - it can be true or false; a factual statement which refers to something out there in the world
-
-<h4>Non-Cognitivism</h4>
-
-'God exists' is a statement of attitude or perspective; its meaning lies in its impact on me, rather than any truth value (it is neither true or false)
-
-```
+> 
+> <h4>Cognitivism</h4>
+> 
+> 'God exists' is meaningful because it has truth value - it can be true or false; a factual statement which refers to something out there in the world
+> 
+> <h4>Non-Cognitivism</h4>
+> 
+> 'God exists' is a statement of attitude or perspective; its meaning lies in its impact on me, rather than any truth value (it is neither true or false)
+> 
 
 
 </br>
@@ -56,13 +54,11 @@ color: 255, 100, 100
 
 ### Ayer’s verification principle
 
-```ad-note
-title: The Verification Principle: A reminder
-
-
-
-
-A.J. Ayer’s claim that a statement can only be meaningful if it is either an analytic truth or empirically verifiable.
-```
+> [!note] The Verification Principle: A reminder
+> 
+> 
+> 
+> 
+> A.J. Ayer’s claim that a statement can only be meaningful if it is either an analytic truth or empirically verifiable.
 
 Ayer would argue that the statement ‘God exists’ is neither analytically true nor empirically verifiable, and therefore the statement is meaningless

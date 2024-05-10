@@ -10,13 +10,11 @@ tags: Dualism
 
 ## Issues with Epiphenomenalist Substance Dualism
 
-```ad-info
-title: [[Philosophy/Glossary#Epiphenomenalist Substance Dualism|Epiphenomenalist Substance Dualism]]
-
-The view that the mind has no causal powers and so does not cause physical events.
-</br>
-N.B. Epiphenomenal: The effect of a process, in this case mental states are the effect/by-product of physical states
-```
+> [!info] [[Philosophy/Glossary#Epiphenomenalist Substance Dualism|Epiphenomenalist Substance Dualism]]
+> 
+> The view that the mind has no causal powers and so does not cause physical events.
+> </br>
+> N.B. Epiphenomenal: The effect of a process, in this case mental states are the effect/by-product of physical states
 
 If I physically experience pain, this triggers a mental state of the belief that I am in pain. This in turn affects the way I act physically. We do appear to experience mental states causing/affecting physical ones. Further, it is unclear how I can know about my own mind. I know about my mental states through introspection and because they cause other mental states. However, if epiphenomenalist is true then mental states cannot cause each other and cannot cause me to reflect (introspect) on the mental states I have.
 
@@ -26,11 +24,9 @@ Mental states can also cause other mental states, e.g. if I believe that the sna
 
 ## The Problem of Other Minds
 
-```ad-info
-title: Solipsism
-
-This is the issue that, given that we only experience our own minds directly, we cannot know either the content or existence of other people’s minds.
-```
+> [!info] Solipsism
+> 
+> This is the issue that, given that we only experience our own minds directly, we cannot know either the content or existence of other people’s minds.
 
 For substance dualism, it is unclear how I can infer that other bodies have minds attached, as the mind is a separate substance to the body.
 

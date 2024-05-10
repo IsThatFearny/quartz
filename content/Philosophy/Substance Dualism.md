@@ -9,15 +9,13 @@ tags: Dualism
 
 [[Philosophy/Glossary#Substance Dualism|Substance Dualism]] is the claim that mind and body are independent (but in this case closely linked) substances.
 
-```ad-tldr
-title: Overview
-
-- Mind and body exist as separate substances, mental and physical
-- Mind = *ontologically distinct* substance
-- Some empirical evidence, e.g. out of body experiences
-- Importance of the Cogito - mind without body is conceivable
-- Body = extension, is unthinking; mind = no extension, thinking
-```
+> [!tldr] Overview
+> 
+> - Mind and body exist as separate substances, mental and physical
+> - Mind = *ontologically distinct* substance
+> - Some empirical evidence, e.g. out of body experiences
+> - Importance of the Cogito - mind without body is conceivable
+> - Body = extension, is unthinking; mind = no extension, thinking
 
 <br>
 
@@ -31,12 +29,10 @@ title: Overview
 6) The body has the property of divisibility, which the mind lacks
 7) Mind and body must, therefore, be distinct things
 
-```ad-note
-title: Leibniz's Law
-color: 200, 100, 200
+> [!note] Leibniz's Law
 
-If A & B have all the same properties, then A = B. If A & B have any different properties, then A ≠ B
-```
+> 
+> If A & B have all the same properties, then A = B. If A & B have any different properties, then A ≠ B
 <br>
 
 - Consciousness is singular in the individual, where the brain is not
@@ -69,15 +65,13 @@ If A & B have all the same properties, then A = B. If A & B have any different p
 
 ## Criticisms of Substance Dualism
 
-```ad-failure
-title: Conceivability argument
-
-#### Mind without body is not conceivable
-- It is not as clear and distinct as Descartes assumes that we can have mind without body, as Descartes recognises. It is possible to be confused or mistaken. Further, many of our mental states (e.g. fear or desire) are bound up with the physical
-<br>
-#### What is conceivable is not metaphysically possible
-- It is conceivable that water is XYZ, but not, in reality, possible since its properties would change if its chemical make up changed. 
-- *Masked Man Fallacy:* I can conceive of things which are not actually possible, e.g. i can conceive of the masked man as my father but equally know that it is not possible that he is not the masked man because he was with me at the time of the robbery. So whilst i can conceive of mind and body as separate substances, it does not follow that they are separate in reality
-<br>
-```
+> [!failure] Conceivability argument
+> 
+> #### Mind without body is not conceivable
+> - It is not as clear and distinct as Descartes assumes that we can have mind without body, as Descartes recognises. It is possible to be confused or mistaken. Further, many of our mental states (e.g. fear or desire) are bound up with the physical
+> <br>
+> #### What is conceivable is not metaphysically possible
+> - It is conceivable that water is XYZ, but not, in reality, possible since its properties would change if its chemical make up changed. 
+> - *Masked Man Fallacy:* I can conceive of things which are not actually possible, e.g. i can conceive of the masked man as my father but equally know that it is not possible that he is not the masked man because he was with me at the time of the robbery. So whilst i can conceive of mind and body as separate substances, it does not follow that they are separate in reality
+> <br>
 

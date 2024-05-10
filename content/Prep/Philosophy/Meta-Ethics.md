@@ -87,11 +87,9 @@ Moore uses this argument to support his view that a definition of goodness is im
 
 If we were to portray the argument differently, as below, then it becomes clear that Moore’s open question argument doesn’t work.
 
-```ad-note
-title: The failing of the naturalistic fallacy
-
-The property of 'being water' cannot be any other property in the world, such as the property of being H<sub>2</sub>0. If it was, then the question 'Is water H<sub>2</sub>0?' would not make sense - alike to asking 'is H<sub>2</sub>0 H<sub>2</sub>0?'. Thus, water is a simple, unanalysable property. This cannot be right, as water *just is* H<sub>2</sub>0.
-```
+> [!note] The failing of the naturalistic fallacy
+> 
+> The property of 'being water' cannot be any other property in the world, such as the property of being H<sub>2</sub>0. If it was, then the question 'Is water H<sub>2</sub>0?' would not make sense - alike to asking 'is H<sub>2</sub>0 H<sub>2</sub>0?'. Thus, water is a simple, unanalysable property. This cannot be right, as water *just is* H<sub>2</sub>0.
 
 This argument confuses concepts and properties. The two different concepts - ‘water’ and ‘H<sub>2</sub>0’ - can pick out the same property in the world. People knew about water long before the discovery of hydrogen and oxygen. They had this concept, but not the concept of H<sub>2</sub>0. However, the two concepts relate to the same thing in the world, and therefore water is identical to H<sub>2</sub>0. 
 

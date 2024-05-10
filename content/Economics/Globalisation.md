@@ -9,10 +9,8 @@ tags: International-Economy
 # Globalisation
 </br>
 
-```ad-note
-title: Globalisation
-The process by which businesses or other organizations develop international influence or start operating on an international scale.
-```
+> [!note] Globalisation
+> The process by which businesses or other organizations develop international influence or start operating on an international scale.
 
 ### Characteristics of Globalisation
 

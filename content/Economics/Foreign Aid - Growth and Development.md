@@ -67,12 +67,10 @@ Well-directed and targeted aid can enhance a country’s growth potential but th
 
 ### Essay Question
 
-```ad-question
-title: Question
-color: 255, 20, 100
+> [!question] Question
 
-Discuss the view that free trade is more effective than aid in promoting economic development in developing countries such as Ethiopia
-```
+> 
+> Discuss the view that free trade is more effective than aid in promoting economic development in developing countries such as Ethiopia
 
 
 ### Advantages of Trade

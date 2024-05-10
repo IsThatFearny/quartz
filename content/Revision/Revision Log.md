@@ -274,10 +274,8 @@ Economics, Micro: Completed Behavioural Economics multiple choice questions. Got
 
 Philosophy, Epistemology: Wrote 5 markers on [[Epistemology 5 Mark Questions#Direct Realism|Direct Realism]]
 
-```ad-note
-title: Change in strategy
-Major shift in revision mindset here. Decided not to continue with creating pages for philosophy, however will continue with Macroeconomics for completion
-```
+> [!note] Change in strategy
+> Major shift in revision mindset here. Decided not to continue with creating pages for philosophy, however will continue with Macroeconomics for completion
 
 **2024-04-09 15:00**
 
@@ -351,10 +349,8 @@ Economics, Micro: Wrote [[Rationality 25 Marker]]
 
 Philosophy, Epistemology: Completed Idealism flashcards
 
-```ad-note
-title: Update
-Now starting each session with flashcard revision unless activity demands the full hour (new algroithm implemented to to prevent flashcards consuming too much time)
-```
+> [!note] Update
+> Now starting each session with flashcard revision unless activity demands the full hour (new algroithm implemented to to prevent flashcards consuming too much time)
 
 **2024-04-12 16:28**
 

@@ -44,11 +44,9 @@ tags: Normative-Ethics
 
 John Stuart Mill (1806-73) agreed with Bentham that the 'one fundamental principle... at the root of all morality' is the utility principle:
 
-```ad-note
-title: Utility Principle
-'Utility, or the Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness is intended plesasure and the absence of pain; by unhappiness is intended pain and the privation of pleasure'
-~ John Stuart Mill
-```
+> [!note] Utility Principle
+> 'Utility, or the Greatest Happiness Principle, holds that actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness. By happiness is intended plesasure and the absence of pain; by unhappiness is intended pain and the privation of pleasure'
+> ~ John Stuart Mill
 
 </br>
 

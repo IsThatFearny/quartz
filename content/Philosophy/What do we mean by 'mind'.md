@@ -11,24 +11,22 @@ Minds: Point of view, perspective, e.g. I can make sense of and rationalise my e
 
 Non-Minds: lacks subjectivity of experience - sense of my place in relation to the world
 
-```ad-note
-title: [[Philosophy/Glossary#Intentionality|Intentionality]]
-color: 250, 100, 200
-- What your thoughts are about/the direction or directedness of your thoughts
-- Thoughts have intentionality, i.e. they are about something
+> [!note] [[Philosophy/Glossary#Intentionality|Intentionality]]
 
-##### [[Philosophy/Glossary#Intentional Mental State|Intentional Mental State]]
-
-- A thought with intentionality, e.g. desire for chocolate
-
-##### [[Philosophy/Glossary#Intentional objects|Intentional Objects]]
-
-- What the thought is about
-
-##### [[Philosophy/Glossary#Aspectal Shape|Aspectal Shape]]
-
-- The way ('shape of') the mental state + object fit together, e.g. a desire for, rather than a dislike of, chocolate
-```
+> - What your thoughts are about/the direction or directedness of your thoughts
+> - Thoughts have intentionality, i.e. they are about something
+> 
+> ##### [[Philosophy/Glossary#Intentional Mental State|Intentional Mental State]]
+> 
+> - A thought with intentionality, e.g. desire for chocolate
+> 
+> ##### [[Philosophy/Glossary#Intentional objects|Intentional Objects]]
+> 
+> - What the thought is about
+> 
+> ##### [[Philosophy/Glossary#Aspectal Shape|Aspectal Shape]]
+> 
+> - The way ('shape of') the mental state + object fit together, e.g. a desire for, rather than a dislike of, chocolate
 
 Pain, coffee smell, chocolate
 

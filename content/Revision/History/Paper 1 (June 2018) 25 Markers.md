@@ -1,11 +1,10 @@
 # Paper 1 (June 2018) 25 Markers
 
 
-```ad-question
-color: 255, 20, 255
-‘Opposition from within the Communist Party posed a greater threat to Soviet leaders than that from opponents and cultural dissidents outside it.’
-Assess the validity of this view of the years 1941 to 1964.
-```
+> [!question]
+
+> ‘Opposition from within the Communist Party posed a greater threat to Soviet leaders than that from opponents and cultural dissidents outside it.’
+> Assess the validity of this view of the years 1941 to 1964.
 
 Both Stalin and Khrushchev faced opposition from both the general population of the Soviet Union and within the Communist party. This essay shall argue that the view that opposition from within the Communist party was a greater threat to the Soviet Leadership than external dissent is valid, largely because those within the party and close to the leadership were best placed to threaten Stalin and Khrushchev's power. This shall be concluded by evaluating how much of a threat external opposition was to each leader when contrasted with internal party opposition.
 
@@ -18,7 +17,6 @@ Outside of the party, Khrushchev was popular. He was seen as a man of the people
 In conclusion, despite the existence of opposition in most quarters, both public and within the party, the ability of the Soviet leaders to remove said opposition at well through a combination of violence and slick political manoeuvring meant that there was never any significant threat to Stalinism nor the Khrushchev regime. Despite this, there was certainly more of a threat, if any, coming from within the party than out. Thus, it may be concluded that the view that opposition from within the Communist Party posed a greater threat to Soviet leaders than that from opponents and cultural dissidents outside it is entirely valid.
 </br>
 
-```ad-question
-color: 255, 20, 255
-How significant was the emancipation of the serfs in 1861 to Russia’s economic growth in the years up to 1894?
-```
+> [!question]
+
+> How significant was the emancipation of the serfs in 1861 to Russia’s economic growth in the years up to 1894?

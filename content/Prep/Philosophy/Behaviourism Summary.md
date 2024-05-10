@@ -22,11 +22,9 @@ Hempel says that we can apply these results to psychological statements:
 </br>
 
 
-```ad-tldr
-title: TLDR - Hempel's Hard Behaviourism
-
-Hempel advocates for applying the verification principle to understand the meaning of psychological language. This is known as Hard Behaviourism. He says that the meaning of a statement is determined by the conditions of its verification. If we cannot specify these conditions, the statement is deemed meaningless. Hempel extends this idea to psychological statements, asserting that the meaning of such statements lies in their verifiable conditions, whgich can be translated into observable behaviors. In essence, discussing mental states is equivalent to discussing behavioral and physical states, exclusively using physical concepts.
-```
+> [!tldr] TLDR - Hempel's Hard Behaviourism
+> 
+> Hempel advocates for applying the verification principle to understand the meaning of psychological language. This is known as Hard Behaviourism. He says that the meaning of a statement is determined by the conditions of its verification. If we cannot specify these conditions, the statement is deemed meaningless. Hempel extends this idea to psychological statements, asserting that the meaning of such statements lies in their verifiable conditions, whgich can be translated into observable behaviors. In essence, discussing mental states is equivalent to discussing behavioral and physical states, exclusively using physical concepts.
 
 </br>
 
@@ -34,17 +32,15 @@ Hempel advocates for applying the verification principle to understand the meani
 
 Ryle argues along similar lines to Hempel, but his ‘**[[Philosophy/Glossary#soft behaviourism|soft behaviourism]]**’ has a number of differences:
 
-```ad-note
-title: Differences
-
-1) Ryle does not make his argument by appealing to the verification principle, rather he presents arguments specifically concerned with mental concepts
-
-2) He does not claim that psychological statements can be translated or reduced without loss of meaning into behavioural descriptions
-
-3) His understanding of 'behaviour' is different to Hempel's - he says that the language we use to describe behaviour is our ordinary language
-
-4) He places explicit emphasis on the idea of *dispositions* to behave
-```
+> [!note] Differences
+> 
+> 1) Ryle does not make his argument by appealing to the verification principle, rather he presents arguments specifically concerned with mental concepts
+> 
+> 2) He does not claim that psychological statements can be translated or reduced without loss of meaning into behavioural descriptions
+> 
+> 3) His understanding of 'behaviour' is different to Hempel's - he says that the language we use to describe behaviour is our ordinary language
+> 
+> 4) He places explicit emphasis on the idea of *dispositions* to behave
 
 
 </br>
@@ -55,11 +51,9 @@ Hempel’s theory is somewhat flawed: all statements about verification conditio
 
 </br>
 
-```ad-note
-title: On other minds
-
-We do not infer that other people who display certain behaviours have a mind. The link between behaviour and minds isn't based on evidence, but is instead logical/conceptual. To understand what others say and do is to understand that they have minds. Philosophical behaviourism therefore solves the problem of other minds
-```
+> [!note] On other minds
+> 
+> We do not infer that other people who display certain behaviours have a mind. The link between behaviour and minds isn't based on evidence, but is instead logical/conceptual. To understand what others say and do is to understand that they have minds. Philosophical behaviourism therefore solves the problem of other minds
 
 </br>
 
@@ -69,13 +63,11 @@ We do not infer that other people who display certain behaviours have a mind. Th
 
 Philosophical behaviourism is required respond to Descartes **Indivisibility argument** and his **Conceivability argument**:
 
-```ad-note
-title: A reminder of the Indivisbility and Conceivability arguments
-
-**Indivisibility:** The mind cannot be the body because the mind is not spatially divisible, yet the body is.
-
-**Conceivability:** We can conceive of the mind and the body existing as separate and distinct substances
-```
+> [!note] A reminder of the Indivisbility and Conceivability arguments
+> 
+> **Indivisibility:** The mind cannot be the body because the mind is not spatially divisible, yet the body is.
+> 
+> **Conceivability:** We can conceive of the mind and the body existing as separate and distinct substances
 
 Philosophical behaviourism responds to the **indivisibility argument** by claiming that ‘the mind’ is not spatially divisible because it is not a thing at all. To talk in this way is a category mistake.
 

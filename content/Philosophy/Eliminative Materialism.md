@@ -15,10 +15,8 @@ For example, we used to believe that heat was held and transferred through *calo
 
 ### Folk Psychology
 
-```ad-note
-title: Folk Psychology
-Our explanation of behaviours with reference to mental states, e.g. Mima is smiling so Mima is feeling happy
-```
+> [!note] Folk Psychology
+> Our explanation of behaviours with reference to mental states, e.g. Mima is smiling so Mima is feeling happy
 
 Paul Churchland says that folk psychology is to neuroscience, what caloric fluid is to thermodynamics - something which can be eliminated from our understanding.
 

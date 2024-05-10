@@ -98,11 +98,9 @@ To explain: we can say that asking ‘it is pleasurable, but is it pleasurable?�
 
 If we were to portray the argument differently, as below, then it becomes clear that Moore’s open question argument doesn’t work.
 
-```ad-note
-title: The failing of the naturalistic fallacy
-
-The property of 'being water' cannot be any other property in the world, such as the property of being H<sub>2</sub>0. If it was, then the question 'Is water H<sub>2</sub>0?' would not make sense - alike to asking 'is H<sub>2</sub>0 H<sub>2</sub>0?'. Thus, water is a simple, unanalysable property. This cannot be right, as water *just is* H<sub>2</sub>0.
-```
+> [!note] The failing of the naturalistic fallacy
+> 
+> The property of 'being water' cannot be any other property in the world, such as the property of being H<sub>2</sub>0. If it was, then the question 'Is water H<sub>2</sub>0?' would not make sense - alike to asking 'is H<sub>2</sub>0 H<sub>2</sub>0?'. Thus, water is a simple, unanalysable property. This cannot be right, as water *just is* H<sub>2</sub>0.
 
 This argument confuses concepts and properties. The two different concepts - ‘water’ and ‘H<sub>2</sub>0’ - can pick out the same property in the world. People knew about water long before the discovery of hydrogen and oxygen. They had this concept, but not the concept of H<sub>2</sub>0. However, the two concepts relate to the same thing in the world, and therefore water is identical to H<sub>2</sub>0. 
 
@@ -124,12 +122,10 @@ How do we discover moral properties that aren’t natural but are real? Mills sa
 
 What is an intuition?:
 
-```ad-quote
-title: Moore:
-color: 150, 75, 200
+> [!quote] Moore:
 
-“When I call such propositions [i.e. moral intuitions] intuitions, I mean merely to assert that they are incapable of proof; I imply nothing whatever as to the manner or origin of our cognition of them”
-```
+> 
+> “When I call such propositions [i.e. moral intuitions] intuitions, I mean merely to assert that they are incapable of proof; I imply nothing whatever as to the manner or origin of our cognition of them”
 
 This is a very minimal definition! But he has already said more than this - intuitions are not analytic truths. He already said they are not discovered through induction, so they must be some sort of synthetic a priori knowledge (i.e. knowledge about the way the world is without experiencing the world). As such, intuitions are self-evident propositions.
 
