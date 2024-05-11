@@ -43,7 +43,7 @@ In conclusion, despite sound responses to the objection from time-lag and illusi
 
 ### Assess Indirect Realism
 
-
+Indirect Realism is the claim that all of our perceptions are 
 
 </br>
 
