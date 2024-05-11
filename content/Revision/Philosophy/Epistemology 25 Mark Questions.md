@@ -62,6 +62,14 @@ Because, as is evident, Idealism makes no distinction between appearance and rea
 In conclusion, Idealism fails to establish the impossibility of a mind-independent external world, leaving the possibility open, and fails to sufficiently distinguish between hallucination/dreaming and reality. Such failure of claims and concepts which Idealism is wholly contingent upon forces us to conclude that Idealism is not a convincing account of perception, and it fails entirely.
 
 
+</br>
+
+## Reason as a source of knowledge
+
+### Do we have innate knowledge?
+
+Innatism is the claim that we can have a priori knowledge at birth (i.e. knowledge that is not from experience)
+
 
 ## Limits of Knowledge
 
