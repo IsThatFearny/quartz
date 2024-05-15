@@ -7,6 +7,8 @@
 
 ### JTB
 
+**Intro:** Outline Justified True Belief. Outline Gettier cases and explain why they counter
+
 </br>
 
 ### Direct Realism
