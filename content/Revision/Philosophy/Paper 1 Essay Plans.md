@@ -120,13 +120,29 @@
 
 ### Utilitarianism
 
+**Intro:** Explain Utilitarianism: Bentham and Mill. This essay shall argue that Utilitarianism fails as a moral theory overall
+
+**Paragraph 1:** Higher/lower pleasures
+point 1: objection from higher/lower pleasures
+counter: it's elitist
+
+point 2: objection from problems with calculation
+counter: secondary principles
+eval: this means it turns into rule U
+
+point 3: rule worship
 </br>
 
 ### Kantian Deontology
 
+
+
+
 </br>
 
 ### Virtue Ethics
+
+
 
 </br>
 
