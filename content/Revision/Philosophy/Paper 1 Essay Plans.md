@@ -27,17 +27,28 @@
 ### Direct Realism
 
 
-**Intro:** Explain Direct Realism - ‘what we see is what exists in the mind-independent external world’. Highly intuitive. This essay shall argue that Direct Realism cannot hold, because it fails to account for hallucination and 
+**Intro:** Explain Direct Realism - ‘what we see is what exists in the mind-independent external world’. Highly intuitive. This essay shall argue that Direct Realism cannot hold, because it fails to account for hallucination.
 
 **Paragraph 1:** Explain perceptual variation: Russell and the brown table. Direct Realism must claim that as our perspective changes, the physical object also changes, which is highly implausible.
 **Response:** Direct Realist can appeal to relational properties. Table has the property of looking a certain color/shape from a certain perspective. Direct Realism does not claim that we perceive all of the properties of the table directly - it only needs to claim that we perceive enough directly to make out the fact that what we are looking at is indeed a brown table.
 
 **Paragraph 2:** We can object from illusion: the pencil looks crooked in water, but isn’t. Direct Realism must claim that is crooked, but this is claiming something that is objectively wrong.
 **Response:** The Direct Realist can again appeal to relational properties: the pencil has the relational property of *looking* crooked in water, rather than actually being crooked
-**Response to response:** The appeal to relational properties does not work when hallucination
-</br>
 
+**Response to response (Paragraph 3):** The appeal to relational properties does not work when we object from hallucination. By its very nature, a hallucination can have no relational properties, because it is not physical. Hallucinations are indistinguishable from veridical perception, and so it is impossible to tell, under Direct Realism, whether we are hallucinating or not
+
+**Conclusion:** Direct Realism fails to account for hallucination, and thus leaves open the possibility that we could be hallucinating all of our perceptions, and therefore they cannot be trusted. Such a possibility renders Direct Realism relatively useless, and thus it cannot hold.
+</br>
+ 
 ### Indirect Realism
+
+**Intro:** Explain Indirect Realism. Clarify sense-data. This essay will argue that Indirect Realism holds, because it does not lead to scepticism and can account for hallucination and perceptual variation.
+
+**Paragraph 1:** Perceptual variation and primary and secondary qualities. Primary are those which do not change, secondary are those which do change depending on circumstances. Perceptual experiences of primary qualities  resemble physical objects, and secondary qualities are the result of the primary qualities of an object’s ‘imperceptible parts’. We experience secondary qualities, and don’t perceive objects directly.
+**Response:** This leads to scepticism. veil of perception - the only access to physical objects that we have is through sense-data, but because this sense-data is not an exact replica of the external world, we cannot *know* physical objects, or even if they exist.
+**Response to response:** Russell claims that the existence of the external world is the best hypothesis. Either physical objects exist and cause my sense-data, or they do not exist and thus do not cause my sense-data. Both claims are hypotheses. The former is more plausible and therefore better. Therefore, the external world exists and is the cause of my perceptions, e.g. cat example. Also involuntary nature of our perception
+
+**Paragraph 2:** Berkeley: mind-dependent ideas cannot be like mind-independent objects
 
 </br>
 
