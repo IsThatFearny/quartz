@@ -122,14 +122,16 @@
 
 **Intro:** Explain Utilitarianism: Bentham and Mill. This essay shall argue that Utilitarianism fails as a moral theory overall
 
-**Paragraph 1:** Higher/lower pleasures, test of competent judges, etc.
-**Response:** the higher and lower pleasure distinction
+**Paragraph 1:** Ignores other valuable motivations. Pleasure is the sole motivator, and Utilitarianism does not take into account other motivations such as partial relationships. Therefore it does not seem compatible with our understanding of morality
+**Response:** The utilitarian might reply that morality does require us to be impartial, and therefore the theory is simply more demanding than we would like to think. We can also make the response that people have learned that having partial relationships is central to happiness, and therefore removing this partiality would decrease the overall happiness.
+**Response to response:** Mill is giving up on act utilitarianism, because he is appealing to general rules about living, and weighing up these rules - this turns into Rule Utilitarianism
 
-point 2: objection from problems with calculation
-counter: secondary principles
-eval: this means it turns into rule U
+**Paragraph 2:** Problems with calculation. The felicific calculus is difficult to use for calculation, and it is often very difficult to calculate for yourself, let alone for other people.
+**Response:** Calculus should only be used as a guideline - need to not be strictly followed, only ‘kept in view’
+**Response to response:** Mill thinks that this is still too demanding, as happiness remains too complex to use in calculations. Mill, however, argues that we do not need to calculate, as we have an inherited morality. These are secondary principles… (i.e. rules)
+**Response to response to response:** This is Rule Utilitarianism, and Mill has given up on Act Utilitarianism
 
-point 3: rule worship
+**Paragraph 3:** Eval of RU. RU fails to understand partiality still - it permits it insofar as it contributes to happiness, but partiality is only good because it contributes to the general happiness, and is not considered valuable in itself; also faces the objection that morality cannot be summed up by rules, as life is too complicated for this - RU answers that one of the rules is ‘when no rules apply, do that action which maximises happiness’
 </br>
 
 ### Kantian Deontology
@@ -197,3 +199,6 @@ point 3: rule worship
 
 ### Moral anti-realism
 
+**Intro:** Will argue that moral anti-realism is unsuccessful in all forms
+
+**Outline:** Emotivism (Ayer and VP), prescriptivism
