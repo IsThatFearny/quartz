@@ -135,8 +135,19 @@ point 3: rule worship
 
 ### Kantian Deontology
 
+**Intro:** Explain Kantian deontology including categorical imperative and good will. This essay shall argue that Deontology does not hold.
 
+**Paragraph 1:** Morally wrong universalisable maxims, e.g. to steal only from market stalls selling novelty umbrellas on a Wednesday, can be formulated
+**Response:** Deontology is only concerned with my *actual* maxim, not some made up one. We must be honest about our maxims and the intentions behind them
+**Response to response:** There are counter-objections which meet these criteria, e.g. borrowing money on the promise to repay it, but with no intention of doing so, as a way of getting money to buy food and shelter. Specific enough to be universalised, and honest. If we think that this is wrong, then the categorical imperative fails to give us the right answer
 
+**Paragraph 2:** Conflicts between duties. Should I break a promise or tell a lie? Kantian deontology seemingly provides no way of resolving this conflict
+**Response:** A real conflict of duties can never occur. If duties are absolute, then we must formulate our duties very carefully to avoid conflict. There will always be some maxim which we can act on which will be universalisable.
+**Response to response:** It is more realistic to say that most duties are not absolute. Less important duties can give way to more important ones. This is at odds with Kant’s entire theory.
+
+**Paragraph 3:** Consequences of actions determine their moral value. If it is my duty not to murder then this must mean that there is something *bad* about murder, and so we should prevent murder to the greatest extent possible. If killing someone (and thus breaking our duty) prevents further deaths, why should we not kill? I seemingly have a duty to do so
+**Response:** Kant would argue that there are no ends that are good without qualification, not even happiness, and so this cannot be the right analysis of the good will.
+**Response to response:** 
 
 </br>
 
