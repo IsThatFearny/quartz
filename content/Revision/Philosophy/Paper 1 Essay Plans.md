@@ -26,6 +26,15 @@
 
 ### Direct Realism
 
+
+**Intro:** Explain Direct Realism - ‘what we see is what exists in the mind-independent external world’. Highly intuitive. This essay shall argue that Direct Realism cannot hold, because it fails to account for hallucination and 
+
+**Paragraph 1:** Explain perceptual variation: Russell and the brown table. Direct Realism must claim that as our perspective changes, the physical object also changes, which is highly implausible.
+**Response:** Direct Realist can appeal to relational properties. Table has the property of looking a certain color/shape from a certain perspective. Direct Realism does not claim that we perceive all of the properties of the table directly - it only needs to claim that we perceive enough directly to make out the fact that what we are looking at is indeed a brown table.
+
+**Paragraph 2:** We can object from illusion: the pencil looks crooked in water, but isn’t. Direct Realism must claim that is crooked, but this is claiming something that is objectively wrong.
+**Response:** The Direct Realist can again appeal to relational properties: the pencil has the relational property of *looking* crooked in water, rather than actually being crooked
+**Response to response:** The appeal to relational properties does not work when hallucination
 </br>
 
 ### Indirect Realism
