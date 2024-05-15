@@ -86,7 +86,12 @@
 **Responses:** 1) Causation: Descartes’ proof of the external world relies on knowledge of causation. However, causation requires experience. Hume would argue that there is no logical contradiction in the idea of a perception that has no cause and so we cannot know a priori that our perceptions are caused by something external. Relying on a posteriori knowledge causes Descartes argument to fail to prove rationalism; 2) Relies on Descartes’ arguments for God.
 
 **Paragraph 2:** Descartes Trademark argument: I have the concept of God as something infinite and perfect. I am a finite and imperfect being. The cause of an effect must have at least as much reality as the effect. Thus, the cause of my idea of God must be an infinite and perfect being. ∴ God exists.
+**Responses:** 1) Causation requires experience. ‘Everything has a cause’ can be denied without contradiction. Applying Hume’s fork, the statement is a matter of fact rather than a relation of ideas, and matters of fact are not a priori; 2) The concept of God comes from experience. Hume argues that we can create the concept of God by taking the finite and imperfect ideas that we gain from experience and extending these ‘beyond all limits’. The concept of infinity is merely a negation of being finite.
 
+**Paragraph 3:** Cogito. ‘I think therefore I am’. If the evil demon is deceiving descartes, then there must be something to deceive in the first place. Thus, Descartes can be certain of his existence. Not only this, but the statement ‘I think therefore I am’ is a clear and distinct idea (we can know it through rational intuition), and therefore can be trusted as true
+**Response:** Hume argues that we experience a constantly changing array of perceptions, but never a self. There is no evidence of a constant *thing* that can think. The evil demon could be creating disembodied false thoughts that ‘I exist’. There is no logical contradiction in this.
+
+**Conclusion:** Descartes fails to prove that we can there are synthetic a priori truths, and thus fails to establish rationalism
 </br>
 
 ### Global Scepticism
