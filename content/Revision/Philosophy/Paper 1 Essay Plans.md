@@ -7,7 +7,20 @@
 
 ### JTB
 
-**Intro:** Outline Justified True Belief. Outline Gettier cases and explain why they counter
+**Intro:** Outline Justified True Belief. Outline Gettier cases and explain why they counter JTB. Will conclude that Virtue Epistemology is best
+
+**Paragraph 1:** Explain No False Lemmas (Truth + Belief + Belief does not arise from a false lemma). Overcomes gettier cases because Smith’s belief arises from a false lemma: that ‘Jones will get the job’. Strengthens justification.
+**Response:** We can construct counter-examples, e.g. dr jones and the virus. Jones’ belief is true and it did not arise from a false lemma, but we would still want to deny her knowledge. Just one counter-example is enough to cause us to look for another theory.
+
+**Paragraph 2:** Explain Infallibilism, including argument for it: no one can know what is false; ∴ if I know that P, I cannot be mistaken about P; ∴ for justification to secure knowledge, justification must guarantee truth; ∴ if I am justified in believing that P, I cannot possibly be mistaken; ∴ if it is possible that I am mistaken then I cannot be justified in believing that P. Therefore infallibalism is true. Overcomes gettier cases because it strengthens the third condition to the point that, because Smith is not entirely certain about his belief, he does not have knowledge.
+**Responses:** 1) It is rare that we have full certainty in the justification for our belief, and therefore infallibilism entails that we have little to no knowledge; 2) the argument for infallibilism commits the fallacy of equivocation, equivocating the statements ‘I am not’ and ‘I cannot be’.
+
+**Intermediary paragraph:** Zagzebski correctly argues that the reason the previous two have failed is because they have merely strengthened the third condition, but gettier cases take advantage of the ‘truth gap’ between truth and the third condition. Thus, a correct definition of knowledge is one that bridges said truth cap. Cue VE
+
+**Paragraph 3:** Explain Zagzebski’s definition of of VE (true, believed, and arises from an intellectual virtue). Clarify intellectual virtues. Explain how it bridges truth gap and thus prevents gettier cases. Explain Sosa’s ‘Triple A’ definition of knowledge and how *that* bridges the truth gap.
+**Responses:** Seems to rule out children and animals from having knowledge - they seem incapable of possessing intellectual virtues, but can possess knowledge. However, if we define virtue broadly enough, to include automatic actions such as looking or remembering; Henry in fake barn county - analysis is too vague, we need to know more about what it is for a belief to be true because it arises from acts of intellectual virtue - this does not necessarily rule VE out, and it is certainly better than infallibilism and NFL.
+
+**Conclusion:** VE is the best definition of knowledge, as it overcomes the truth gap and thus gettier cases as well. Despite criticism that it is vague, it is still better than Infallibilism and NFL, and this vagueness does not entirely knock the theory down
 
 </br>
 
