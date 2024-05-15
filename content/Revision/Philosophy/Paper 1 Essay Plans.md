@@ -54,9 +54,20 @@
 **Response:** Indirect Realists argue that sense-data represent physical objects, even if it does not resemble physical objects. The pattern of causal relations between the external world and our sense-data is very detailed and systematic, and we can explain representation in terms of this complex causation.
 **Response to response:** Causes and effects can be very different, and if we understand representation just in terms of detailed and systematic causal relation, then it seems we still won’t know what mind-independent objects are like in themselves.
 
+**Conclusion:** Indirect Realism holds, as it can overcome scepticism, and account for hallucination and perceptual variation
+
 </br>
 
 ### Idealism
+
+**Intro:** Explain Idealism. This essay shall argue that Idealism…
+
+**Paragraph 1:** Brief explanation of how Berkeley concludes that Idealism is the correct theory of knowledge. Specifically master argument. We can conceive of a tree that exists unperceived. Berkeley argues that our conception of said tree means that is impossible for such a tree to exist. We can think of the idea of a tree, but not of one that exists independently of the mind
+**Response:** Berkeley has confused the thought of a tree with the subject of the thought: thoughts cannot exist outside of the mind, and therefore my thinking of a tree is not mind-independent. However, what a thought is about is not the same thing as the thought itself. ∴ just because my thinking of a tree is mind-dependent, it does not follow that what i am thinking of is also mind dependent. The master argument does not show that it is impossible to conceive of a tree that may exist when no one is thinking of it.
+
+**Paragraph 2:** Berkeley and God: There are three causes of our perceptions - ideas, my mind, or another mind. Ideas cannot cause anything, because they are passive. My perceptions cannot depend on my mind, because if they did I would be able to control them; Perception is passive. The ideas that comprise physical objects must exist in another mind, which then wills that I perceive them. Given the complexity and systemacity of our perceptions, that mind must be God.
+**Responses:** My perceptions and sensations are part of my mind, not God’s. God cannot have the same sort of perceptual experiences as me, because He does not perceive as I do. The ordinary objects of my perception change and go out of existence, but God’s mind is unchanging and eternal. Thus, what I perceive cannot be part of God’s mind
+**Response to response:** 1) What I perceive ios a copy of the idea in God’s mind
 
 </br>
 
