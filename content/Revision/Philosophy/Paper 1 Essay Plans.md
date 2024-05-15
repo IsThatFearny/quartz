@@ -72,7 +72,7 @@
 **Response to Response:** Unsuccessful, as the account is unclear and lacks definition. Innate knowledge is defined as a ‘disposition’, ‘potential knowledge’, and ‘foundational knowledge’. If we are unable to define Innate knowledge, then it seems absurd to adopt this account
 
 **Paragraph 3:** Locke is still able to weaken the innatist claim by arguing that there are no innate concepts: 1) babies are born with no concepts aside from those experienced in the womb; 2) the concept of God is not innate; 3) for a concept to be unconscious it must be lodged in the memory. Idea of innate concepts is highly implausible
-**Response:** 1) babies are born with the disposition to form concept but need experience to build on these; 2) a matter of language - everybody has the innate concept of a higher being; 3) innate concept are neither new nor lodged in the memory, but are dispositions that we may not be conscious of
+**Response:** 1) babies are born with the disposition to form concepts but need experience to build on these; 2) a matter of language - everybody has the innate concept of a higher being; 3) innate concept are neither new nor lodged in the memory, but are dispositions that we may not be conscious of
 **Response to response:** Overcomplicates our understanding of how we gain knowledge. According to Ockham’s razor, the empiricist claim proves simpler and more plausible. Locke’s *tabula rasa* theory also proves simpler. Locke’s account is simpler overall.
 
 **Conclusion:** Few good reasons to stick with the innatist claim, as empiricism is more simpler and thus more plausible.
@@ -80,7 +80,12 @@
 
 ### Rationalism vs Empiricism
 
+**Intro:** Define rationalism, define empiricism. Descartes attempts to prove that rationalism is true by arguing for our knowledge of three synthetic truths - ‘I exist’, ‘God exists’, and ‘the external world exists’ - through a priori rational intuition and deduction. Brief explanation of three waves of doubt This essay shall argue that he fails to prove rationalism
 
+**Paragraph 1:** Descartes’ argument for the existence of the external world. I have perceptions of an external world. My perceptions are involuntary and so cannot be caused by my own mind. The cause of my perceptions must be something external to my mind. God exists. If the cause of my perceptions is God, then God has created me with a tendency to form false beliefs. God is a perfect being by definition and would not do this, meaning that I can trust my perceptions, and I can know that an external world exists.
+**Responses:** 1) Causation: Descartes’ proof of the external world relies on knowledge of causation. However, causation requires experience. Hume would argue that there is no logical contradiction in the idea of a perception that has no cause and so we cannot know a priori that our perceptions are caused by something external. Relying on a posteriori knowledge causes Descartes argument to fail to prove rationalism; 2) Relies on Descartes’ arguments for God.
+
+**Paragraph 2:** Descartes Trademark argument: I have the concept of God as something infinite and perfect. I am a finite and imperfect being. The cause of an effect must have at least as much reality as the effect. Thus, the cause of my idea of God must be an infinite and perfect being. ∴ God exists.
 
 </br>
 
