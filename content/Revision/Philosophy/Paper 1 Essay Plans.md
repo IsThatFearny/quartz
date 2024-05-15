@@ -146,8 +146,10 @@ point 3: rule worship
 **Response to response:** It is more realistic to say that most duties are not absolute. Less important duties can give way to more important ones. This is at odds with Kant’s entire theory.
 
 **Paragraph 3:** Consequences of actions determine their moral value. If it is my duty not to murder then this must mean that there is something *bad* about murder, and so we should prevent murder to the greatest extent possible. If killing someone (and thus breaking our duty) prevents further deaths, why should we not kill? I seemingly have a duty to do so
-**Response:** Kant would argue that there are no ends that are good without qualification, not even happiness, and so this cannot be the right analysis of the good will.
-**Response to response:** 
+**Response:** Kant would argue that there are no ends that are good without qualification, not even happiness, and so this cannot be the right analysis of the good will. Kant disagrees with means-end reasoning, arguing that morality becomes a system of hypothetical imperatives.
+**Response to response:** Foot - morality *is* a system of hypothetical imperatives. There is nothing irrational about disobeying the categorical imperative if you never accepted it in the first place, and treated your duties as hypothetical, i.e. *if* statements
+
+**Conclusion:** Kantian deontology fails because it cannot resolve conflicts between duties, nor can the categorical imperative account for honest, universalisable, but still morally wrong maxims
 
 </br>
 
@@ -158,6 +160,39 @@ point 3: rule worship
 </br>
 
 ### Moral realism
+
+**Intro:**
+- Outline moral realism - include naturalism vs non-naturalism; outline cognitivism (The claim that that moral statements are beliefs, and therefore have truth value)
+- In this essay I shall argue that objective moral properties exist (for moral realism)
+
+**Paragraph 1:**
+- Hume’s fork
+	- The claim that we can have knowledge of just two sorts of claim: relations of ideas or matters of fact
+	- Relations of ideas and matters of fact are the only two types of judgement of reason
+	- Moral judgements are neither relations of ideas (moral claims are not conceptual truths, it is possible to deny them without contradiction) nor matters of fact (We cannot find the property of moral wrongness through empirical investigation) and therefore moral judgements are not judgements of reason
+	- This causes an issue for cognitivism, because according to Hume’s fork we can have no knowledge of moral judgements. This is because, Hume argues, moral judgements are neither true or false, but are non-cognitivist
+**Response:**
+- Moore
+	- Moore denies Hume’s fork - moral intuitions are not relations of ideas in this sense because they are not analytical truths, instead they are synthetic propositions that are self-evident and so are not established the way that other, empirical matters of facts are.
+- Mill (The reductive naturalist)
+	- Mill’s proof of Utilitarianism gives us reasons to accept the empirical evidence of what people want as evidence for what is good
+
+**Paragraph 2:**
+- Verification principle
+	- The verification principle states that a statement is meaningful only when it is either analytic or empirically verifiable
+	- Ayer applies this principle to ethical language. Judgements such as ]‘murder is wrong’ are not analytically true, but empirical investigation cannot show them to be true or false either. Saying that $x$ is wrong cannot mean that $x$ would cause unhappiness, as Moore states. Ayer therefore agrees that ethical naturalism is wrong, because we cannot show that murder is wrong, due to lack of empirical evidence
+**Response:**
+- Verification undermines itself
+	- The verification principle undermines itself, because the principle itself is not analytic and cannot be verified empirically. Therefore, the principle is meaningless, and what it claims cannot be true. Thus, there is no reason to believe that ethical is meaningless.
+	- Despite Ayer’s response that the principle is a definition rather than an empirical hypothesis, we can argue that it is only as convincing as the arguments that try to show that it is the right definition of ‘meaningful’, and if we do not find this convincing, we can argue that the principle provides no independent support
+
+**Paragraph 3:**
+- Mackie’s argument from relativity
+	- Relativity: Mackie observes that moral codes differ from one society to another. We may call this claim ‘descriptive relativism’.
+	- Mackie says that this means that there are no objective moral truths. The realist must argue that these different societies are all trying to reach the truth about ethics. The moral relativist (Mackie) disagrees, arguing that this is implausible and we should understand the morality of a society as a reflection of its way of life.
+**Response:**
+- Chile plant example
+	- Moral judgements that are relative are not objective - for example, ‘chilli plants grow well’ is a relative truth - it is true in one country but not another. We can turn this statement into a universal truth by stating the conditions that apply, e.g. ‘chilli plants grow well in hot countries’. This can be applied to moral judgements - some ethical practises will be permissible in some circumstances but not others. Someone’s intuition is objectively true if it is true in the conditions in which they live. Therefore, Moral Realism holds.
 
 </br>
 
