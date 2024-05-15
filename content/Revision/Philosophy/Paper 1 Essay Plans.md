@@ -60,14 +60,21 @@
 
 ### Idealism
 
-**Intro:** Explain Idealism. This essay shall argue that Idealism…
+**Intro:** Explain Idealism. This essay shall argue that Idealism is a plausible theory of perception
 
 **Paragraph 1:** Brief explanation of how Berkeley concludes that Idealism is the correct theory of knowledge. Specifically master argument. We can conceive of a tree that exists unperceived. Berkeley argues that our conception of said tree means that is impossible for such a tree to exist. We can think of the idea of a tree, but not of one that exists independently of the mind
 **Response:** Berkeley has confused the thought of a tree with the subject of the thought: thoughts cannot exist outside of the mind, and therefore my thinking of a tree is not mind-independent. However, what a thought is about is not the same thing as the thought itself. ∴ just because my thinking of a tree is mind-dependent, it does not follow that what i am thinking of is also mind dependent. The master argument does not show that it is impossible to conceive of a tree that may exist when no one is thinking of it.
 
 **Paragraph 2:** Berkeley and God: There are three causes of our perceptions - ideas, my mind, or another mind. Ideas cannot cause anything, because they are passive. My perceptions cannot depend on my mind, because if they did I would be able to control them; Perception is passive. The ideas that comprise physical objects must exist in another mind, which then wills that I perceive them. Given the complexity and systemacity of our perceptions, that mind must be God.
 **Responses:** My perceptions and sensations are part of my mind, not God’s. God cannot have the same sort of perceptual experiences as me, because He does not perceive as I do. The ordinary objects of my perception change and go out of existence, but God’s mind is unchanging and eternal. Thus, what I perceive cannot be part of God’s mind
-**Response to response:** 1) What I perceive ios a copy of the idea in God’s mind
+**Response to response:** 1) What I perceive is a copy of the idea in God’s mind; 2) The ideas of physical objects exist in God’s mind as part of God’s understanding. The same is true of sensations; 3) What I perceive, which changes, is what God wills me to perceive. The whole of creation exists in God’s understanding eternally.
+
+**Paragraph 3:** Hallucination. Idealism does not distinguish between appearance and reality, and so would have to claim that hallucinations are the same as reality.
+**Responses:** Hallucinations are ‘dim, irregular, and confused’, and are not coherently connected with the rest of our perceptions.
+**Response to response:** These criteria mark a difference of degree - perceptual experiences can be more or less clear or dim, more or less coherently connected. But the difference between hallucination and perception is a difference in kind. Perception is the experience of something outside your mind, hallucination, of something within.
+**Response to the response to the response:** Berkeley could agree with this, because the ideas that we perceive originate in God, but in hallucination they do not. His criteria are only supposed to indicate *how we can tell*.
+
+**Conclusion:** Berkeley’s empiricism holds
 
 </br>
 
