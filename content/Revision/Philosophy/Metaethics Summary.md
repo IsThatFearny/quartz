@@ -45,5 +45,15 @@
 
 ### Error theory
 
+When we make moral judgements we express cognitive (true or false) beliefs about the world, but all of these judgements are false because moral properties do not exist
+
 - **Arguments for cognitivism:** Moral philosophy tends to assume objective moral values (e.g. Kant). Our ordinary language too assumes cognitivism. We do not ask how we *feel* about a moral dilemma, but about whether an action is *wrong* in itself.
 - **Arguments for Error theory:** Relativity, queerness
+
+**Objections:**
+
+- **Naturalism**
+- **Intuitionism**
+- **Non-cognitivism:** Emotivism and Prescriptivism
+- **Moral nihilism:** If moral anti-realism is 
+- **Moral Progress**
