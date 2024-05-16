@@ -169,7 +169,9 @@
 **Paragraph 3:** Circularity. A virtuous act can only be defined in terms of what a virtuous person would do; a virtuous person can only be defined in terms of virtuous acts. This explains nothing.
 **Response:** This is the wrong interpretation of Aristotle’s definitions. We have the correct definition of a virtuous act; however, a virtuous person is not simply someone who does good acts, but has virtues that enable them to achieve eudaimonia. States of character (virtues) relate to our choices and actions, but equally relate to our passions and pleasures. Eudaimonia is defined in terms of activities of the soul, such as thinking and choosing, and so the definition is not circular.
 **Response to response:** We cannot tell whether an act is virtuous without seeing a virtuous person do it, nor can we tell whether a person is virtuous without seeing them perform a virtuous act.
-**Response to response to response:** We have a good idea of what a virtuous person would do without having to name particular individuals. Further, 
+**Response to response to response:** We have a good idea of what a virtuous person would do without having to name particular individuals. Further, virtue is also expressed in emotional response and pleasure, as well as the quality of someone’s thinking. There is no circularity in this. Annas argues that VE wants us to think of what the virtuous action is in a certain situation in terms of what we would do if we were more virtuous. From the first person rather than the third.
+
+**Conclusion:** Virtue Ethics overcomes all objections and thus is an accurate account of morality
 </br>
 
 ### Moral realism
