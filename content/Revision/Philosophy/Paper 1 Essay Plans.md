@@ -156,8 +156,20 @@
 
 ### Virtue Ethics
 
+**Intro:** Arguing that Virtue Ethics is an accurate account of morality. Explain doctrine of the mean, virtue, eudaimonia, etc.
 
+**Paragraph 1:** Doctrine of the mean gives no clear guidance. We do not know when anger is too much anger. It gives us no guidance in a moral dilemma. No quantity on a scale
+**Response:** Virtue Ethics + doctrine of the mean not intended as a set of rules. We must have practical wisdom to determine what to do in a given situation
+**Response to response:** Does practical wisdom guide us on how to act? It seems that to acquire practical wisdom, we must do what the virtuous person would do. But we cannot know what the virtuous person would do if we do not have practical wisdom. This means that eudaimonia is not in reach for everyone - VE is restrictive.
+**Response to response to response:** Aristotle argues that most people have enough of an understanding of the good to make moral decisions. People can also improve their knowledge of what is good by becoming more virtuous. Annas argues that VE assumes that each of us already has a life before we start making moral decisions. Thus, we already have some moral knowledge from our upbringing; and we are each at a different stage in ethical development and have different aims and ideals in life. Therefore there cannot be one universal specification of the ‘right’ action. The objection is thinking too much in terms of rules
 
+**Paragraph 2:** Conflicts between virtues. E.g. between justice and mercy.
+**Response:** Aristotle denies that such conflicts take place. You need to have practical wisdom to understand what each virtue actually requires you to do. If we think that justice requires mercilessness, or that mercy requires injustice, then we have misunderstood the virtues. Virtues do not make demands of their own accord, but instead provide us with paths towards eudaimonia
+
+**Paragraph 3:** Circularity. A virtuous act can only be defined in terms of what a virtuous person would do; a virtuous person can only be defined in terms of virtuous acts. This explains nothing.
+**Response:** This is the wrong interpretation of Aristotle’s definitions. We have the correct definition of a virtuous act; however, a virtuous person is not simply someone who does good acts, but has virtues that enable them to achieve eudaimonia. States of character (virtues) relate to our choices and actions, but equally relate to our passions and pleasures. Eudaimonia is defined in terms of activities of the soul, such as thinking and choosing, and so the definition is not circular.
+**Response to response:** We cannot tell whether an act is virtuous without seeing a virtuous person do it, nor can we tell whether a person is virtuous without seeing them perform a virtuous act.
+**Response to response to response:** We have a good idea of what a virtuous person would do without having to name particular individuals. Further, 
 </br>
 
 ### Moral realism
@@ -201,4 +213,18 @@
 
 **Intro:** Will argue that moral anti-realism is unsuccessful in all forms
 
-**Outline:** Emotivism (Ayer and VP), prescriptivism
+**Outline:** Emotivism (Ayer and VP), prescriptivism; Error theory
+
+**Paragraph 1:** Moral nihilism. If moral judgements are our own invention then we have no reason to be moral
+**Response:** To live without moral values is itself a moral choice. Any reasoning more imposing one’s own views is petty
+**Evaluation:** Moral anti-realism is able to hold up as it demonstrates how we are still obligated to morality even when subjective
+
+**Paragraph 2:** Moral reasoning is merely a form of emotional manipulation
+**Response:** Ayer - there should be no disagreement if there is no truth/falsehood, and deliberation is useless. Prescriptivism tries to save this –> don’t steal as it will make your life difficult
+**Evaluation:** Both emotivism and prescriptivism are weakened, as it seems impossible to argue anything beyond personal desires
+
+**Paragraph 3:** Moral progress - moral realism can explain this, anti-realism cannot
+**Response:** More aware of facts, more consistent, more coherent
+**Evaluation:** Reduces anti-realism to moral relativism (can be argued bad by response to Mackie)
+
+**Conclusion:** Three core Anti-realist theories all fail, making it unlikely that moral anti-realism can be saved
