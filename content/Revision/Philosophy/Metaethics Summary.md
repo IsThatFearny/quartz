@@ -33,4 +33,17 @@
 ### Arguments against Moral Realism
 
 - **Relativity:** Variations in cultural and temporal moral values. if moral realism is correct then there is only one objectively correct morality. Why is there disagreement on these issues? All cultures eventually arrive at 1 + 1 = 2, but this convergence does not occur with moral belief. Either one culture has discovered objective morality whilst the other hasn’t; or each culture has developed their own moral standards. The latter is more plausible.
-- **Verification principle:** Moral judgements fail the VP. We can empirically verify that murder causes pain, but not that it is wrong. Nor is ‘murder is wrong’ anm 
+- **Verification principle:** Moral judgements fail the VP. We can empirically verify that murder causes pain, but not that it is wrong. Nor is ‘murder is wrong’ an analytic truth
+- **Hume against cognitivism:**
+- **Is/ought gap:**
+
+</br>
+
+## Moral anti-realism
+
+</br>
+
+### Error theory
+
+- **Arguments for cognitivism:** Moral philosophy tends to assume objective moral values (e.g. Kant). Our ordinary language too assumes cognitivism. We do not ask how we *feel* about a moral dilemma, but about whether an action is *wrong* in itself.
+- **Arguments for Error theory:** Relativity, queerness
