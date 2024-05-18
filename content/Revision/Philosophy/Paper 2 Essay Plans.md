@@ -61,10 +61,12 @@
 **Responses:** In response to (1) and (2), Swinburne invokes Ockham’s razor, to not unnecessarily multiply entities when one will do. In reply to (3), the objection only works if we are thinking in terms of spatial order. Temporal order requires that the agent is acting at that time. But God acts wherever the laws of nature hold, and so he must continue to exist. In reply to (4), it is better to say that God has no body, as this is a better explanation of how he can act everywhere in space simultaneously
 **Response to response:** Paley has to accept (5) and (6) - if the designer is God, then many of His traditional qualities will need to be established by some other argument (e.g. problem of evil), and no such argument succeeds. Thus, the designer cannot be concluded to be God.
 
-**Conclusion:** No design argument succeeds, and even if one did, we could not guarantee that the creator is God.
+**Conclusion:** Neither the design argument from analogy or Paley’s argument succeeds, and even if one did, we could not guarantee that the creator is God.
 </br>
 
 ### Cosmological arguments
+
+**Intro:** 
 
 </br>
 
