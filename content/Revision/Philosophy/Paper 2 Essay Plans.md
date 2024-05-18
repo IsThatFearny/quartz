@@ -68,9 +68,9 @@
 
 **Intro:** The cosmological argument fails
 
-**Paragraph 1:** Kalam argument. There cannot be an infinite series of temporal phenomena, so the universe must have a beginning, so it must have a cause.
+**Paragraph 1:** Kalam argument. The universe is composed of temporal phenomena. An infinite regress of temporal phenomena is impossible. Therefore, the universe must have a beginning. Everything that begins to exist has a cause of its existence; therefore there is a cause of the existence of the universe.
 
-**Reply:** Possibility of an infinite series of temporal phenomena across multiple universes (as time is relative to universe)
+**Reply:**  
 
 **Paragraph 2:** Aquinas' First/Second Way
 **Reply:** Hume's fork: challenging the causal principle. It isn't analytic so it must be a matter of fact, known by experience, but we cannot know universal claims experientially so we cannot know causal principle applies universally. CRUCIALLY, the causal principle is something we created to describe the workings of events within the universe, 
