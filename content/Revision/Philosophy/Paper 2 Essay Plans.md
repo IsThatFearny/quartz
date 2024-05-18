@@ -66,7 +66,22 @@
 
 ### Cosmological arguments
 
-**Intro:** 
+**Intro:** The cosmological argument fails
+
+**Paragraph 1:** Kalam argument. There cannot be an infinite series of temporal phenomena, so the universe must have a beginning, so it must have a cause.
+
+**Reply:** Possibility of an infinite series of temporal phenomena across multiple universes (as time is relative to universe)
+
+**Paragraph 2:** Aquinas' First/Second Way
+**Reply:** Hume's fork: challenging the causal principle. It isn't analytic so it must be a matter of fact, known by experience, but we cannot know universal claims experientially so we cannot know causal principle applies universally. CRUCIALLY, the causal principle is something we created to describe the workings of events within the universe, 
+
+**Paragraph 3:** Aquinas' Third Way / Leibniz's Argument from Contingency
+
+[Could reply by challenging the causal principle (3rd Way) or the sufficient reason principle (Leibniz) using Hume's fork]
+
+[Can add intermediary debate about Russell's objection that the argument from contingency commits the fallacy of composition?]
+
+Reply: The "necessary being/substance" is mass-energy, which has necessary existence (Is **metaphysically** necessary) and thus is the supplier of sufficient reasons for contingent truths about the universe, not God (against Leibniz) and the necessary being that must exist in Aquinas' universe.
 
 </br>
 
