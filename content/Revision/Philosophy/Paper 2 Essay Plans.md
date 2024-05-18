@@ -70,7 +70,7 @@
 
 **Paragraph 1:** Kalam argument. The universe is composed of temporal phenomena. An infinite regress of temporal phenomena is impossible. Therefore, the universe must have a beginning. Everything that begins to exist has a cause of its existence; therefore there is a cause of the existence of the universe.
 
-**Reply:**  
+**Reply:** 
 
 **Paragraph 2:** Aquinas' First/Second Way
 **Reply:** Hume's fork: challenging the causal principle. It isn't analytic so it must be a matter of fact, known by experience, but we cannot know universal claims experientially so we cannot know causal principle applies universally. CRUCIALLY, the causal principle is something we created to describe the workings of events within the universe, 
