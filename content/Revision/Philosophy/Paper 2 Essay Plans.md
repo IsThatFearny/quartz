@@ -49,8 +49,15 @@
 
 ### Teleological/Design Arguments
 
+**Intro:** All teleological arguments fail, and even if they were to succeed, they fail to show that the designer is God.
 
+**Paragraph 1:** Hume’s argument from analogy. In the organisation of parts for a purpose, nature resembles the products of human design. Similar effects have similar causes; thus, if the cause of the products of human design is an intelligent design, the cause of nature is an intelligent mind that intended the design.
+**Response:** We cannot defend the inference from an effect that this argument makes, because it is at odds with our understanding of causation. The origin of the universe is unique. To make any inference about the cause of the universe, we therefore would need experience of the origins of many works, but we do not have this kind of experience. Therefore, we cannot know what caused the universe. Further, the inference of a designer is ‘useless’, because all we have to go on is our experience of nature - we cannot find out enough about designers or other worlds to draw any useful conclusions about nature or the designer.
 
+**Paragraph 2:** Paley. Anything that has parts organised to serve a purpose is designed. Nature contains such things. Design can only be explained in terms of a designer, and said designer must have a mind and be distinct from what is designed (a mind is required to interpret purpose). Therefore, nature was designed by such a designer, and such a mind (‘God’) exists. Note that Paley can escape Hume’s prior objections because he does not offer an argument from analogy, and thus no ‘cause-effect’ reasoning - the design of the watch supports the inference of a designer.
+**Response:** Natural selection is a better explanation, because it is simpler - we are not inferring some extra thing (a designer) but instead appealing only to what we know already
+
+**Paragraph 3:** Is the designer God? Multiple arguments to question this. 
 </br>
 
 ### Cosmological arguments
