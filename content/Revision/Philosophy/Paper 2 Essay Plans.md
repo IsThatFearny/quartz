@@ -29,7 +29,12 @@
 
 ### Ontological Arguments
 
-**Intro:**
+**Intro:** Ontological arguments do not prove that God exists. Define ontological argument
+
+**Paragraph 1:** Anselm’s ontological argument. By definition, God is a being greater than which cannot be conceived. We can coherently conceive of such a being. It is greater to exist in reality than in the mind (it is inconceivable that the greatest conceivable being does not exist). Therefore God must exist.
+**Response:** Gaunilo’s perfect island. We can conceive of an island that is greater than any other island, and therefore, according to Anselm’s argument, such an island must exist. This is a ridiculous claim. 
+**Response to response:** The ontological argument works *only* for God, and so the objection does not hold. Anselm argues that there is something incoherent in thinking ‘the greatest conceivable being does not exist’. By contrast, thinking ‘the greatest conceivable island doesn’t exist’ is coherent. God *must* be the greatest conceivable being, as his being the greatest is necessary to Him being God. Thus, God must exist to be the greatest conceivable being, because it is greater to exist in reality than in the mind.
+**Response to response to response:** Anselm has not answered the essence of Gaunilo’s objection. If God doesn’t exist, then God isn’t a being at all, and if this is so, then he cannot be the greatest conceivable being. Tghus, 
 </br>
 
 ### Teleological/Design Arguments
@@ -41,6 +46,16 @@
 </br>
 
 ### Problem of Evil
+
+**Intro - Thesis**
+
+**Explain:** Evidential and logical problem of evil
+
+**Eval 1:** Logical problem - focus on Plantinga’s free will defence
+
+**Eval 2:** Evidential problem - Plantinga and the best of all worlds
+
+**Eval 3:** Evidential problem - Hick and Soul making - Does the existence of evil disprove the existence of God
 
 </br>
 
