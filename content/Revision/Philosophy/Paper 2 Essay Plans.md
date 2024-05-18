@@ -57,7 +57,11 @@
 **Paragraph 2:** Paley. Anything that has parts organised to serve a purpose is designed. Nature contains such things. Design can only be explained in terms of a designer, and said designer must have a mind and be distinct from what is designed (a mind is required to interpret purpose). Therefore, nature was designed by such a designer, and such a mind (‘God’) exists. Note that Paley can escape Hume’s prior objections because he does not offer an argument from analogy, and thus no ‘cause-effect’ reasoning - the design of the watch supports the inference of a designer.
 **Response:** Natural selection is a better explanation, because it is simpler - we are not inferring some extra thing (a designer) but instead appealing only to what we know already
 
-**Paragraph 3:** Is the designer God? Multiple arguments to question this. 
+**Paragraph 3:** Is the designer God? Multiple arguments to question this. 1) Designers are not always creators; 2) Design may have resulted from many small improvements; 3) Designers can die as their creations continue; 4) There is no reason to think that the designer has no body; 5) the universe is not infinite, and so God cannot be inferred to be infinite; 6) The universe gives us no reason to say that the designer is perfect, but God is, so the designer cannot be God.
+**Responses:** In response to (1) and (2), Swinburne invokes Ockham’s razor, to not unnecessarily multiply entities when one will do. In reply to (3), the objection only works if we are thinking in terms of spatial order. Temporal order requires that the agent is acting at that time. But God acts wherever the laws of nature hold, and so he must continue to exist. In reply to (4), it is better to say that God has no body, as this is a better explanation of how he can act everywhere in space simultaneously
+**Response to response:** Paley has to accept (5) and (6) - if the designer is God, then many of His traditional qualities will need to be established by some other argument (e.g. problem of evil), and no such argument succeeds. Thus, the designer cannot be concluded to be God.
+
+**Conclusion:** No design argument succeeds, and even if one did, we could not guarantee that the creator is God.
 </br>
 
 ### Cosmological arguments
