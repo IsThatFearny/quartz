@@ -41,12 +41,15 @@
 
 **Paragraph 2:** Malcom’s ontological argument. Either God exists or not. God cannot come into or go out of existence. If God exists, then He cannot cease to exist - his existence is necessary. If God does not exist, then He cannot come into existence. Therefore, if He does not exist, his existence is impossible, and so God’s existence is either necessary or impossible. The existence of God is only impossible of the concept is self-contradictory, and it is not. Therefore, his existence is not impossible, and so he must exist necessarily.
 **Response:** Kant - existence is not a predicate
-**Response to response:** Contingent existence is not a property, but Kant has not shown that *necessary* existence is not a property
+**Response to response:** Contingent existence is not a property, but Kant has not shown that *necessary* existence is not a property - he has not distinguished ‘God exists’ from ‘God exists necessarily’ to a sufficient extent. To say that God exists necessarily *is* to unpack the concept of God, and it is therefore an analytic judgement. The concept ‘necessary existence’ has a different logic than that of ‘existence’.
+**Response to response to response:** The impossibility of the existence of God is not the same as the existence of something that is logically impossible. If God does not exist, then what makes God’s existence impossible is not the incoherence of the concept, but rather the self-contradiction in bringing into existence something that is not contingent on anything else for its existence. Thus, whether God’s existence is impossible or not rests on whether God exists or not, and we cannot know this. It begs the question.
 </br>
 
 **Conclusion:** All forms of the ontological argument are successfully defeated, and thus ontological arguments cannot prove that God exists.
 
 ### Teleological/Design Arguments
+
+
 
 </br>
 
