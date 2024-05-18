@@ -36,7 +36,10 @@
 **Response to response:** The ontological argument works *only* for God, and so the objection does not hold. Anselm argues that there is something incoherent in thinking ‘the greatest conceivable being does not exist’. By contrast, thinking ‘the greatest conceivable island doesn’t exist’ is coherent. God *must* be the greatest conceivable being, as his being the greatest is necessary to Him being God. Thus, God must exist to be the greatest conceivable being, because it is greater to exist in reality than in the mind.
 **Response to response to response:** Anselm has not answered the essence of Gaunilo’s objection. If God doesn’t exist, then God isn’t a being at all, and if this is so, then he cannot be the greatest conceivable being. Thus, we must prove that God exists before arguing that he is the greatest conceivable being.
 
-**Paragraph 2:** Descartes’ ontological argument. I have the idea of God, i.e. the idea of a supremely perfect being. Existence is a perfection, and therefore God exists.
+**Paragraph 2:** Malcom’s ontological argument. 
+
+**Paragraph 3:** Descartes’ ontological argument. I have the idea of God, i.e. the idea of a supremely perfect being. Existence is a perfection, and therefore God exists.
+**Response:** Kant: Existence is not a predicate. Kant argues that 
 </br>
 
 ### Teleological/Design Arguments
