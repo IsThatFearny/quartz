@@ -109,7 +109,13 @@
 
 **Paragraph 1:** Verification principle. Religious language is only meaningful if it is analytic or empirically verifiable. In terms of statements such as ‘God exists’, we can neither prove this empirically nor is the statement analytic, because ontological arguments fail to establish the existence of God from a priori premises using deduction alone. Because most religious language relies on the statement ‘God exists’, we can argue that most religious language is meaningless.
 **Response:** Rejecting the verification principle, because it is self-defeating. 
-**Response to response:** The principle is intended as a definition rather than a hypothesis.
+**Response to response:** The principle is intended as a definition rather than a hypothesis. It is not a criterion of literal meaning, but we can provide arguments in specific cases, such as religious language, which support it. 
+**Response to response to response:** If we do not find the arguments for the VP convincing, then it provides no independent support… turn to FP
+
+**Paragraph 2:** Falsification principle. We can replace the VP with the Falsification Principle, which states that a claim is only meaningful if it is logically incompatible with some set of empirical observations. For example, the statement that ‘all swans are white’ threatens to be deemed meaningless under the VP, because there might be a swan out there that isn’t white - we would have to check every single swan; but under the FP, it is easy to prove false - observing a single black swan will prove the statement false.
+**Response:** There are claims that are easy to verify but impossible to falsify, e.g. ‘there are three successive 7s in the decimal determination of π’. As soon as we find three 7s in a row, we have verification. But we can never show that this is false, because π is infinitely long. Similarly, existence and probability claims are difficult to falsify as well. Therefore, a falsification principle requiring a meaningful statement to entail decisive empirical evidence is unacceptable. If we were to weaken the principle to talk about evidence which would count against the truth of some claim, then it becomes indistinguishable from the VP.
+
+**Paragraph 3:** 
 </br>
 
 ## Metaphysics of Mind
