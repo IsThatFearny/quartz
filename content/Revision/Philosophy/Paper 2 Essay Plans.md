@@ -186,6 +186,30 @@
 
 ### Functionalism
 
+**Intro:** Mental states are *not* functional states
+
+**Paragraph 1:** Multiple realisability (for). A dog and a human can both feel pain whilst having different mental states. Mental states are better understood by their function rather than a specific physical realisation
+**Response:** Inverted qualia: if we had inverted qualia, e.g. one person saw grass, which is their green, as another person’s blue, then our mental states would be functionally identical. We might still say ‘that grass is green’ but refer to different mental states, even though they are functionally identical.
+**Response to response:** Inverted qualia can neither be proved true or false, and so it is equally possible that mental states *are* functional states
+
+**Paragraph 2:** China Brain (against). All members of the population of China are connected via two-way radios. This ‘brain’ is functionally identical to a human and can display certain mental states, such as pain, but is not actually in pain.
+**Response:** If the China brain can have intentional mental states, then functionalism provides an accurate account of all mental states except for consciousness of phenomenal properties. But we could argue that the intrinsic properties of qualia depend on the physical properties of the system that realises functional states. What mental states something has depends on its functional properties *and* its intrinsic physical properties. A physical, functional duplicate of a person will consciousness will thus have the same conscious states.
+
+**Paragraph 3:** Knowledge argument. Knowledge of all physical and functional facts about seeing red would not be sufficient for Mary to know what seeing red is actually like. Therefore, the mental state of seeing red must be something beyond physical and functional facts.
+**Response:** Acquaintance knowledge. Mary learns something new, but her new knowledge is a type of physical knowledge, namely acquaintance knowledge. When Mary sees red for the first time, the property occurs in her brain and she becomes *acquainted* with redness. She gains new knowledge, but it is just physical acquaintance knowledge.
+**Response to response:** Acquaintance knowledge involves propositional knowledge. When Mary becomes acquainted with redness, she also learns propositional facts such as ‘seeing red is like *this*’. Whatever acquaintance knowledge she does or doesn’t gain, it is difficult to deny that she also gains propositional knowledge, which is non-physical.
+
+**Conclusion:** There is more to mental states than functions (namely qualia) and so functionalism fails
+
 </br>
 
 ### Eliminative Materialism
+
+**Intro:** EM is false
+
+**Paragraph 1:** Folk psych. vs neuroscience. Scientific theories progress over time, whereas folk psych. does not.
+**Response:** Folk Psych. has good predictive power. If someone has a belief that eating animals is wrong, then we can predict with good accuracy that they won’t eat meat. Neuroscience cannot, at present, predict behaviour very well.
+**Response to response:** Neuroscience has weak predictive power *at the moment* - it is a relatively new branch of science. As it progresses, neuroscience will be able to match folk psychology, as well as being able to explain things that folk psych. cannot.
+**Response to response to response:** This has not happened *yet*, and until it does, folk psych. is the better theory and cannot be eliminated
+
+**Paragraph 2:**
