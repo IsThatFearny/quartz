@@ -68,7 +68,6 @@
 
 **Intro:** The cosmological argument succeeds, as Leibniz’s argument rescues it
 
-aquinas vs infinite regress, aquinas vs Hume against causality principle and then Leibniz rescuing it
 
 **Paragraph 1:** Aquinas’ Second Way. We find in the world sustaining causes and effects. Nothing can causally depend on itself (to have the power to sustain its own existence it would already have to exist). Sustaining causes follow in logical order. If you remove a cause you remove its existence, and therefore if there is no first cause, then there will be no other causes. If there is an infinite regress of causes, then there is no first cause. Therefore, given that there *are* causes, there cannot be an infinite regress, and there must be a first cause. God is the first cause, and so he exists.
 **Response:** An infinite regress is possible. The claim ‘there cannot be an infinite regress of causes’ is not an analytic truth, nor can we have experiences of this statement. It therefore seems conceivable that something has always existed and each thing has in turn caused the next.
@@ -79,10 +78,14 @@ aquinas vs infinite regress, aquinas vs Hume against causality principle and the
 **Paragraph 2:** Aquinas' Third Way. Things in the universe exist contingently; if it is possible for something not to exist, then at some time, it does not exist. If everything exists contingently, then it is possible that at some time there was nothing in existence. In this case, nothing could begin to exist. Since things *do* exist, there was never nothing in existence. Therefore, there is something that must exist, although not contingently. This necessary being is God.
 **Response:** Hume: The causal principle is not analytic, as we can deny it without contradiction. We can thus argue that ‘something can come out of nothing’ or ‘I exist uncaused’. These claims are uncertain, because they can be true or false. We can know these claims from experience, but experience cannot establish a claim that holds universally (we have no knowledge of other worlds), and so we cannot know that everything, without exception, has a cause.
 
+**Paragraph 3:** Leibniz's Argument from Contingency. Every true fact has an explanation that provides a sufficient reason for why things are as they are. There are two kinds of truth: reasoning and fact. Truths of reasoning are necessary, and their opposite is impossible. As such, the reasons for these truths can be found by analysis. Truths of fact are contingent and their opposite is impossible. Reasons can be given in intricate detail, but this detail only complicates further by bringing in more contingent facts. Each of these facts also needs to be explained. Therefore, by giving explanations of truths of fact, we move no closer to completely explaining contingencies. We must look outside the sequence of facts to provide sufficient reason. The sufficient reason must be in a necessary substance, which is God. This God is sufficient, because the necessary substance is sufficient.
+**Response:** The impossibility of a necessary being. Nothing that is distinctly conceivable implies a contradiction. Whatever we conceive as existent, we can also conceive of as non-existent. Therefore, there is no being whose non-existence implies a contradiction, i.e. no necessary being.
+**Response to response:** The concept of God is of such a being. We can argue that, if God exists, he exists necessarily. We should thus distinguish between necessary existence and existence. Hume and Russell may be right to argue that we can deny ‘God exists’ without contradiction. But, we cannot deny ‘God exists’ necessarily without contradiction. Thus, the argument provides a reason to think that such a God exists.
 
-**Paragraph 3:** Leibniz's Argument from Contingency. Every true fact has anm
+**Conclusion:** Whilst Aquinas’ Second Way (Causation) and Third Way (Contingency) both fail, Leibniz’s re-interpretation of the cosmological argument from contingency is able to overcome objections and thus succeeds.
 
-Reply: 
+
+
 </br>
 
 ### Problem of Evil
