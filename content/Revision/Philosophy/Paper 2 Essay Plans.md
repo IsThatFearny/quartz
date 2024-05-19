@@ -66,23 +66,23 @@
 
 ### Cosmological arguments
 
-**Intro:** The cosmological argument fails
+**Intro:** The cosmological argument succeeds, as Leibniz’s argument rescues it
 
 aquinas vs infinite regress, aquinas vs Hume against causality principle and then Leibniz rescuing it
 
 **Paragraph 1:** Aquinas’ Second Way. We find in the world sustaining causes and effects. Nothing can causally depend on itself (to have the power to sustain its own existence it would already have to exist). Sustaining causes follow in logical order. If you remove a cause you remove its existence, and therefore if there is no first cause, then there will be no other causes. If there is an infinite regress of causes, then there is no first cause. Therefore, given that there *are* causes, there cannot be an infinite regress, and there must be a first cause. God is the first cause, and so he exists.
+**Response:** An infinite regress is possible. The claim ‘there cannot be an infinite regress of causes’ is not an analytic truth, nor can we have experiences of this statement. It therefore seems conceivable that something has always existed and each thing has in turn caused the next.
+**Response to response:** If paradoxes surrounding infinity cannot be solved, e.g. hotel rooms, universe getting older, etc, then to argue that an infinite regress is possible is a contradiction and therefore false. We cannot deduce this, and thus we do not experience to establish the claim.
+**Response to response to response:** If there is not a first cause, then we cannot explain the subsequent series. We can explain one cause in terms of the preceding cause, but not why there is a series of causes in the first place.
+**Response<sup>4</sup>:** Hume: ‘uniting’ the individual causes into a series is an ‘arbitrary act of the mind’. The series has no separate existence that needs causing or explaining. All that explanation requires is that each cause in turn is explained. We must look to arguments based on contingency.
 
-**Paragraph 2:** Aquinas' First/Second Way
-**Reply:** Hume's fork: challenging the causal principle. It isn't analytic so it must be a matter of fact, known by experience, but we cannot know universal claims experientially so we cannot know causal principle applies universally. CRUCIALLY, the causal principle is something we created to describe the workings of events within the universe, 
+**Paragraph 2:** Aquinas' Third Way. Things in the universe exist contingently; if it is possible for something not to exist, then at some time, it does not exist. If everything exists contingently, then it is possible that at some time there was nothing in existence. In this case, nothing could begin to exist. Since things *do* exist, there was never nothing in existence. Therefore, there is something that must exist, although not contingently. This necessary being is God.
+**Response:** Hume: The causal principle is not analytic, as we can deny it without contradiction. We can thus argue that ‘something can come out of nothing’ or ‘I exist uncaused’. These claims are uncertain, because they can be true or false. We can know these claims from experience, but experience cannot establish a claim that holds universally (we have no knowledge of other worlds), and so we cannot know that everything, without exception, has a cause.
 
-**Paragraph 3:** Aquinas' Third Way / Leibniz's Argument from Contingency
 
-[Could reply by challenging the causal principle (3rd Way) or the sufficient reason principle (Leibniz) using Hume's fork]
+**Paragraph 3:** Leibniz's Argument from Contingency. Every true fact has anm
 
-[Can add intermediary debate about Russell's objection that the argument from contingency commits the fallacy of composition?]
-
-Reply: The "necessary being/substance" is mass-energy, which has necessary existence (Is **metaphysically** necessary) and thus is the supplier of sufficient reasons for contingent truths about the universe, not God (against Leibniz) and the necessary being that must exist in Aquinas' universe.
-
+Reply: 
 </br>
 
 ### Problem of Evil
