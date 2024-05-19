@@ -127,7 +127,7 @@
 
 ### Substance Dualism
 
-**Intro**:
+**Intro**: Substance Dualism fails
 
 **Paragraph 1:** Indivisibility argument. Physical is divisible, whereas mental is indivisible
 **Response:** The mental is divisible in some sense - certain mental conditions or brain injuries can cause it to seem as if the mind is divided, and we can surgically separate the brain into two halves
@@ -137,20 +137,29 @@
 **Response:** What is conceivable may not be physically possible. Masked man fallacy: I believe that the masked man has robbed a bank, and I believe that my father has *not* robbed the bank. Thus, I conceive that the masked man is not my father; this is a logical impossibility. It is also metaphysically impossible that my father is the masked man, because one person cannot be someone else. Applying this to Descartes’ argument, we can argue that the mind may not be an ontologically dependent substance, and it would therefore be metaphysically impossible for it to exist separately from the body.
 **Response to response:** Descartes is happy to grant that we cannot infer what is metaphysically possible from what we think, but in the case of clear and distinct ideas, this is justified. We can clearly and distinctly conceive that mind and body are separate substances, and therefore it is possible that they are. My concepts in the masked man fallacy are not clear and distinct.
 
+**Paragraph 3:** Conceptual interaction problem. The movement of a physical object is initiated by some physical force, exerted at some point in space. If dualism is true, then the mind is not in space, and cannot exert any physical force. Therefore, if dualism is true, then the mind cannot cause physical objects to move. Therefore, either dualism is false or the mind cannot cause movement. The mind *can* cause the body to move, and so dualism is false.
+**Response:** It is a mistake to try and understand the mind’s power to act on physical objects in terms of how physical objects act on each other - we have a tendency to conceive of all causation in terms of the causation of physical events by other physical events, but this could be mistaken.
+**Response to response:** This provides us with no way of understanding how causality *does* work in substance dualism
 
-
+**Conclusion:** The two arguments for dualism fail, and it fails to establish the functioning of causality in the theory
 </br>
 
 ### Property Dualism
+
+
 
 </br>
 
 ### Behaviourism
 
+
 </br>
 
 ### MBTIT
 
+**Intro:** MBTIT claims that mental states *are* physical states. Overall, it…
+
+**Paragraph 1:** Multiple realisability. Many different neurophysiological properties could realise pain
 </br>
 
 ### Functionalism
