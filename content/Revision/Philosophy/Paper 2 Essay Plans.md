@@ -133,7 +133,11 @@
 **Response:** The mental is divisible in some sense - certain mental conditions or brain injuries can cause it to seem as if the mind is divided, and we can surgically separate the brain into two halves
 **Response to response:** Descartes: minds are only functionally divisible, whereas bodies are physically divisible
 
-**Paragraph 2:** Conceivability argument. I have a clear and distinct idea of myself as a thinking thing that is not extended; I also have a clear and distinct idea of body as something that is extended and non-thinking. Thus, God can create 
+**Paragraph 2:** Conceivability argument. I have a clear and distinct idea of myself as a thinking thing that is not extended; I also have a clear and distinct idea of body as something that is extended and non-thinking. Thus, God can create these things in a way that corresponds to my thought. Mind and body can therefore exist independently of each other, and are thus separate substances.
+**Response:** What is conceivable may not be physically possible. Masked man fallacy: I believe that the masked man has robbed a bank, and I believe that my father has *not* robbed the bank. Thus, I conceive that the masked man is not my father; this is a logical impossibility. It is also metaphysically impossible that my father is the masked man, because one person cannot be someone else. Applying this to Descartes’ argument, we can argue that the mind may not be an ontologically dependent substance, and it would therefore be metaphysically impossible for it to exist separately from the body.
+**Response to response:** Descartes is happy to grant that we cannot infer what is metaphysically possible from what we think, but in the case of clear and distinct ideas, this is justified. We can clearly and distinctly conceive that mind and body are separate substances, and therefore it is possible that they are. My concepts in the masked man fallacy are not clear and distinct.
+
+
 
 </br>
 
