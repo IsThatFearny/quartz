@@ -131,7 +131,9 @@
 
 **Paragraph 1:** Indivisibility argument. Physical is divisible, whereas mental is indivisible
 **Response:** The mental is divisible in some sense - certain mental conditions or brain injuries can cause it to seem as if the mind is divided, and we can surgically separate the brain into two halves
-**Response to response:** 
+**Response to response:** Descartes: minds are only functionally divisible, whereas bodies are physically divisible
+
+**Paragraph 2:** Conceivability argument. I have a clear and distinct idea of myself as a thinking thing that is not extended; I also have a clear and distinct idea of body as something that is extended and non-thinking. Thus, God can create 
 
 </br>
 
