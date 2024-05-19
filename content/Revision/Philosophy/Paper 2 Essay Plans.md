@@ -112,10 +112,13 @@
 **Response to response:** The principle is intended as a definition rather than a hypothesis. It is not a criterion of literal meaning, but we can provide arguments in specific cases, such as religious language, which support it. 
 **Response to response to response:** If we do not find the arguments for the VP convincing, then it provides no independent support… turn to FP
 
-**Paragraph 2:** Falsification principle. We can replace the VP with the Falsification Principle, which states that a claim is only meaningful if it is logically incompatible with some set of empirical observations. For example, the statement that ‘all swans are white’ threatens to be deemed meaningless under the VP, because there might be a swan out there that isn’t white - we would have to check every single swan; but under the FP, it is easy to prove false - observing a single black swan will prove the statement false.
+**Paragraph 2:** Falsification principle. We can replace the VP with the Falsification Principle, which states that a claim is only meaningful if it is logically incompatible with some set of empirical observations. For example, the statement that ‘all swans are white’ threatens to be deemed meaningless under the VP, because there might be a swan out there that isn’t white - we would have to check every single swan;     but under the FP, it is easy to prove false - observing a single black swan will prove the statement false.
 **Response:** There are claims that are easy to verify but impossible to falsify, e.g. ‘there are three successive 7s in the decimal determination of π’. As soon as we find three 7s in a row, we have verification. But we can never show that this is false, because π is infinitely long. Similarly, existence and probability claims are difficult to falsify as well. Therefore, a falsification principle requiring a meaningful statement to entail decisive empirical evidence is unacceptable. If we were to weaken the principle to talk about evidence which would count against the truth of some claim, then it becomes indistinguishable from the VP.
 
-**Paragraph 3:** 
+**Paragraph 3:** University debate. Flew: for a truth claim to be meaningful, there must be some possible state of affairs it denies of rules out; to meaningfully assert a claim, someone must accept that it rules out some possible state of affairs; the occurrence of a state of affairs that a claim rules out demonstrates that the claim is false. To meaningfully assert a claim, someone must be willing to withdraw it if the state of affairs that it rules out were to occur; religious believers refuse to specify which state of affairs would cause them to withdraw the statement ‘God exists’; When religious believers make this claim, they do not rule out any state of affairs. Thus, the claim that ‘God exists’, when made by religious believers, is meaningless
+**Response:** Mitchell disagrees with Flew’s claim that an assertion is only meaningful if we are willing to withdraw it - he gives the example of the ‘resistance fighter’. If the partisan refused to count the ambiguous actions (i.e. helping both sides) as evidence against his belief that the stranger is on the side of the resistance, then this would be irrational, and when applied to religious language, would void it of its meaning. But, Mitchell argues, simply allowing evidence to the contrary of your belief is not enough to relinquish said belief. In fact, we cannot say how much evidence is needed before one should withdraw a claim. Likewise, religious language involve a commitment - a claim can be meaningful without us being able to say what conditions would cause us to withdraw it, as long as we recognise that experience can count against our the view.
+**Response to response:** Hare and bliks: rejects cognitivist position of Flew and Mitchell. He introduces the idea of *bliks*, i.e. attitudes towards certain things. E.g. if one is convinced that Oxford dons wan to murder him, no matter how much evidence is presented to the contrary, one will remain convinced of their belief. To hold the view that ‘God exists’, Hare argues, is a blik.
+**Response to response to response:** Hare’s analysis entails that religious believers are acting irrationally. Flew objects that if religious claims aren’t assertions, then a claim such as ‘you ought to do it because it is God’s will’ becomes simply ‘you ought to do it’. But this is not what religious believers mean. 
 </br>
 
 ## Metaphysics of Mind
@@ -123,6 +126,12 @@
 </br>
 
 ### Substance Dualism
+
+**Intro**:
+
+**Paragraph 1:** Indivisibility argument. Physical is divisible, whereas mental is indivisible
+**Response:** The mental is divisible in some sense - certain mental conditions or brain injuries can cause it to seem as if the mind is divided, and we can surgically separate the brain into two halves
+**Response to response:** 
 
 </br>
 
