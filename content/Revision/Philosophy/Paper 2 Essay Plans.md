@@ -159,7 +159,16 @@
 
 **Intro:** MBTIT claims that mental states *are* physical states. Overall, it…
 
-**Paragraph 1:** Multiple realisability. Many different neurophysiological properties could realise pain
+**Paragraph 1:** Multiple realisability. Many different neurophysiological properties could realise pain. A human being and a dog could be in pain, but have different neurophysiological properties. Therefore, pain cannot be the exact same thing as property $N$. This is reinforced further if we consider the differences between humans and non-terrestrial species. If there are aliens, then they evolved completely separate from us, and so it is extremely unlikely that they will have the same physical states as us. But according to MBTIT, to have mental state $N$ is to have physical state $N$, and so the theory is making an implausible prediction.
+**Response:** We should talk about ‘human pain’, which is a different property from, say ‘dog pain’.
+**Response to response:** Pain is pain because of how it feels; thought is thought because of what is thought. A dog and a human being in pain share something in common. This is not to say that there is no relation between mental states and brain states, simply that they are not the same.
+
+**Paragraph 2:** Indivisibility argument.
+**Response:** Mind is also divisible
+**Response to response:** Different types of divisibility - mind is functionally, body is spatially
+
+**Paragraph 3:** Philosophical zombies. The existence of functional duplicates without qualia is possible. If they are possible, then MBTIT is false because if it were correct then zombies would be impossible.
+**Response:** The fact that we can conceive of zombies does not make their existence possible. If phenomenal properties *just are* certain physical properties, then it isn’t possible for zombies to exist.
 </br>
 
 ### Functionalism
