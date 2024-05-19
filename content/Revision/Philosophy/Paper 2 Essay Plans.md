@@ -146,7 +146,16 @@
 
 ### Property Dualism
 
+**Intro:** Property Dualism fails. Define qualia, supervenience, and property dualism
 
+**Paragraph 1:** Philosophical zombies. Zombies (functional duplicates without qualia) are conceivable. If they are conceivable then they are possible. If they are possible then qualia are non-physical and do not supervene on the physical. If this is the case, then property dualism is true. It is the case, and so property dualism is true.
+**Response:** What is possible tells us nothing about the actual world. At best, the argument shows us that physical and phenomenal properties are distinct in *another* possible world. but this does not entail that they are such in *this* world.
+**Response to response:** Misunderstands identity. Nothing can be something else. I can’t not be me in another possible world. Likewise, if phenomenal properties are physical properties in this world, then they are such in every possible world, and if this is not the case, then it is not the case in any possible world. In terms of identity, possibility does tell us about reality.
+
+**Paragraph 2:** Knowledge/Mary. Mary knows all physical facts about colour, but does not know what it is like to *see* colour (i.e. has no knowledge of qualia). What it feels like to see colour, therefore, is not a physical fact. Physicalism argues that all facts are physical facts, and so physicalism is false. Does Mary gain knowledge when she sees colour after being released from her black and white room? If so, then she does not know everything that there is to know, and therefore physicalism is false
+**Response:** 
+
+**Paragraph 3:**
 
 </br>
 
@@ -168,7 +177,10 @@
 **Response to response:** Different types of divisibility - mind is functionally, body is spatially
 
 **Paragraph 3:** Philosophical zombies. The existence of functional duplicates without qualia is possible. If they are possible, then MBTIT is false because if it were correct then zombies would be impossible.
-**Response:** The fact that we can conceive of zombies does not make their existence possible. If phenomenal properties *just are* certain physical properties, then it isn’t possible for zombies to exist.
+**Response:** What is possible tells us nothing about the actual world. At best, the argument shows us that physical and phenomenal properties are distinct in *another* possible world. but this does not entail that they are such in *this* world.
+**Response to response:** Misunderstands identity. Nothing can be something else. I can’t not be me in another possible world. Likewise, if phenomenal properties are physical properties in this world, then they are such in every possible world, and if this is not the case, then it is not the case in any possible world. In terms of identity, possibility does tell us about reality.
+
+**Conclusion:** All objections to MBTIT succeed, and thus MBTIT fails
 </br>
 
 ### Functionalism
