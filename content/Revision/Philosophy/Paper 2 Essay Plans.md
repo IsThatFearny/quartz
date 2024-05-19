@@ -162,6 +162,9 @@
 
 ### Behaviourism
 
+**Intro:** 
+
+**Paragraph 1:** Philosophical zombies show that one can have behavioural dispositions without qualia/mental states. Mental
 
 </br>
 
@@ -212,4 +215,10 @@
 **Response to response:** Neuroscience has weak predictive power *at the moment* - it is a relatively new branch of science. As it progresses, neuroscience will be able to match folk psychology, as well as being able to explain things that folk psych. cannot.
 **Response to response to response:** This has not happened *yet*, and until it does, folk psych. is the better theory and cannot be eliminated
 
-**Paragraph 2:**
+**Paragraph 2:** EM is self refuting. In arguing for EM, one is demonstrating a belief that EM is true, but belief is a folk psych. concept.
+**Response:** Begging the question. Stating that ‘folk psychology is false’ is evidence of a belief that folk psych. is false, but this assumes the conclusion to beliefs exist in the first place (thus assuming the conclusion in the premises and begging the question). EM does not deny mental phenomena altogether, but simply denies that folk psych. is the accurate account.
+**Response to response:** To make sense of the claim ‘folk psych. is false’ we must assume intentionality, i.e. some sort of mental phenomena about folk psych. But neuroscience offers no plausible account of intentionality
+
+**Paragraph 3:** Certainty about mental states takes priority. EM is very counter-intuitive. We intuitively know that we have thoughts, desires, beliefs, etc.
+**Response:** Appeals to what is obvious are often problematic
+**Response to response: ???**
