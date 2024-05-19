@@ -162,9 +162,17 @@
 
 ### Behaviourism
 
-**Intro:** 
+**Intro:** Behaviourism fails. Explain Hard vs Soft, specifically Ryle’s dispositions
 
-**Paragraph 1:** Philosophical zombies show that one can have behavioural dispositions without qualia/mental states. Mental
+**Paragraph 1:** Philosophical zombies show that one can have behavioural dispositions without qualia/mental states. Mental states must therefore be more than just behavioural dispositions.
+**Response:** Ryle: category mistake (e.g. oxford university/cricket match). Zombies are inconceivable because it is a mistake to think that mental states are separate to behavioural dispositions.
+**Response to response:** Super Spartans feel pain, but have no dispositions (they don’t react to pain). Surely, therefore, there is more to mental states than just behaviours.
+
+**Paragraph 2:** Asymmetry between self-knowledge and knowledge of others. I can know that I am in pain through introspection, but I have to infer whether others are in pain through analysing their behaviour.
+**Response:** Ryle: This asymmetry is an illusion - we might know that someone else is in pain by paying attention to their behaviour, and this is no different to how we gain knowledge about ourselves: we pay attention.
+**Response to response:** Knowledge argument. no amount of knowledge of a person’s behaviour and their dispositions could give knowledge of that person’s qualia, and therefore we cannot avoid asymmetry.
+
+**Paragraph 3:** ???
 
 </br>
 
