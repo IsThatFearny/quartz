@@ -104,6 +104,12 @@
 
 ### Religious Language
 
+
+**Intro:** Religious language is meaningless
+
+**Paragraph 1:** Verification principle. Religious language is only meaningful if it is analytic or empirically verifiable. In terms of statements such as ‘God exists’, we can neither prove this empirically nor is the statement analytic, because ontological arguments fail to establish the existence of God from a priori premises using deduction alone. Because most religious language relies on the statement ‘God exists’, we can argue that most religious language is meaningless.
+**Response:** Rejecting the verification principle, because it is self-defeating. 
+**Response to response:** The principle is intended as a definition rather than a hypothesis.
 </br>
 
 ## Metaphysics of Mind
