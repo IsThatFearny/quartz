@@ -68,9 +68,9 @@
 
 **Intro:** The cosmological argument fails
 
-**Paragraph 1:** Kalam argument. The universe is composed of temporal phenomena. An infinite regress of temporal phenomena is impossible. Therefore, the universe must have a beginning. Everything that begins to exist has a cause of its existence; therefore there is a cause of the existence of the universe.
+aquinas vs infinite regress, aquinas vs Hume against causality principle and then Leibniz rescuing it
 
-**Reply:** 
+**Paragraph 1:** Aquinas’ Second Way. We find in the world sustaining causes and effects. Nothing can causally depend on itself (to have the power to sustain its own existence it would already have to exist). Sustaining causes follow in logical order. If you remove a cause you remove its existence, and therefore if there is no first cause, then there will be no other causes. If there is an infinite regress of causes, then there is no first cause. Therefore, given that there *are* causes, there cannot be an infinite regress, and there must be a first cause. God is the first cause, and so he exists.
 
 **Paragraph 2:** Aquinas' First/Second Way
 **Reply:** Hume's fork: challenging the causal principle. It isn't analytic so it must be a matter of fact, known by experience, but we cannot know universal claims experientially so we cannot know causal principle applies universally. CRUCIALLY, the causal principle is something we created to describe the workings of events within the universe, 
