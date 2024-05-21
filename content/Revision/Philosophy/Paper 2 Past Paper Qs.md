@@ -65,3 +65,7 @@ CHECK FUNCTIONALISM AS A WHOLE
 </br>
 
 #### Outline MBTIT and explain how the issue of multiple realisability challenges this view
+
+Mind-Brain Type Identity Theory makes the claim that mental states *just are* identical to physical states… CHECK
+
+However, MBTIT faces an objection from multiple realisability. The objection is that the same mental state (e.g. pain) can be realised in many different ways. For example, octopi have a very different brains setup to humans. If we stabbed a human and an octopus and saw them both writhing about on the floor, then we would want to conclude that both are in pain. However, the way that an octopuses’ brain signals pain is very different to how a human’s brain signals pain (at least in terms of brain/physical states). Therefore, mental states cannot be identical to one, individual brain state state, and thus the claims of MBTIT are contradicted.
