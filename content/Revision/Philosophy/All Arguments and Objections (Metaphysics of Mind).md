@@ -29,4 +29,14 @@
 
 **Issues for MBTIT:**
 
-**Multiple realisability:** Take pain, for example. Many different neurophysiological states could realise pain, and so pain cannot be the same
+**Multiple realisability:** Take pain, for example. Many different neurophysiological states could realise pain, and so pain cannot be the same thing as any one of those properties. Dog’s brains might process pain in a different way to how humans process it. This objections strengthens further if we apply to possible extra-terrestrial beings, who have followed an entirely different evolutionary process to us. The theory makes a very implausible claim.
+
+**Indivisibility argument:** As above
+
+**Conceivability argument:** It is conceivable that, for any type of mental state, someone has a mental state without having the brain state with which MBTIT claims it is identical. What is conceivable is metaphysically possible. Therefore, it is metaphysically possible that for any type of mental state, it can exist in the absence of the brain state with which MBTIT claims it is identical. If this is the case, then the two are not the same thing.
+
+</br>
+
+## Eliminative Materialism
+
+
