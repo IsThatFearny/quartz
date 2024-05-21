@@ -156,8 +156,9 @@
 **Response:** Acquaintance knowledge. Mary learns something new, but her new knowledge is a type of physical knowledge, namely acquaintance knowledge. When Mary sees red for the first time, the property occurs in her brain and she becomes *acquainted* with redness. She gains new knowledge, but it is just physical acquaintance knowledge.
 **Response to response:** Acquaintance knowledge involves propositional knowledge. When Mary becomes acquainted with redness, she also learns propositional facts such as ‘seeing red is like *this*’. Whatever acquaintance knowledge she does or doesn’t gain, it is difficult to deny that she also gains propositional knowledge, which is non-physical.
 
-**Paragraph 3:** ???
-
+**Paragraph 3:** Phenomenology of our mental life. Chalmers argues that the claims of physicalism that physical laws govern all events in space-time, and that every event has physical cause seem very appealing in the light of scientific discovery. Epiphenomenal property dualism allows both claims to be true: some mental properties are neither physical nor supervenient on physical properties, but make no causal difference to the world. Physicalism is right about causation, but not about what exists
+**Response:** Epiphenomenalism is counter-intuitive. It is part of our experience of having mental states that they cause other mental and physical states/events, e.g. mental states can cause behaviour. Surely the phenomenology of our mental life involves the experience of such causal connections.
+**Response to response:** 1) It is only mental properties that are dualist that are epiphenomenal, e.g. for Chalmers it is only properties of consciousness that are epiphenomenal. These beliefs and desires *do* have causal power, since we can analyse them in terms of physical properties. This still seems counter-intuitive, so the Property Dualist introduces another argument: 2) The physical process in the brain with which phenomenal properties are correlated causes both the phenomenal property *and* the behaviour which we think is caused by that property. So, the experience and the behaviour are *correlated* because they are the effects of the same cause, and it is this correlation which makes us *think* that experience causes behaviour, even though it doesn’t. This may be counter-intuitive, but that is not sufficient reason to reject epiphenomenalist property dualism
 </br>
 
 ### Behaviourism
@@ -172,7 +173,7 @@
 **Response:** Ryle: This asymmetry is an illusion - we might know that someone else is in pain by paying attention to their behaviour, and this is no different to how we gain knowledge about ourselves: we pay attention.
 **Response to response:** Knowledge argument. no amount of knowledge of a person’s behaviour and their dispositions could give knowledge of that person’s qualia, and therefore we cannot avoid asymmetry.
 
-**Paragraph 3:** ???
+**Paragraph 3:** 
 
 </br>
 

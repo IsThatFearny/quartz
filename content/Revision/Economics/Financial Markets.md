@@ -55,4 +55,10 @@ These are **trade offs** - if a bank wants more liquidity, then they might have 
 
 $Bond \ Yield = \frac{Annual \ Coupon}{Market \ Price}$
 
-**Bond market is similar to the stock market** - basic supply and demand regulate bond prices and yields.
+**Bond market is similar to the stock market** - basic supply and demand regulate bond prices and yields. If bond prices go up, then interest rates go up - why would one save in banks if they could lend to the government?
+
+</br>
+
+**A strong financial market is good for equality** - firms will invest their money into the best ideas, rather than those with the most money. Allows people to develop their own wealth, to buy their first homes, etc. Helps people out of poverty. If the government can borrow then they can spend on things (e.g. merit and public goods) that help the poorer in society.
+**However,** the financial sector can create bubbles, e.g. crypto, tech stocks, housing markets. This only benefits owners of these assets.
+
