@@ -38,15 +38,21 @@ CHECK THIS
 
 Paley proposes a version of the design argument in which he appeals to ‘parts organised for a purpose’ in order to prove the existence of God. Paley argues that, if we were to look at a watch, then we would see a very intricate and complex mechanical system, i.e. ‘parts organised for a purpose’. From this complexity, we can infer that there was a designer for the watch. Likewise, Paley argues, we can infer from the vast complexity of the universe’s ‘parts organised for a purpose’ that the universe, like the watch, also has a designer, and given such complexity, the designer must be God.
 
-Swinburne rejects Paley’s design argument. Instead, he argues that there are two types of explanation: personal and scientific. We give a personal explanation of temporal order in human actions, e.g. such-and-such exists because I chose to make it; as such, we can give a similar personal explanation of why the laws of nature are the way they are - because God designed them in a certain way. There is no scientific explanation for this: science can explain assuming the laws of nature, but cannot explain such fundamental laws itself. Therefore we only have a personal explanation, and as such, we can argue that god exists. Swinburne’s argument, unlike Paley’s, does not appeal to spatial order (a major weakness of Paley’s argument)
+Swinburne rejects Paley’s design argument. Instead, he argues that there are two types of explanation: personal and scientific. We give a personal explanation of temporal order in human actions, e.g. such-and-such exists because I chose to make it; as such, we can give a similar personal explanation of why the laws of nature are the way they are - because God designed them in a certain way. There is no scientific explanation for this: science can explain assuming the laws of nature, but cannot explain such fundamental laws itself. Therefore we only have a personal explanation, and as such, we can argue that god exists. Swinburne’s argument, unlike Paley’s, does not appeal to spatial order (a major weakness of Paley’s argument), but rather appeals to temporal order.
 
 </br>
 
 #### What do eliminative materialists claim about mental states?
 
+Eliminative Materialists claim that talk of mental states can be completely eliminated.
+
+MUST REVISE EM
+
 </br>
 
 #### Outline Descartes’ conceivability argument for substance dualism
+
+Descartes argues that it is possible for us to conceive of mind as a separate substance to the body, because we have a clear and distinct idea of the mind as a non-extended, thinking thing, and of the body as an extended, non-thinking thing
 
 </br>
 
