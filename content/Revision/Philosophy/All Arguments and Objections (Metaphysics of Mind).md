@@ -43,4 +43,20 @@
 
 **Certainty about the existence of mental states:** EM is counter-intuitive. What could be more certain than that we have thoughts, desires, etc? No argument could be strong enough to give up such a belief. 
 
-**Folk Psych. has good predictive and explanatory power:** Folk Psych. is not intended to be a theory which explains things such as mental illness, sleep, learning, etc, and so its failure in this is not a criticism
+**Folk Psych. has good predictive and explanatory power:** Folk Psych. is not intended to be a theory which explains things such as mental illness, sleep, learning, etc, and so its failure in this is not a criticism - it is only meant to explain human behaviour, and here it is very successful. If I know what you want and what you believe, then I can predict whether you will perform a certain action. Further, folk psych. is the basis of developments in psychology that have extended its predictive and explanatory power. Ideas about unconscious beliefs and desires have become part of folk psych. We can therefore argue that we have do not have good reason to think that folk psych. concepts, such as intentionality, will be eliminated as neuroscience progresses.
+
+**EM is self-refuting:** If we turn Paul Churchland’s prediction into a factual claim, then EM claims that there are *no beliefs*. We can then question what EM is trying to change. If there are no beliefs, then arguments for EM are meaningless. An argument for EM concludes that there are no beliefs, but must presupposes that there *are* beliefs.
+
+</br>
+
+## Behaviourism
+
+**Issues for Hard Behaviourism:** 
+
+**Indivisibility argument:** As above
+
+**Conceivability argument:** As above
+
+**Multiple realisability**: The same mental state can cause completely different behavioural states. We therefore cannot give a comprehensive list of all the conditions of verification for a certain mental state (e.g. when people are scared, they might react in any number of ways). This shows that analysis of mental states in terms of behaviour is not possible, and that we cannot infer that different dispositions are the same mental state.
+
+**Circularity:** How someone reacts in a certain circumstance depends on multiple different mental states. If I were to be afraid of snakes, then my reaction would depend on whether I believe that the snake is dangerous, my beliefs about how one should respond in such a situation, whether or not I recognise the type of snake, etc. We cannot specify the conditions of verification without mentioning other mental states, which in turn have to be explained in terms of other mental states. For philosophical behaviourism, this means that the s
