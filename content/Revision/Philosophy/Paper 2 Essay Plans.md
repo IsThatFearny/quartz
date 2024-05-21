@@ -165,21 +165,24 @@
 
 **Intro:** Behaviourism fails. Explain Hard vs Soft, specifically Ryle’s dispositions
 
-**Paragraph 1:** Philosophical zombies show that one can have behavioural dispositions without qualia/mental states. Mental states must therefore be more than just behavioural dispositions.
+**Paragraph 1:** Multiple realisability. A mental state might be expressed in quite different behaviours in different situations or by different people. If two people were faced with a lion, one might run and one might freeze in place. We cannot give a finite list of the conditions of verification for a certain mental state. Therefore, mental states cannot be analysed in terms of behaviour, and so behaviourism is false. (Liebniz’s Law: if two things are identical, then they must share the same properties)
+**Response:** Hempel: Hempel could emphasise the importance of statements about physiology and brain processes - people may behave in different ways under different circumstances, but their brain processes will be the same, and it is these that are central to identifying what mental concepts really mean.
+**Response to response:** This response would move Hard Behaviourism closer to MBTIT, because behaviour is inferior to physical properties of the body, and this does not avoid multiple realisability, as MBTIT faces its own version of this problem. Hempel abandoned his theory and verificationism altogether.
+**Response to response to response:** Ryle rescues behaviourism from this argument. He argues that we should not focus on individual behaviours, which might differ, because this misunderstands the theory. Ryle’s theory allows that we cannot tell what disposition is expressed in a single piece of behaviour. What makes the behaviour an expression of a disposition is that it depends on hypothetical situations about whether other scenarios are true or not. Whether or not one feels afraid of a snake is not fixed by what one says or does, but by a whole host of dispositions to other behaviour in various other circumstances. Thus, whilst mental states involve indefinitely heterogenous dispositions, on the whole, people with the same mental states have very similar dispositions, and many of these similarities hold even when there are some things they do differently - there is sufficient overlap. Thus turn to arguing against soft behaviourism.
+
+**Paragraph 2:** Philosophical zombies show that one can have behavioural dispositions without qualia/mental states. Mental states must therefore be more than just behavioural dispositions.
 **Response:** Ryle: category mistake (e.g. oxford university/cricket match). Zombies are inconceivable because it is a mistake to think that mental states are separate to behavioural dispositions.
 **Response to response:** Super Spartans feel pain, but have no dispositions (they don’t react to pain). Surely, therefore, there is more to mental states than just behaviours.
 
-**Paragraph 2:** Asymmetry between self-knowledge and knowledge of others. I can know that I am in pain through introspection, but I have to infer whether others are in pain through analysing their behaviour.
+**Paragraph 3:** Asymmetry between self-knowledge and knowledge of others. I can know that I am in pain through introspection, but I have to infer whether others are in pain through analysing their behaviour.
 **Response:** Ryle: This asymmetry is an illusion - we might know that someone else is in pain by paying attention to their behaviour, and this is no different to how we gain knowledge about ourselves: we pay attention.
 **Response to response:** Knowledge argument. no amount of knowledge of a person’s behaviour and their dispositions could give knowledge of that person’s qualia, and therefore we cannot avoid asymmetry.
-
-**Paragraph 3:** 
 
 </br>
 
 ### MBTIT
 
-**Intro:** MBTIT claims that mental states *are* physical states. Overall, it…
+**Intro:** MBTIT claims that mental states *are* physical states. Overall, it fails
 
 **Paragraph 1:** Multiple realisability. Many different neurophysiological properties could realise pain. A human being and a dog could be in pain, but have different neurophysiological properties. Therefore, pain cannot be the exact same thing as property $N$. This is reinforced further if we consider the differences between humans and non-terrestrial species. If there are aliens, then they evolved completely separate from us, and so it is extremely unlikely that they will have the same physical states as us. But according to MBTIT, to have mental state $N$ is to have physical state $N$, and so the theory is making an implausible prediction.
 **Response:** We should talk about ‘human pain’, which is a different property from, say ‘dog pain’.
@@ -230,4 +233,4 @@
 
 **Paragraph 3:** Certainty about mental states takes priority. EM is very counter-intuitive. We intuitively know that we have thoughts, desires, beliefs, etc.
 **Response:** Appeals to what is obvious are often problematic
-**Response to response: ???**
+**Response to response:**  
