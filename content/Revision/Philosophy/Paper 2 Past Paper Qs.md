@@ -52,11 +52,15 @@ MUST REVISE EM
 
 #### Outline Descartes’ conceivability argument for substance dualism
 
-Descartes argues that it is possible for us to conceive of mind as a separate substance to the body, because we have a clear and distinct idea of the mind as a non-extended, thinking thing, and of the body as an extended, non-thinking thing
+Descartes argues that it is possible for us to conceive of mind as a separate substance to the body, because we have a clear and distinct idea of the mind as a non-extended, thinking thing, and of the body as an extended, non-thinking thing. Anything that we conceive of clearly and distinctly is something God could create, and is therefore metaphysically possible, so, God could create the mind and body as independent of each other. Descartes thus concludes that mind and body are indeed separate substances
 
 </br>
 
 #### Explain how Block’s China thought experiment can be used to argue against functionalism
+
+Block proposes a thought experiment in which the entire population of China are connected to each other via two-way radios. This setup, Block argues, is a functional duplicate of the mind. However, this functional duplicate will not re
+
+CHECK FUNCTIONALISM AS A WHOLE
 
 </br>
 
