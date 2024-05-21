@@ -232,5 +232,5 @@
 **Response to response:** To make sense of the claim ‘folk psych. is false’ we must assume intentionality, i.e. some sort of mental phenomena about folk psych. But neuroscience offers no plausible account of intentionality
 
 **Paragraph 3:** Certainty about mental states takes priority. EM is very counter-intuitive. We intuitively know that we have thoughts, desires, beliefs, etc.
-**Response:** Appeals to what is obvious are often problematic
-**Response to response:**  
+**Response:** Appeals to what is obvious are often problematic. Further, the objection misunderstands the Churchlands’ claim: they do not deny the existence of psychological phenomena as such. The acceept that the phenomena we conceptualise as ‘thinking’ occur, or that we experience pain, and deny that folk psych. is the correct theory of nature. Thinking is not defined by intentionality, and pain is not a matter of qualia. Instead, they make the claim that neuroscience will eventually provide the correct account of what these are. This revolution in science will have no place for concepts such as intentionality.
+**Response to response:** Claiming that neuroscience will ‘eventually’ catch up is not good enough - we can argue that EM does not solve anything at the present moment. Perhaps its time will come, but this time has not yet arrived, and so it is not a satisfactory theory.
