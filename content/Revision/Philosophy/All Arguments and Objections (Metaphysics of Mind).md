@@ -39,4 +39,8 @@
 
 ## Eliminative Materialism
 
+**Issues for EM:**
 
+**Certainty about the existence of mental states:** EM is counter-intuitive. What could be more certain than that we have thoughts, desires, etc? No argument could be strong enough to give up such a belief. 
+
+**Folk Psych. has good predictive and explanatory power:** Folk Psych. is not intended to be a theory which explains things such as mental illness, sleep, learning, etc, and so its failure in this is not a criticism
