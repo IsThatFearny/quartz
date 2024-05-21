@@ -1,6 +1,6 @@
 # All Arguments and Objections (Metaphysics of God)
 
-**N.B. Excludes concept of God**
+**N.B. Excludes concept of God and Religious Language**
 
 </br>
 
@@ -63,4 +63,9 @@ conceive it into existence; *Hume - God does not exist is not a contradiction*, 
 ## Problem of Evil
 
 **Logical problem of evil:** If God is omnibenevolent, then he has the desire to eliminate evil, and if he is supremely powerful, then he has the ability to eliminate evil. If God exists and has these properties, then he will eliminate evil. If the omni-god exists, then evil does not, and if evil exists, then god is either not omnibenevolent, or not omnipotent. Thus, this conception of God does not exist.
-**Objections:** *Free will theodicy* - Free will is a great good, and without it our lives would not be morally significant. If we have free will, then it can also be used to do evil. God permits free will because he believes that the good that it brings will outweigh evil; 
+**Objections:** *Free will theodicy* - Free will is a great good, and without it our lives would not be morally significant. If we have free will, then it can also be used to do evil. God permits free will because he believes that the good that it brings will outweigh evil; *Plantinga’s free will defence* - a world containing free creatures is significantly better than a world containing *no* free creatures. God can create said creatures. To be significantly free is to be capable of both moral good and moral evil. If creatures only did what was right, then they would not be free. Thus, God cannot create significantly free creatures that can only do what. God can only eliminate moral evil by eliminating the greater good of significantly free creatures.
+
+**Evidential problem of evil:** God may permit evil, but why does he permit it to the extent that he does (i.e. cause unnecessary suffering), when, if he is omnipotent, he could keep it to the minimum needed.
+**Objections:** *Free will defence* - as above; *Hick and soul-making* - human beings are unfinished, and we will enter a new stage of creation in which we develop morally. Such virtuous development is impossible unless there is evil to respond to and correct. We cannot be courageous if there is no danger, cannot be benevolent if people have no needs, etc.
+
+</br>
