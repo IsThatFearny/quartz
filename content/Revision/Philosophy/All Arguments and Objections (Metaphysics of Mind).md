@@ -19,4 +19,14 @@
 **Objections to *epiphenomenalist* substance dualism:** 
 
 **Problem of other minds:** We can experience our own minds directly, but we cannot experience other people’s mental states - all we have to go on is their behaviour. If bodies are entirely independent from minds, then how can we infer from seeing a body that there is a mind attached?
-**Objections:** *Argument from analogy* - I have a mind, and know from experience that my mental states cause my behaviour. Other people have similar bodies and behave in similar ways to me. By analogy, therefore, their behaviour has the same type of cause as my behaviour, i.e. mental states. Thus
+**Objections:** *Argument from analogy* - I have a mind, and know from experience that my mental states cause my behaviour. Other people have similar bodies and behave in similar ways to me. By analogy, therefore, their behaviour has the same type of cause as my behaviour, i.e. mental states. Therefore, other people have minds; *existence of other minds is the best hypothesis* - the best explanation of the behaviour of other people is that they have similar mental states to me.
+
+**Category mistake:** Substance dualism makes the mistake of thinking that the mind is like the body - i.e. another ‘thing’. It is a mistake to think that physical and mental concepts operate in the same way. To ‘have’ a mind is not be in possession of a ‘thing’.
+
+</br>
+
+## MBTIT
+
+**Issues for MBTIT:**
+
+**Multiple realisability:** Take pain, for example. Many different neurophysiological states could realise pain, and so pain cannot be the same
