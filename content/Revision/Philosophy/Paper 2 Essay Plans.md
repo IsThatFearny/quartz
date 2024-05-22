@@ -146,7 +146,7 @@
 
 ### Property Dualism
 
-**Intro:** Property Dualism fails. Define qualia, supervenience, and property dualism
+**Intro:** Property Dualism succeeds. Define qualia, supervenience, and property dualism
 
 **Paragraph 1:** Philosophical zombies. Zombies (functional duplicates without qualia) are conceivable. If they are conceivable then they are possible. If they are possible then qualia are non-physical and do not supervene on the physical. If this is the case, then property dualism is true. It is the case, and so property dualism is true.
 **Response:** What is possible tells us nothing about the actual world. At best, the argument shows us that physical and phenomenal properties are distinct in *another* possible world. but this does not entail that they are such in *this* world.
