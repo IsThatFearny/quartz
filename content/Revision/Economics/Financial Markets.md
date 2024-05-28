@@ -51,6 +51,7 @@ These are **trade offs** - if a bank wants more liquidity, then they might have 
 - Can invest in risky ideas (e.g. startups)
 
 </br>
+
 #### Bonds
 
 $Bond \ Yield = \frac{Annual \ Coupon}{Market \ Price}$
