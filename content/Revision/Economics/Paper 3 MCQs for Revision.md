@@ -50,3 +50,29 @@
 **26)** Monopsony employers (Micro)
 
 **30)** Index numbers (Macro and Micro)
+
+</br>
+
+### June 2020
+
+**2)** Elasticity of demand for labour
+
+**3)** Inflation - nominal vs real and calculation of rates
+
+**4)** Unemployment and its relation to market equilibrium
+
+**5)** Equality vs equity
+
+**13)** Relationship between money supply and inflation. QE as well
+
+**15)** Total revenue and price elasticity of demand?? check the latter with a teacher
+
+**19)** Long-run phillips curve
+
+**22)** Index numbers
+
+**23)** Subsidy diagrams
+
+**25)** Natural rate of unemployment
+
+**28)** Profit max
