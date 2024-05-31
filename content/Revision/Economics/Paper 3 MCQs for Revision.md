@@ -64,3 +64,11 @@
 **23)** Subsidy diagrams
 **25)** Natural rate of unemployment
 **28)** Profit max
+
+</br>
+
+### June 2021
+
+**3)** Externalities diagrams
+**11)** Asymmetric information
+**16)** Competition diagrams (margia)
