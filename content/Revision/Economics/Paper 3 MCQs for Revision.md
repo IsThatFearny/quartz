@@ -78,3 +78,17 @@
 **26)** Money market
 **27)** Labour supply determinants
 **29)** Expenditure switching
+
+</br>
+
+### June 2022
+
+**3)** PPF calculations
+**11)** Systemic risk
+**14)** Price elasticity of supply
+**22)** Economic cycle
+**24)** Max and efficiency points
+**25)** Government bonds
+**26)** Bank balance sheets
+**27)** Unemployment types and consequences
+**28)** Monopsony wages
