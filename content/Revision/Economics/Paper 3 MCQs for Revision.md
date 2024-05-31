@@ -71,4 +71,10 @@
 
 **3)** Externalities diagrams
 **11)** Asymmetric information
-**16)** Competition diagrams (margia)
+**16)** Competition diagrams (marginal revenue, average revenue, etc.)
+**18)** Taxation + gov. revenue
+**22)** Output gaps and external shocks
+**25)** Output gaps and correlation with growth
+**26)** Money market
+**27)** Labour supply determinants
+**29)** Expenditure switching
