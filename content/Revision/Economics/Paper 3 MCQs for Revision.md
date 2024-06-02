@@ -57,7 +57,7 @@
 **3)** Inflation - nominal vs real and calculation of rates
 **4)** Unemployment and its relation to market equilibrium
 **5)** Equality vs equity
-**13)** Relationship between money supply and inflation. QE as well
+**13)** **Relationship between money supply and inflation. QE as well** 
 **15)** Total revenue and price elasticity of demand?? check the latter with a teacher
 **19)** Long-run Phillips curve
 **22)** Index numbers
