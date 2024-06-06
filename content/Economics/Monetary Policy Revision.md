@@ -76,21 +76,13 @@ id6 --> id8
 
 #### **Forward Guidance**
 
-When the Central Bank announces to markets that it intends to keep interest rates at a certain level until a fixed point the future.
-
-
-
-
+When the Central Bank announces to markets that it intends to keep interest rates at a certain level until a fixed point in the future.
 
 </br>
 
 #### **Funding for Lending (2012-2018)**
 
 A scheme to boost bank lending. Commercial banks were able to borrow even more cheaply from the Bank of England, which allowed them to give cheap loans for firms and consumers
-
-
-
-
 
 </br>
 
