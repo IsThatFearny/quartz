@@ -1,269 +1,77 @@
 ---
-
-excalidraw-plugin: parsed
-tags: [excalidraw]
-
+Type: Notes Page
+Created: 15th November 2022
+Modified: <%+ tp.file.last_modified_date("Do MMMM YYYY HH:mm") %>
+Subject: Philosophy
+Category: Moral Philosophy
+tags: Normative-Ethics
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+# Rule Utilitarianism
+</br>
 
+## The nature of rule Utilitarianism
+</br>
 
-# Text Elements
-Rule Utilitarianism ^ft1EkG56
+### What is the difference between Act and Rule Utilitarianism?
 
+Act Utilitarianism considers the morality of action x in terms of its consequences (does the act maximise happiness?), whereas Rule Utilitarianism considers the morality of action x in terms of whether it complies with the rules that, if followed, would lead to the greatest happiness. 
 
+So, Rule Utilitarianism does not focus on the consequences of individual actions, rather on the consequences of following the rules (that generally maximise happiness)
 
+</br>
 
-Rule Utilitarianism claims that an action is right if, and only if, it complies with those rules which, if everybody
-followed them, would lead to the greatest happiness. An action is morally right if it complies with a rule that
-is morally right. ^XFhWXVED
+### Explain Smart's argument against Rule Utilitarianism
 
-Smart's initial objection ^x9j7OKRl
+Smart's immediate objection to Rule Utilitarianism is that it leads to 'rule worship': if breaking a rule would lead to the greater happiness, then we should break it, Smart points out - but, the Rule Utilitarianism 'investment' in the importance of rules mitigates against such an attitude (leads to the 'idolising' of rules). In other words, Rule Utilitarianism leads to a conservative/risk averse approach that undermines Utilitarianism as a normative ethical theory.
 
-Smart objects that Rule Utilitarianism amounts to 'Rule Worship'. If there is a situation in which breaking a 
-rule will lead to more happiness than following it, then what reason could we have for following the rule.
-The best course of action is for some people to break the rule sometimes, when it leads to the greatest
-happiness to do so.
+</br>
 
-The Rule Utilitarian response to this is that we should amend the rule to allow the exception in such cases.
-However, Smart points out that if we keep amending rules like this, there is no difference between Act and Rule
-Utilitarianism. Furthermore, all amendments to rules lead back to the utility principle, to maximise the greatest
-happiness. Rule Utilitarianism collapses into Act Utilitarianism. ^FCR670Zb
+### Outline how Rule Utilitarianism might respond to Smart's objection by providing a reason for following rules even when they don't maximise happiness
 
-The Rule Utilitarianism argues that morality should be understood as a set of rules. It needs to provide general
-guidance over the long term, something that people can rely on and remember. We need to take in the bigger picture.
-Since we are to have rules, then the aim of these should be to maximise happiness. Even if an action fails to
-maximise happiness in a particular situation, it is still right if it follows a happiness-maximising rule. ^dun1sGwO
+We can avoid 'rule worship by ensuring that rules are readily amendable to allow for exceptions - e.g. the rule 'do not lie' carries potential caveats such as 'unless the truth would harm the recipient's feelings', or 'do not kill' - adding a caveat such as 'unless in self-defence', etc.
 
-%%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.3",
-	"elements": [
-		{
-			"type": "text",
-			"version": 18,
-			"versionNonce": 47349675,
-			"isDeleted": false,
-			"id": "ft1EkG56",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -170.41265869140625,
-			"y": -166.4608917236328,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"width": 322.05584716796875,
-			"height": 45,
-			"seed": 1686273457,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711964215512,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "Rule Utilitarianism",
-			"rawText": "Rule Utilitarianism",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Rule Utilitarianism",
-			"lineHeight": 1.25,
-			"baseline": 32
-		},
-		{
-			"type": "text",
-			"version": 679,
-			"versionNonce": 1447581381,
-			"isDeleted": false,
-			"id": "XFhWXVED",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -543.7599480038598,
-			"y": -191.4311519804455,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 1097.959228515625,
-			"height": 150,
-			"seed": 611757151,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711964226174,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "\n\n\nRule Utilitarianism claims that an action is right if, and only if, it complies with those rules which, if everybody\nfollowed them, would lead to the greatest happiness. An action is morally right if it complies with a rule that\nis morally right.",
-			"rawText": "\n\n\nRule Utilitarianism claims that an action is right if, and only if, it complies with those rules which, if everybody\nfollowed them, would lead to the greatest happiness. An action is morally right if it complies with a rule that\nis morally right.",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "\n\n\nRule Utilitarianism claims that an action is right if, and only if, it complies with those rules which, if everybody\nfollowed them, would lead to the greatest happiness. An action is morally right if it complies with a rule that\nis morally right.",
-			"lineHeight": 1.25,
-			"baseline": 143
-		},
-		{
-			"type": "text",
-			"version": 166,
-			"versionNonce": 1515990091,
-			"isDeleted": false,
-			"id": "x9j7OKRl",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -543.3481061229531,
-			"y": -13.099813673231324,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 324.099853515625,
-			"height": 35,
-			"seed": 701062463,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711964227875,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Smart's initial objection",
-			"rawText": "Smart's initial objection",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Smart's initial objection",
-			"lineHeight": 1.25,
-			"baseline": 24
-		},
-		{
-			"type": "text",
-			"version": 1636,
-			"versionNonce": 1282542565,
-			"isDeleted": false,
-			"id": "FCR670Zb",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -550.1451613219857,
-			"y": 36.066865709092895,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 1112.55908203125,
-			"height": 225,
-			"seed": 860515647,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711964215512,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Smart objects that Rule Utilitarianism amounts to 'Rule Worship'. If there is a situation in which breaking a \nrule will lead to more happiness than following it, then what reason could we have for following the rule.\nThe best course of action is for some people to break the rule sometimes, when it leads to the greatest\nhappiness to do so.\n\nThe Rule Utilitarian response to this is that we should amend the rule to allow the exception in such cases.\nHowever, Smart points out that if we keep amending rules like this, there is no difference between Act and Rule\nUtilitarianism. Furthermore, all amendments to rules lead back to the utility principle, to maximise the greatest\nhappiness. Rule Utilitarianism collapses into Act Utilitarianism.",
-			"rawText": "Smart objects that Rule Utilitarianism amounts to 'Rule Worship'. If there is a situation in which breaking a \nrule will lead to more happiness than following it, then what reason could we have for following the rule.\nThe best course of action is for some people to break the rule sometimes, when it leads to the greatest\nhappiness to do so.\n\nThe Rule Utilitarian response to this is that we should amend the rule to allow the exception in such cases.\nHowever, Smart points out that if we keep amending rules like this, there is no difference between Act and Rule\nUtilitarianism. Furthermore, all amendments to rules lead back to the utility principle, to maximise the greatest\nhappiness. Rule Utilitarianism collapses into Act Utilitarianism.",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Smart objects that Rule Utilitarianism amounts to 'Rule Worship'. If there is a situation in which breaking a \nrule will lead to more happiness than following it, then what reason could we have for following the rule.\nThe best course of action is for some people to break the rule sometimes, when it leads to the greatest\nhappiness to do so.\n\nThe Rule Utilitarian response to this is that we should amend the rule to allow the exception in such cases.\nHowever, Smart points out that if we keep amending rules like this, there is no difference between Act and Rule\nUtilitarianism. Furthermore, all amendments to rules lead back to the utility principle, to maximise the greatest\nhappiness. Rule Utilitarianism collapses into Act Utilitarianism.",
-			"lineHeight": 1.25,
-			"baseline": 218
-		},
-		{
-			"type": "text",
-			"version": 624,
-			"versionNonce": 1953550571,
-			"isDeleted": false,
-			"id": "dun1sGwO",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -545.3879032246552,
-			"y": 299.81686570909295,
-			"strokeColor": "#6741d9",
-			"backgroundColor": "transparent",
-			"width": 1152.9990234375,
-			"height": 100,
-			"seed": 1690861503,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711964215512,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "The Rule Utilitarianism argues that morality should be understood as a set of rules. It needs to provide general\nguidance over the long term, something that people can rely on and remember. We need to take in the bigger picture.\nSince we are to have rules, then the aim of these should be to maximise happiness. Even if an action fails to\nmaximise happiness in a particular situation, it is still right if it follows a happiness-maximising rule.",
-			"rawText": "The Rule Utilitarianism argues that morality should be understood as a set of rules. It needs to provide general\nguidance over the long term, something that people can rely on and remember. We need to take in the bigger picture.\nSince we are to have rules, then the aim of these should be to maximise happiness. Even if an action fails to\nmaximise happiness in a particular situation, it is still right if it follows a happiness-maximising rule.",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "The Rule Utilitarianism argues that morality should be understood as a set of rules. It needs to provide general\nguidance over the long term, something that people can rely on and remember. We need to take in the bigger picture.\nSince we are to have rules, then the aim of these should be to maximise happiness. Even if an action fails to\nmaximise happiness in a particular situation, it is still right if it follows a happiness-maximising rule.",
-			"lineHeight": 1.25,
-			"baseline": 93
-		}
-	],
-	"appState": {
-		"theme": "dark",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#6741d9",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 608.6435812597188,
-		"scrollY": 255.58141823420445,
-		"zoom": {
-			"value": 1.05
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		}
-	},
-	"files": {}
-}
-```
-%%
+Smart argues that this adding of caveats is potentially endless, and results in Rule Utilitarianism collapsing back into Act Utilitarianism, with only one 'rule' remaining - to maximise happiness (i.e. the utility principle) 
+
+</br>
+
+### 4)
+
+Rule Utilitarianism remains preferable to Act Utilitarianism because Rule Utilitarianism alleviates problems of calculation: having generated which rules generally maximise happiness (which is a collective endeavour) we have no need to calculate - the individual task is only to judge which rules applies.
+
+There may be instances in which adhering to the rules does not maximise happiness (e.g. not executing the tramp resulting in civil conflict) nonetheless, in general terms, individual rights (and the rules that protect them) will in the long term maximise happiness.
+
+A rule that allows us to be partial (e.g. to our friends and family) will create more happiness than a rule that requires us to be impartial all the time. We are still required to consider the general happiness (i.e. the 'impartial' happiness of all) but only in such a  way that if everyone looked after the happiness of their own friends, family (and students) then we would be promoting the general happiness.
+
+Rule Utilitarianism can consistently insist that it is best to have one rule that allows exceptions to other rules, when those rules conflict with an individual's moral integrity. So, in the example of George, he does not need to take the chemical weapons job because of his commitment to only using science for peaceful ends.
+
+Rule Utilitarianism to suggest that intentions do count (and so improves on Act Utilitarianism) because two actions may have the same consequences and yet one is right (killing in self-defence) and one is wrong (killing in anger). Since they are different types of actions and fall under different moral rules precisely because the intention was different (i.e. one was in self-defence, and there is a rule permitting killing in such circumstances).
+</br>
+
+## Evaluating rule Utilitarianism
+</br>
+
+### Explain the criticism that Rule Utilitarianism still fails to understand what is important about partiality
+
+Utilitarianism promotes partiality as long as it contributes to the greatest happiness, but does not seem to recognise the importance of the individual and the importance of making someone happy for their own sake.
+
+##### Revised
+
+Yes, it encourages partiality to the extent that it contributes to the general happiness. But it still lacks any recognition of the importance of the individual: of making a friend happy simply for the sake of it.
+</br>
+
+### Explain the criticism that a rule that protects integrity could prove problematic
+
+A rule that protects integrity could prove problematic as there are certainly situations which require us to sacrifice our integrity for the greater happiness. When morality and integrity come into conflict. Rule Utilitarianism insists that moral values are broadly in line with moral rules.
+
+##### Revised
+
+The rule protecting integrity remains problematic because an individual may hold to values that conflict with the pursuit of the general happiness, (e.g. the individual who finds meaning through the limitless pursuit of wealth that isn't conducive with the greatest happiness) It seems that the rule can only hold if maintaining one's integrity is broadly in line with the greatest happiness principle, otherwise the rule utilitarian has either to give up the rule about integrity, or the greatest happiness principle.
+</br>
+
+### Explain the criticism that morality cannot be summed up by rules
+
+This criticism is founded by the statement that 'rules of thumb' are simply too quick and simple, and we can't just trust our gut in exceptional cases and complex matters. In these circumstances, Rule Utilitarianism collapses in on itself, and falls back to Act Utilitarianism.
+
+##### Revised
+
+Rule Utilitarianism  fails because morality cannot be summed up by rules (this criticism is made by virtue ethics): the problems with Rule Utilitarianism reveal a fundamental mistake, namely believing that morality should focus on the moral qualities of actions (which can b summed up in a set of moral rules). Life is too complicated to be summed up in rules - instead normative ethical debate should shift its focus from acts to agents, i.e. persons. (So, not 'what is the moral act?' but 'who is the moral person?')

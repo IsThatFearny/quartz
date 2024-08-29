@@ -1,3 +1,0 @@
-# Essay Competitions
-
-
