@@ -1,0 +1,17 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#bd61ac",
+      "url": "https://oakhamschool.myschoolportal.co.uk/calendar-feed?params=5B146E940BF0AA6F1E061A0587F64753&t=1699621160339&contentItem=20&id=WyJZOTFEdUVORVIySmdESjg5ei90Z1VTdDI4ZGgyeVpjY1JRNEFVV2xaYWpjPSJd"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true,
+  "recursiveLocal": true
+}
