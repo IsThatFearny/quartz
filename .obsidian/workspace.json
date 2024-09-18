@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "075f81d31d32ed1a",
+        "id": "a3690014254524b4",
         "type": "tabs",
         "children": [
           {
-            "id": "20118b89462a3455",
+            "id": "45525cba739b4e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medieval Worlds - Sem 1/Medieval Worlds Lecture 2 - Which Medieval Worlds, Where.md",
-                "mode": "source",
+                "file": "Historian's Toolkit - Sem 1/Historians Toolkit Lecture 1.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Medieval Worlds - Sem 1/Medieval Worlds Lecture 2 - Which Medieval Worlds, Where.md"
+                "file": "Historian's Toolkit - Sem 1/Historians Toolkit Lecture 1.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medieval Worlds - Sem 1/Medieval Worlds Lecture 2 - Which Medieval Worlds, Where.md"
+                "file": "Historian's Toolkit - Sem 1/Historians Toolkit Lecture 1.md"
               }
             }
           },
@@ -156,10 +156,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "20118b89462a3455",
+  "active": "45525cba739b4e73",
   "lastOpenFiles": [
-    "Medieval Worlds - Sem 1/Medieval Worlds Lecture 1.md",
+    "Historian's Toolkit - Sem 1/Historians Toolkit Lecture 1.md",
+    "Historian's Toolkit - Sem 1",
     "Medieval Worlds - Sem 1/Medieval Worlds Lecture 2 - Which Medieval Worlds, Where.md",
+    "Medieval Worlds - Sem 1/Medieval Worlds Lecture 1.md",
     "Templates/Private.md",
     "Templates/Default.md",
     "Templates/Admonition.md",
@@ -186,7 +188,6 @@
     "References/A source book in medieval science1974.md",
     "References/Aquinas, Averroes, and the Human Will2017.md",
     "References/Revisiting the origins of human rights+Halme2015.md",
-    "References/Commentary on the Sentences+undefined.md",
     "References",
     "Untitled.canvas",
     "Attachments/Pasted image 20240515141124.png",
@@ -198,7 +199,6 @@
     "Attachments/IMG_2528 1.jpeg",
     "Attachments/IMG_2528.jpeg",
     "Revision/History",
-    "ObsidianSub",
     "site/img/grid.png",
     "Excalidraw/Scripts/Downloaded/Split text by lines.svg",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
