@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6d6d67cfff4e24e",
+        "id": "c475914eaff998ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e3be5dac36d9e6eb",
+            "id": "4c624519ed4607a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 2.md",
+                "file": "Medieval Worlds - Semester 1/Medieval Worlds Lecture 3 - Medieval Views of the World.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 2.md"
+                "file": "Medieval Worlds - Semester 1/Medieval Worlds Lecture 3 - Medieval Views of the World.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 2.md"
+                "file": "Medieval Worlds - Semester 1/Medieval Worlds Lecture 3 - Medieval Views of the World.md"
               }
             }
           },
@@ -156,13 +156,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e3be5dac36d9e6eb",
+  "active": "4c624519ed4607a8",
   "lastOpenFiles": [
+    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 3 - Medieval Views of the World.md",
+    "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 2.md",
     "Pasted image 20240920144516.png",
     "Pasted image 20240920144259.png",
     "Pasted image 20240920141737.png",
     "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 1.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 2.md",
     "Historian's Toolkit - Semester 1",
     "Medieval Worlds - Semester 1/Medieval Worlds Lecture 2 - Which Medieval Worlds, Where.md",
     "Medieval Worlds - Semester 1/Medieval Worlds Lecture 1.md",
@@ -204,7 +205,6 @@
     "site/img/grid.png",
     "Excalidraw/Scripts/Downloaded/Split text by lines.svg",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Text Arch.svg",
     "History/Stalin WWII Spider Diagrams.canvas",
     "Prep/History/Why did Heath lose the 1974 election.canvas",
     "Prep/Economics/Reducing Inequality Mindmap.canvas",
