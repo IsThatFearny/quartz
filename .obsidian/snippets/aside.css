@@ -1,0 +1,14 @@
+text-decoration: unset;
+    text-align: justify;
+    font-weight: unset;
+    float: right;
+    position: relative;
+    margin-right: -23em;
+    margin-bottom: .2em;
+    clear: right;
+    width: 300px; /* PB changed from 400 */
+    background-color: var(--background-primary-alt);
+    padding: 0.2em 1em 1em 1em; /* PB changed from padding: 1em >> the 4 values */ 
+    box-shadow: .3em .3em var(--interactive-accent);
+    font-size: 14.5px; /* PB added this */
+    border-radius: 4px; /* PB added this */
