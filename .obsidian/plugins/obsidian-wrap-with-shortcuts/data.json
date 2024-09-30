@@ -1,0 +1,28 @@
+{
+  "wrapperTags": [
+    {
+      "id": "w1709563997557",
+      "name": "Add Comment",
+      "startTag": "<label class=\"ob-comment\" title=\"\" style=\"\">{selectedText}<input type=\"checkbox\"> <span style=\"\">",
+      "endTag": "</span></label>"
+    },
+    {
+      "id": "w1675334741587",
+      "name": "Remove link",
+      "startTag": "<span>",
+      "endTag": "</span>"
+    },
+    {
+      "name": "Underline",
+      "startTag": "<u>",
+      "endTag": "</u>",
+      "id": "0"
+    },
+    {
+      "name": "Yellow Highlight",
+      "startTag": "<font style=\"background-color:#ffff00\">",
+      "endTag": "</font>",
+      "id": "1"
+    }
+  ]
+}
