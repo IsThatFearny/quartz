@@ -23,3 +23,8 @@
 **Method:** Primarily using secondary sources on both History and the biology of the plague (as well as archaeological evidence). The occasional primary source is used when first-hand account supports the argument
 
 **Argument:** 
+
+
+#### Work for next week
+
+'**THOMAS**' one of the articles (Geltner probs)
