@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "095bea97f8697aba",
+        "id": "e48ecfc2f0b93938",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e2c7af0626241e",
+            "id": "d21c167ad204ac7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 2.md",
+                "file": "Medieval Worlds - Semester 1/Medieval Worlds Tutorial 2 Prep.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 2.md"
+                "file": "Medieval Worlds - Semester 1/Medieval Worlds Tutorial 2 Prep.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 2.md"
+                "file": "Medieval Worlds - Semester 1/Medieval Worlds Tutorial 2 Prep.md"
               }
             }
           },
@@ -156,10 +156,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e8e2c7af0626241e",
+  "active": "d21c167ad204ac7d",
   "lastOpenFiles": [
-    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 2 Prep.md",
+    "Medieval Worlds - Semester 1/Medieval Worlds Tutorial 2 Prep.md",
     "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 2.md",
+    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 2 Prep.md",
     "Medieval Worlds - Semester 1/Medieval Worlds Lecture 5 - Transformation of the post-Roman west.md",
     "Pasted image 20240930100944.png",
     "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 4.md",
@@ -191,7 +192,6 @@
     "References/The Haitian Revolution2000.md",
     "References/Haiti and Jamaica in the Remaking of the Early Nineteenth-Century Atlantic World2012.md",
     "References/Creation Out Of Nothing A Biblical, Philosophical, And Scientific Exploration By William Lane Craig And Paul Copan1990.md",
-    "References/Encylopedia of Renaissance Philosophy.md",
     "References",
     "Untitled.canvas",
     "Attachments/Pasted image 20240515141124.png",
