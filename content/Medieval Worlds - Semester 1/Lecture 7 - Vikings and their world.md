@@ -13,5 +13,18 @@
 
 #### Causes of Viking activity
 
-****
+**Overpopulation in Scandinavia:** Seeking out new places to live was not a feature of early raiding
 
+**Technological innovation:** Better, more seaworthy ships? Perhaps capable of tougher and longer/more intricate expeditions. However, technological innovations pre-date the start of raiding by a few centuries
+
+**The marriage imperative:** Plundered items often found in women's graves. It is questioned whether raiding was a technique to improve chances of a favourable marriage by increasing wealth 
+
+</br>
+
+- Vikings built large-scale trade networks throughout most of Europe, as well as Greenland, Iceland and North America
+
+![[Pasted image 20241007103445.png|300]]
+
+- Unlikely that Viking settlements were set up without some violence from the native population (e.g. Newfoundland colony was relatively short lived because of the constant threat from Native Americans; place names in Shetland and Orkney are almost entirely derived from Old Norse)
+- Some contact between populations did exist in certain places. Archaeological evidence shows that certain local techniques were shared with the settlers (e.g. pottery and ceramic making)
+- Iceland had no native population and was settled anew - a form of collective governance was established
