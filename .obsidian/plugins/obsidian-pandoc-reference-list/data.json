@@ -1,0 +1,11 @@
+{
+  "pathToPandoc": "C:\\Users\\willf\\AppData\\Local\\Pandoc\\pandoc.EXE",
+  "tooltipDelay": 800,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "C:\\Users\\willf\\Obsidian\\Citation Library.bib",
+  "showCitekeyTooltips": true,
+  "hideLinks": true
+}
