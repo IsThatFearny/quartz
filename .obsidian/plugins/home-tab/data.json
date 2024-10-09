@@ -1,0 +1,56 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 6.md",
+      "timestamp": 1728472268637
+    },
+    {
+      "filepath": "Historian's Toolkit - Semester 1/Coursework.md",
+      "timestamp": 1728470349548
+    },
+    {
+      "filepath": "Historian's Toolkit - Semester 1/Coursework Source Notes.md",
+      "timestamp": 1728470344627
+    },
+    {
+      "filepath": "Medieval Worlds - Semester 1/Medieval Worlds Lecture 8 - Power and Society in Post-Carolingian Europe.md",
+      "timestamp": 1728464372682
+    },
+    {
+      "filepath": "Medieval Worlds - Semester 1/Medieval Worlds Lecture 7 - Vikings and their world.md",
+      "timestamp": 1728464269231
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true,
+  "showStarredFiles": true,
+  "starredFileStore": []
+}
