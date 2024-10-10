@@ -51,6 +51,7 @@
 
 </br>
 ### Annexation of Oudh
+
 - Lord Dalhousie used the lack of a male heir in Oudh to annexe the princely state - king and courtiers dispossessed and imperial title discontinued
 - Caused great consternation in other areas with regal rulers, who were wary about the same happening to their thrones
 - Excessive taxation was introduced in some areas of Oudh - peasants with small holdings were disgruntled by this, as were larger landowners who were stripped of their holdings
