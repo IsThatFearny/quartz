@@ -20,6 +20,9 @@ Varlik involves herself in the debate over globalisation of plague research. Her
 Carole Rawcliffe, “The View from the Streets: The Records of Hundred and Leet Courts as a Source for Sanitary Policing in Late Medieval English Towns,” in <i>Policing the Urban Environment in Premodern Europe</i>, ed. Carole Rawcliffe and Claire Weeda (Amsterdam University Press, 2019), 69–96, <a href="https://doi.org/10.1017/9789048536221.003">https://doi.org/10.1017/9789048536221.003</a>.
 
 ---
-Rawcliffe argues that the records of late Medieval English 'leet courts' provide a previously highly underutilised resource when studying pre-modern European public health. She says that these records document the day-to-day bureaucracy of sanitisation in medieval cities, outside of pandemic events as well as during them.
+Rawcliffe argues that the records of late Medieval English 'leet courts' provide a previously highly underutilised resource when studying pre-modern European public health. She says that these records document the day-to-day bureaucracy of sanitisation in medieval cities, outside of pandemic events as well as during them. It is also pointed out that the lack of use of these records is likely the cause of the neglect of medieval public health histories.
 
-Rawcliffe points out that, whilst leet court records could sometimes be vague or incomplete, they show that there was a system 
+Rawcliffe points out that, whilst leet court records could sometimes be vague or incomplete, they show that there was a system (however successful) of policing and enforcement of public health 'offences'. Rawcliffe gives the example of those who sold food to the public which posed a health risk: cooks could have their property confiscated, 'consigned to the pillory' or be forced to give up their trade for a year. Such punishments are evidence of a societal health consciousness, i.e. a collective understanding, at least at governmental level, of the dangers of certain practises. Whether or not this consciousness was reflective of widespread knowledge is another matter, but there is clear evidence of preventative action.
+
+The debate with which Rawcliffe's article participates
+
