@@ -1,0 +1,37 @@
+{
+  "shortcuts": [
+    {
+      "regex": "MN",
+      "replacement": "echo 'Moral Naturalism'"
+    },
+    {
+      "regex": ":?",
+      "command": "echo ？"
+    },
+    {
+      "regex": "^now$",
+      "command": "printf `date +%H:%M`"
+    },
+    {
+      "regex": "^pagebreak:",
+      "command": ""
+    },
+    {
+      "regex": "^eval:",
+      "command": "echo <text> | cut -c 6- | python3 -c 'print(eval(input()), end=\"\")'"
+    },
+    {
+      "regex": "^shell:",
+      "command": "echo <text> | cut -c 7- | sh"
+    },
+    {
+      "regex": "^tool:",
+      "command": "echo <text> | cut -c 6- | python3 <scripts_path>/tool.py"
+    },
+    {
+      "regex": "^sympy:",
+      "command": "echo <text> | cut -c 7- | python3 <scripts_path>/sympy_tool.py"
+    }
+  ],
+  "shell": "/bin/sh"
+}
