@@ -20,4 +20,6 @@ Varlik involves herself in the debate over globalisation of plague research. Her
 Carole Rawcliffe, “The View from the Streets: The Records of Hundred and Leet Courts as a Source for Sanitary Policing in Late Medieval English Towns,” in <i>Policing the Urban Environment in Premodern Europe</i>, ed. Carole Rawcliffe and Claire Weeda (Amsterdam University Press, 2019), 69–96, <a href="https://doi.org/10.1017/9789048536221.003">https://doi.org/10.1017/9789048536221.003</a>.
 
 ---
-Rawcliffe argues that the records of late Medieval English 'leet courts' provide a previously highly underused resource when studying
+Rawcliffe argues that the records of late Medieval English 'leet courts' provide a previously highly underutilised resource when studying pre-modern European public health. She says that these records document the day-to-day bureaucracy of sanitisation in medieval cities, outside of pandemic events as well as during them.
+
+Rawcliffe points out that, whilst leet court records could sometimes be vague or incomplete, they show that there was a system 
