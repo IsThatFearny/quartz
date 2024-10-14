@@ -15,6 +15,7 @@ Mukherjee points out that there is clear evidence of communication along non-mil
 
 ### What does Dasgupta mean when he describes the sepoy mutinies as an "assertion of autonomous power" and how compatible is his characterisation of the Rebellion with Mukherjee's?
 
-
+Dasgupta's argument is that the sepoy mutiny was designed to show that the sepoys were able to wield power independently of the East India Company and of the Indian elites. The sepoys 'insisted on having the final say' and were, for a long time, able to refuse certain directions from the EIC such as travelling overseas. This characterisation is hardly compatible with Mukherjee's, who characterises the Sepoys as 'peasants in uniform'; Dasgupta portrays the Sepoys as seeking to become the new elite, and having significant power in society. He argues that they did not identify with the plight of the peasants in the way that Mukherjee suggests.
 
 ### In responding to the hypothetical essay question (Were the rebelling sepoys part of a wider people's movement?) which possible responses or positions can you identify so far on the basis of this week's reading - and which do you find most compelling right now?
+
