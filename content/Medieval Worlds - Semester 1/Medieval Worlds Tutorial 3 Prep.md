@@ -11,3 +11,4 @@ The sagas have a strong element of fantasy about them: take, for example, the un
 
 ### What differences can you see in the manner in which Gudrid is presented in the _Saga of the Greenlanders_, which is discussed in Barraclough's chapter, and in the _Saga of the Eirik the Red_, which you have read for yourself? How significant are those differences?
 
+In the *Saga of the Greenlanders*, Gudrid is presented as 'the real hero' of the saga; whereas in the *Saga of Eirik the Red* she is pictured as more of a motherly figure, a housewife of sorts. There is no mention of her travel, even after Thorstein's death, which is when *Saga of the Greenlanders* claims that she first travelled abroad.
