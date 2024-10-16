@@ -14,4 +14,3 @@
 
 - If Indians had complained about cultural interference, Evangelicals in Britain maintained that it was lack of Christianity and blamed the EIC for their overly secular nature
 - Newspapers, magazines, and paintings did much to depict Indians as untrustworthy, bloodthirsty, irrational, etc. This was not, however, a universal view
-- 
