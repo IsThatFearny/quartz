@@ -23,6 +23,12 @@ It becomes quite clear that the creator the Hereford *mappamundi* intended the m
 
 Upon first glance at the preface to the *Alexiad*, the aims of Anna Komnene may seem immediately clear: she professes that she is trying to prevent her father's deeds from being forgotten and to keep a written record of his reign. However, recent scholarship suggests that, in direct contention with Komnene's claim, Alexios Komnenos' memory was not likely to be forgotten: it was a key tool used in consolidating the legitimacy of his successors.[^8] Thus it is commonly argued that the *Alexiad* was not merely a history, but a political tool intended to be used in Anna Komnene's attempt at usurpation and various other Machiavellian political manoeuvres. 
 
+The first evidence of this comes in the preface to the *Alexiad*. Komnene asserts herself as 'born in the purple', a title which gave legitimacy to one's lineage, and as 'having read thoroughly the treatises of Aristotle and the dialogues of Plato, and having fortified my mind with the Quadrivium of sciences'.[^10] Whilst she insists that she divulges such information 'out of compulsion', there is a clear hidden purpose: Komnene means to assert herself as deserving of the throne that she was denied. She saw herself as significantly better educated than her brother who had won the throne, and saw such intelligence as the requirement for ruling.[^11] Here, she makes her superior intellect very clear, and in doing so promotes the message that she is the rightful heir to the throne. This propaganda was intended as an attempt to legitimise her claim, so that in the event of a coup (which she did indeed attempt), she could argue that she was deserving of the throne.
+
+
+
+Another manifestation of what Anna Komnene was trying to achieve in writing the *Alexiad* is the way in which she subtly criticises the reign of her nephew, Manuel, who she and her supporters to have a false claim to the throne - she believed that she was the best suited to rule and the natural heir to her father. Manuel was known for favouring foreign 'barbarians', a love for astrology, and his infidelity with various mistresses: these qualities, when directly contrasted with Komnene's account of her father's devotion to Christianity, serve to portray Manuel as blasphemous and thus unworthy of the throne.[^9]
+
 
 
 </br>
@@ -34,3 +40,6 @@ Upon first glance at the preface to the *Alexiad*, the aims of Anna Komnene may 
 [^5]: Jocelyn Wogan-Browne, “Reading the World: The Hereford Mappa Mundi.”
 [^6]: Natalia Lozovsky, “‘Geography and Ethnography in Medieval Europe: Classical Traditions and Contemporary Concerns,’” in <i>Geography and Ethnography: Perceptions of the World in Pre-Modern Societies</i>, ed. Kurt A. Raaflaub and Richard J. A. Talbert (Newark, UNITED KINGDOM: John Wiley &#38; Sons, Incorporated, 2010), <a href="http://ebookcentral.proquest.com/lib/ed/detail.action?docID=477863">http://ebookcentral.proquest.com/lib/ed/detail.action?docID=477863</a>.
 [^8]: Albrecht Classen, “Byzantium between East and West: Competing Hellenisms in the Alexiad of Anna Komnene and Her Contemporaries,” in <i>East Meets West in the Middle Ages and Early Modern Times Transcultural Experiences in the Premodern World</i>, Fundamentals of Medieval and Early Modern Culture ; 14 (Berlin ; De Gruyter, 2013).
+[^9]: Classen, “Byzantium between East and West: Competing Hellenisms in the Alexiad of Anna Komnene and Her Contemporaries.”
+[^10]: Extracts from Anna Komnene's _Alexiad_: translation adapted from E. R. A. Sewter, _The Alexiad_ (London 1969); and Elizabeth A. S. Dawes, _The Alexiad of Anna Comnena_ (London, 1928)
+[^11]: Classen, “Byzantium between East and West: Competing Hellenisms in the Alexiad of Anna Komnene and Her Contemporaries.”
