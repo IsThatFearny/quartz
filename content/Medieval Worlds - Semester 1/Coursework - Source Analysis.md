@@ -25,11 +25,11 @@ Upon first glance at the preface to the *Alexiad*, the aims of Anna Komnene may 
 
 The first evidence of this comes in the preface to the *Alexiad*. Komnene asserts herself as 'born in the purple', a title which gave legitimacy to one's lineage, and as 'having read thoroughly the treatises of Aristotle and the dialogues of Plato, and having fortified my mind with the Quadrivium of sciences'.[^10] Whilst she insists that she divulges such information 'out of compulsion', there is a clear hidden purpose: Komnene means to assert herself as deserving of the throne that she was denied. She saw herself as significantly better educated than her brother who had won the throne, and saw such intelligence as the requirement for ruling.[^11] Here, she makes her superior intellect very clear, and in doing so promotes the message that she is the rightful heir to the throne. This propaganda was intended as an attempt to legitimise her claim, so that in the event of a coup (which she did indeed attempt), she could argue that she was deserving of the throne.
 
-
-
 Another manifestation of what Anna Komnene was trying to achieve in writing the *Alexiad* is the way in which she subtly criticises the reign of her nephew, Manuel, who she and her supporters to have a false claim to the throne - she believed that she was the best suited to rule and the natural heir to her father. Manuel was known for favouring foreign 'barbarians', a love for astrology, and his infidelity with various mistresses: these qualities, when directly contrasted with Komnene's account of her father's devotion to Christianity, serve to portray Manuel as blasphemous and thus unworthy of the throne.[^9]
 
+It is also argued that Anna Komnene did not conceive of lone rule - rather, she envisaged a successful usurpation as establishing her husband, Nikephoros Byrennios, as the 'de jure' emperor (i.e. leading battles and acting as the face of the monarchy) and her as 'de facto' empress, making decisions and using her scholarship for the benefit of the empire.[^12] She may have thought of herself as embodying Plato's conception of a 'philosopher king'.[^13] Thus, in writing the history of her father, Komnene also seeks to legitimise her husband as deserving of the throne and the associated power, describing him as 'very intelligent, and truly superior to his contemporaries', and affording him the title of 'Caesar', a title which Alexios had originally bestowed upon him. Such reaffirmation of her husband's right to rule comes across as an attempt to legitimise both her husband, and by extension, herself.
 
+The *Alexiad* was written as a propaganda document, in an attempt to glorify and endorse Anna Komnene (and her husband), despite Komnene's own protestations about this being the purpose. In extolling Alexios Komnenos and herself, she portrayed her opponents as underserving of the throne, in the hopes that it would present her in a more appealing light when it inevitably came to her attempted usurpation. Whilst this purpose was clearly not realised to the extent that she might haev wi
 
 </br>
 
@@ -43,3 +43,5 @@ Another manifestation of what Anna Komnene was trying to achieve in writing the 
 [^9]: Classen, “Byzantium between East and West: Competing Hellenisms in the Alexiad of Anna Komnene and Her Contemporaries.”
 [^10]: Extracts from Anna Komnene's _Alexiad_: translation adapted from E. R. A. Sewter, _The Alexiad_ (London 1969); and Elizabeth A. S. Dawes, _The Alexiad of Anna Comnena_ (London, 1928)
 [^11]: Classen, “Byzantium between East and West: Competing Hellenisms in the Alexiad of Anna Komnene and Her Contemporaries.”
+[^12]: Barbara Hill, “Actions Speak Louder than Words: Anna Komnene’s Attempted Usurpation,” in <i>Anna Komnene and Her Times</i>, 1st ed. (United Kingdom: Routledge, 2000), 45–62.
+[^13]: Classen, “Byzantium between East and West: Competing Hellenisms in the Alexiad of Anna Komnene and Her Contemporaries.”
