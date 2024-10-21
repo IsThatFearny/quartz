@@ -1,0 +1,48 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 5 Prep.md",
+      "timestamp": 1729509006466
+    },
+    {
+      "filepath": "Medieval Worlds - Semester 1/Medieval Worlds Lecture 11 - Pagans and the Edges of Christendom.md",
+      "timestamp": 1729508844176
+    },
+    {
+      "filepath": "Medieval Worlds - Semester 1/Coursework - Source Analysis.md",
+      "timestamp": 1729503189684
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true,
+  "showStarredFiles": true,
+  "starredFileStore": []
+}
