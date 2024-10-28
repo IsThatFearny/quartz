@@ -1,0 +1,10 @@
+{
+  "findText": "**Response to Response:**",
+  "replaceText": "**Response<sup>2</sup>:**",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": false
+}
