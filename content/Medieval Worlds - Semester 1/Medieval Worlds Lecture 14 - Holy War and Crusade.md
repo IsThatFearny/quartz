@@ -13,4 +13,17 @@
 - The pope then preached a campaign at the Council of Clermont in November 1095
 - Urban II launched the First Crusade at Clermont for various reasons
 	- Influenced by the ideals of recovering Jerusalem and aiding Christians in the east
-	- 
+	- Played into the ideals of a reformed Papacy
+	- Perhaps an opportune moment to campaign in the East
+
+</br>
+
+### Crusading privileges
+
+- A crusader could get many privileges over a regular citizen, such as:
+	- Ecclesiastical protection over proprty
+	- Possessions released from the controlling authority of the state during the crusade
+	- Exempt from the payment of taxes
+	- Suspension of debts
+- If the crusader's vow was broken, then they could be excommunicated
+- In terms of spiritual privileges, a crusader could be forgiven their sins and given a promise of getting into heaven
