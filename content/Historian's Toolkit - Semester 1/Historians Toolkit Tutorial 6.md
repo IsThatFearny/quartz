@@ -18,3 +18,9 @@ Kennedy argues that the mythology of Stonewall primarily involves a narrative of
 ### In the oral history interview Virginia Apuzzo conveys forcefully that Stonewall _was_ transformative. How should we make sense of Apuzzo's view alongside Kennedy's more cautious interpretation of Stonewall’s significance?
 
 Apuzzo's view is not incorrect, per se, but is perhaps exaggerative. An acknowledgement that gay life and activism existed in many forms pre-stonewall may be required in explaining the effects of stonewall. There is little doubt that Stonewall did change the mindset of many gays and lesbians in the Western World, but whether it was the first instance of LGBT 'activism' in the Western World is doubtful. As Kennedy shows, Lesbians (and perhaps by extension, gay men) indeed had their own world pre-stonewall and were involved in activism.
+
+</br>
+
+
+> [!NOTE] Essay Q
+> 'To what extent do the value of Oral History interviews lie "not upon i'
