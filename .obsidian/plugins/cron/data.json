@@ -1,8 +1,0 @@
-{
-  "cronInterval": 15,
-  "runOnStartup": true,
-  "enableMobile": true,
-  "watchObsidianSync": false,
-  "crons": [],
-  "locks": {}
-}
