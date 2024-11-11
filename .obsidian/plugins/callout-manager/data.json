@@ -1,0 +1,48 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "question": [
+        {
+          "changes": {
+            "color": "174, 68, 213"
+          }
+        }
+      ],
+      "note": [
+        {
+          "changes": {
+            "color": "66, 135, 255"
+          }
+        }
+      ],
+      "summary": [
+        {
+          "changes": {
+            "color": "59, 206, 232"
+          }
+        }
+      ],
+      "tldr": [
+        {
+          "changes": {
+            "color": "56, 202, 232"
+          }
+        }
+      ],
+      "quote": [
+        {
+          "changes": {
+            "color": "0, 213, 255"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

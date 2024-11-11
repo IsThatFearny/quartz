@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "2f101dd487cf13b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ab248f5ae16a796",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Prep/What is Virtue Epistemology.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75c6fb84b4e4f296",
+    "type": "split",
+    "children": [
+      {
+        "id": "2882572433d44828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb430a94cf1ef9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cde660d0f5032142",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8a6e689d13b1869",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6102ef975af83e5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d906252660f3b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "37fd1727fad42ac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15311e38c1c980f5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "ob_comments",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "50975cfc56d72ea0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prep/What is Virtue Epistemology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cd370b8b0425655",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Prep/What is Virtue Epistemology.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bdc1421552ae317",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c4aed72b573e1b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Prep/What is Virtue Epistemology.md"
+              }
+            }
+          },
+          {
+            "id": "9a8e097ac9181772",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "093721e1477a360c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c779e4f96c64e03",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9ab248f5ae16a796",
+  "lastOpenFiles": [
+    "Home.md",
+    "Excalidraw/Drawing 2022-10-13 10.50.23.md",
+    "Philosophy/What is Virtue Epistemology.md",
+    "Philosophy/Contents (Philosophy).md",
+    "Philosophy/Quotes.md",
+    "Philosophy/Non-hedonistic Utilitarianism (Revised from Prep).md",
+    "Philosophy/Glossary.md",
+    "Maths/The Discriminant.md",
+    "Philosophy/Truth Tracking.md",
+    "Economics/The Circular Flow of Income.md"
+  ]
+}
