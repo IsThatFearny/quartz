@@ -24,3 +24,17 @@
 
 **Without the work of earlier ‘homophile’ organisations there would have been no Stonewall. Do you agree?**
 
+- Pre-stonewall non-homophile/homophile movements
+- Civil rights progress (or lack thereof) pre-stonewall
+- Spontaneity in the Stonewall riots
+- Bar defence strategies
+
+</br>
+
+### Task 3
+
+- Inconsistent citations, although well substantiated assertions
+- Perhaps too many direct quotations - makes it feel as if the author is simply restating other academics' points without adding much of their own interpretation
+- Conclusion is well written and sums up the essay nicely. Likewise, the introduction sets out the plan for the essay.
+- Well-structured and paragraphed nicely
+- Line of argument obvious and maintained throughout
