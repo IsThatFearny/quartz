@@ -5,14 +5,14 @@
 
 ### List of differences
 
-- Gallis est omnis divisa in partes tres
-	- "*All of gaul* is divided into three parts"
+- Gallia est omnis divisa in partes tres
+	- "*All of Gaul* is divided into three parts"
 	- ''Gaul is *a whole* divided into three parts"
 	- "Gaul *comprises three areas*"
 
-There is a major difference in how the first two translations deal with '*Gallis est omnis*'. #1 translates it as 'all of gaul', whereas #2 translates it as 'Gaul is a whole'. '*omnis*' can be translated as 'all' *or* 'whole'. 
+There is a major difference in how the first two translations deal with '*Gallis est omnis*'. #1 translates it as 'all of gaul', whereas #2 translates it as 'Gaul is a whole'. '*omnis*' can be translated as 'all' *or* 'whole'. In this case, it would seem that 'all of Gaul' is the better translation, because '*omnis*', when used to mean 'whole' as a noun (as we see here) is a neuter plural noun. If 'Gaul is a whole' were the translation, one might expect to see '*summa*', which would match the gender of 'Gallia' (i.e. feminine)
 
-#3 does not translate '*divisa*' ('divided'). Likewise, 'parts' seems a better translation than areas (if the intention were areas then '*regio*' would likely have been used to denote a region). One can see how 'comprises' might have been chosen, but if it that was the intended meaning then '*contineo*' or similar might have been used - '*omnes*' is not a synonym
+#3 does not translate '*divisa*' ('divided'). Likewise, 'parts' seems a better translation than areas (if the intention were areas then '*regio*' would likely have been used to denote a region). One can see how 'comprises' might have been chosen, but if it that was the intended meaning then '*contineo*' or similar might have been used - '*omnis*' is not a synonym
 
 - quarum unam incolunt Belgae
 	- "one of which the Belgae inhabit"
