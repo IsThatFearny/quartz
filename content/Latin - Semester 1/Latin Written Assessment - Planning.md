@@ -51,7 +51,7 @@ Whilst #2 is not necessarily wrong, stylistically 'called in their own tongue' d
 	- "All these are different one from another in language, institutions, and laws"
 	- "All of these have different languages, customs, and laws"
 
-
+'Customs' is the more accurate translation of '*institutis*'. #3 translates as these societies 'having' different languages, etc, despite no form of '*habeo*' being present in the original Latin. 'differ' is the better translation then 'are different' as there is no form of 'to be' present; likewise 'one from another' is less fluent English than 'from each other'  
 
 - Gallos ab Aquitanis Garumna flumen
 	- "The Garonne river separates the Gauls from the Aquitani"
