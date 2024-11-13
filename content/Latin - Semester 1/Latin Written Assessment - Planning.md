@@ -19,9 +19,8 @@ There is a major difference in how the first two translations deal with '*Gallis
 	- "one of which is *inhabited by* the Belgae"
 	- "inhabited *respectively* by the Belgae"
 
-#1 is largely accurate. Incolunt is the 
 
-If #2 were to be fully accurate, then the original text would have to include '*a/ab*', because the ablative of agent requires a preposition when the agent is a group of people. So #2 would only be accurate if the original text read 'quarum unam incolunt ab Belgae'
+#1 translates '*incolunt*' as the active voice, and therefore treats the Belgae as the subject of the sentence. However, #2 translates '*incolunt*' as if it were the passive, when it is in fact in the active voice. If #2 were correct, then the original would read '*incoluntur*'
 
 #3 omits '*unam*', and conjures 'respectively', perhaps for convenience but this is inaccurate.
 
@@ -30,21 +29,22 @@ If #2 were to be fully accurate, then the original text would have to include '*
 	- "another *by the* Aquitani"
 	- "the Aquitani"
 
-
+#1 follows the previous, translating as the active. #2 maintains the passive voice and is therefore less accurate.
+#3 ignores '*aliam*' (meaning another)
 
 - tertiam qui ipsorum lingua Celtae
 	- "and the third those who *in their own language* are called Celts"
 	- "and a third by a people *called in their own tongue* Celtae"
 	- "and a people who *call themselves* Celts"
 
-
+Whilst #2 is not necessarily wrong, stylistically 'called in their own tongue' does not come across as fluent English. It may be better to translate it as in the first translation and sacrifice literal accuracy. '*qui*' is translated in the first as 'who' - other translations omit this. Similarly, the second translation keeps the Latin '*Celtae*', which may be better understood as simply 'celts', as in the other translations. #3 omits '*tertiam*'. '*ipsorum*' translates better as 'their own'.
 
 - nostra Galli appellantur
 	- "in our language Gauls"
 	- "in the Latin Galli"
 	- "though we call them Gauls"
 
-
+'*appelantur*' is in the passive, although none translate is as such. If it were to be translated like this, then it might look like 'they are being called Gauls'. For the sake of readability and correct English, this omission makes sense. #1 translates '*nostra*' most accurately as 'our'. #2 keeps the gist of the sentence, but is not literal enough to be called accurate.
 
 - Hi omnes lingua, institutis, legibus inter se differunt
 	- "All these differ from each other in language, customs, and laws"
