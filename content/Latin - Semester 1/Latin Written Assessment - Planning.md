@@ -104,3 +104,37 @@
 
 
 - cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt
+	- "either keeping them from their own borders or themselves waging war on their territories"
+	- "either endeavouring to keep them out of Gallic territory or waging an aggressive warfare in Germany territory"
+	- "either trying to keep them out of Switzerland or themselves invading Germany"
+
+
+
+- Eorum uni, pars, quam Gallos obtinere dictum est, initium capit a flumine Rhodano, continetur Garumna flumine, Oceano, finibus belgarum, attingit etiam ab Sequanis et Helvetiis flumen Rhenum, vergit ad septentriones
+	- "The region of the Gauls begins at the Rhone river, is bounded by the Garonne river, the Ocean, and the borders of the Belgae, and also reaches the Rhine River from the direction of the Sequani and the Helvetii; it faces north"
+	- "The separate part of the country which, as has been said, is occupied by the Gauls, starts from the river Rhone, and is nounded by the river Gawronne, the Ocean, and the territory of the Belgae; moreover, on the side of the Sequani and the Helvetii, it touches the river Rhine; and tis general trend is northward"
+	- "The region occupied by the Celts, which has one frontier facing north, is bounded by the Rhone, the Garonne, the Atlantic Ocean, and the country of the Belgae; the part of it inhabited by the Sequani and the Helvetii also touches the Rhine"
+
+
+
+- Belgae ab extremis Galliae finibus oriuntur, pertinent ad inferiorem partem fluminis Rheni, spectant in septentrionem et orientem solem
+	- "The Belgtae arise from the farthest borders of Gaul; they dwell down to the lower part of the Rhine river, looking north and east"
+	- "The Belgae, beginning from the edge of the Gallic territory, reach to the lower part of the river Rhine, bearing towards the north and east"
+	- "The Belgic territory, facing north and east, runs from the northern frontier of the Celts to the lower Rhine"
+
+
+
+- Aquintania a Garumna flumine ad Pyrenaeos montes et eam partem Oceani quae est ad Hispaniam pertinet
+	- "Aquitania extends from the Garonne River to the Pyrenees and that part of the Ocean facing Spain"
+	- "Aquitania, starting from the Garonne, reaches to the Pyrenees and to that part of the Ocean which is by Spain"
+	- "Aquitania is bounded by the Garonne, the Pyrenees, and the part of the Atlantic coast nearest Spain"
+
+
+
+- spectat inter occasum solis et septentriones
+	- "it lies between the setting of the sun and the north"
+	- "its bearing is between west and north"
+	- "it faces north-west"
+
+
+
