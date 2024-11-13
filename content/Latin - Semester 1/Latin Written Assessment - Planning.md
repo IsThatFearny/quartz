@@ -19,7 +19,11 @@ There is a major difference in how the first two translations deal with '*Gallis
 	- "one of which is *inhabited by* the Belgae"
 	- "inhabited *respectively* by the Belgae"
 
+#1 is largely accurate. Incolunt is the 
 
+If #2 were to be fully accurate, then the original text would have to include '*a/ab*', because the ablative of agent requires a preposition when the agent is a group of people. So #2 would only be accurate if the original text read 'quarum unam incolunt ab Belgae'
+
+#3 omits '*unam*', and conjures 'respectively', perhaps for convenience but this is inaccurate.
 
 - aliam Aquitani
 	- "another the Aquitani"
