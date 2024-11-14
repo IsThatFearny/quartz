@@ -58,24 +58,22 @@ Whilst #2 is not necessarily wrong, stylistically 'called in their own tongue' d
 	- "The Galli (Gauls) are separated from the Aquitani by the river Garonne, from the Belgae by the Marne and the Seine"
 	- "The Celts are separated from the Aquitani by the river Garonne, from the Belgae by the Marne and Seine"
 
-
-
-In #1, the Garonne river is the subject of the sentence, as it is doing the separating. Therefore, '*Garumna*' should be in the nominative - this is indeed the case. However, in #2 and #3, the Garonne is not the subject, rather it is the Gauls/Celts. They are separated from the Aquitani *by* the river. '*Garumna*' could here be either in the nominative or the ablative - one feels that it should be interpreted as the ablative in order to facilitate for the prepositions '*ab*' and '*a*'
-
-
-
+In #1, the Garonne river is the subject of the sentence, as it is doing the separating. Therefore, '*Garumna*' should be in the nominative - this is indeed the case. However, in #2 and #3, the Garonne is not the subject, rather it is the Gauls/Celts. They are separated from the Aquitani *by* the river. One feels that '*Garumna*' should be interpreted as the ablative in order to facilitate for the prepositions '*ab*' and '*a*'.
 
 - Horum omnium fortissimi sunt Belgae
 	- "Of all these, the Belgae are the strongest"
 	- "Of all these peoples the Belgae are the most courageous"
 	- "The Belgae are the bravest of the three peoples"
 
+#1 translates most literally, omitting 'peoples' as included in the latter two translations. However, for clarity, the inclusion of people's makes better sense, as one could technically believe that the Belgae is the name of a river. The translation of '*forissimi*' may be better understood as 'courageous' or 'bravest' rather than 'strongest', especially when considered in the context of the later mention of 'things which tend to soften their warlike spirit' - this seems to apply best to 'bravest' and 'most courageous'. #3 omits '*Horum*' (i.e. these), and adds 'three', perhaps for clarity in English, although one feels that this is not required. All three translate 'fortissimi' in the superlative.
 
 
 - propterea quod a cultu atque humanitate provinciae longissime absunt
 	- "because they are the farthest removed from the refined and civilised province"
 	- "because they are the farthest removed from the culture and the civilisation of the province"
 	- "being farthest removed from the highly developed civilisation of the Roman Province"
+
+#3 ignores '*propterea*' entirely, as it does for 'cultu. Similarly, the use of '*absunt*' in the 3rd person plural lends itself better to the inclusion of 'they' in the translation. '*provinciae*' is in the singular feminine genitive, and therefore #2 translates this better - the province possesses the culture and civilisation rather than 'refined and civilised' being simple adjectives. '*humanitatis*' is better translated as 'culture', although '*cultu*' also translates more directly as such, hence why '*refined*' may have been chosen as a better translation of '*humanitatis*'. There is certainly something to be said for #3 translating as 'highly developed', as the former two translations seem to omit any translation of '*longissime*', which, whilst it does not directly translated to 'highly developed', can be used in the superlative form to imply that the province is more highly developed than that of the Gauls. The use of 'Roman' as an adjective to describe the province may be a helpful addition to provide context for exactly which province Caesar refers to, especially for modern readers. 
 
 
 
