@@ -73,7 +73,7 @@ In #1, the Garonne river is the subject of the sentence, as it is doing the sepa
 	- "because they are the farthest removed from the culture and the civilisation of the province"
 	- "being farthest removed from the highly developed civilisation of the Roman Province"
 
-#3 ignores '*propterea*' entirely, as it does for 'cultu. Similarly, the use of '*absunt*' in the 3rd person plural lends itself better to the inclusion of 'they' in the translation. '*provinciae*' is in the singular feminine genitive, and therefore #2 translates this better - the province possesses the culture and civilisation rather than 'refined and civilised' being simple adjectives. '*humanitatis*' is better translated as 'culture', although '*cultu*' also translates more directly as such, hence why '*refined*' may have been chosen as a better translation of '*humanitatis*'. There is certainly something to be said for #3 translating as 'highly developed', as the former two translations seem to omit any translation of '*longissime*', which, whilst it does not directly translated to 'highly developed', can be used in the superlative form to imply that the province is more highly developed than that of the Gauls. The use of 'Roman' as an adjective to describe the province may be a helpful addition to provide context for exactly which province Caesar refers to, especially for modern readers. 
+#3 ignores '*propterea*' entirely, as it does for 'cultu'. Similarly, the use of '*absunt*' in the 3rd person plural lends itself better to the inclusion of 'they' in the translation. '*provinciae*' is in the singular feminine genitive, and therefore #2 translates this better - the province possesses the culture and civilisation rather than 'refined and civilised' being simple adjectives. '*humanitatis*' is better translated as 'culture', although '*cultu*' also translates more directly as such. Thus one may conclude that '*cultu*' is translated as 'culture', and '*humanitatis*' as 'civilisation'  There is certainly something to be said for #3 translating as 'highly developed', as the former two translations seem to omit any translation of '*longissime*', which, whilst it does not directly translated to 'highly developed', can be used in the superlative form to imply that the province is more highly developed than that of the Gauls. The use of 'Roman' as an adjective to describe the province may be a helpful addition to provide context for exactly which province Caesar refers to, especially for modern readers. 
 
 
 
@@ -82,13 +82,14 @@ In #1, the Garonne river is the subject of the sentence, as it is doing the sepa
 	- "and least often visited by merchants introducing the commodities that make for effeminacy"
 	- "least often visited by merchants with enervating luxuries for sale"
 
-
+#3 omits the '*que*' at the end of '*minimeque*'. The use of 'resort' makes sense, although a more literal translation would be, as in #2, 'visited by' (as '*commeant*' is 'they go to'). The former conveys a more negative tone towards the Belgae, which one is inclined to believe is inconsistent with Caesar's previous tone - in fact, Caesar praises them as courageous. A key difference between the translations is the use of 'make for effeminacy' as opposed to 'soften their warlike spirit'. The gist of the original Latin exists in both - the merchants' commodities are likely to make the Belgae softer and weaker, here likened to effeminacy; #1 departs from the original and introduces 'warlike' to describe their spirit. #2 seems to omit '*animos*', although makes sure to include '*effeminados*'. Neither translation in this case seems to translate the sentence in its entirety, although neither misses Caesar's purpose. #3's translation and introduction of 'enervating' seems needless and inaccurate, although luxuries is an acceptable alternative to commodities, especially in the context of making one's spirit softer.
 
 - proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt
 	- "and they are nearest to the Germans, who live across the Rhine, with whom they continually wage war"
 	- "and also because they are nearest to the Germans dwelling beyond the Rhine, with whom they are continually at war"
 	- "and nearest to the Germans across the Rhine, with whom they are continually at war"
 
+#3 omits '*sunt*'. #1 stays truest to the punctuation used in the original, whereas #2 and #3 depart from this. This is not necessarily to say that the latter two translatio
 
 
 - Quade de causa Helvetii quoque reliquos Gallas virtute praecedunt
