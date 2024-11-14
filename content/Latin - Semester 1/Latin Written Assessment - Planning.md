@@ -89,10 +89,10 @@ In #1, the Garonne river is the subject of the sentence, as it is doing the sepa
 	- "and also because they are nearest to the Germans dwelling beyond the Rhine, with whom they are continually at war"
 	- "and nearest to the Germans across the Rhine, with whom they are continually at war"
 
-#3 omits '*sunt*'. #1 stays truest to the punctuation used in the original, whereas #2 and #3 depart from this. This is not necessarily to say that the latter two translatio
+#3 omits '*sunt*'. #1 stays truest to the punctuation used in the original, whereas #2 and #3 depart from this. This is not necessarily to say that the latter two translations are incorrect - to start one clause with 'who' and to begin the next with 'with whom' seems needless. #1 includes '*qui*', although this is not required to achieve the same meaning, as seen in #2 and #3. The translation of '*gerunt*' is 'wage' in #1, but is not adhered to as literally in #2 or #3 - translated as 'at war' rather than 'wage war'. Both mean the same of course, but #1 is more literal and therefore may be considered better. Between 'across' and 'beyond', 'across' is the better translation - it implies less distance between the two (see H.J. Edwards Loeb map for evidence of proximity).
 
 
-- Quade de causa Helvetii quoque reliquos Gallas virtute praecedunt
+- Qua de causa Helvetii quoque reliquos Gallas virtute praecedunt
 	- "For this reason, the Helvetii also surpass the other Gauls in valour"
 	- "For this cause the Helvetii also excel the rest of the Gauls in valour"
 	- "For the same reason the Helvetii are braver than the rest of the Celts"
@@ -141,3 +141,9 @@ In #1, the Garonne river is the subject of the sentence, as it is doing the sepa
 
 
 
+</br>
+
+### General Notes
+
+- As a language model, AI translates the passage very literally. Thus, there are occasions when it translates without respect for context, voice, case, gender, etc.
+- Translation #3 often includes words in the english that are not present in the Latin, and also omits Latin words. Whilst sometimes the meaning is preserved, there are often cases in which original meaning is lost due to this omission and occasional blatantly incorrect translation.
