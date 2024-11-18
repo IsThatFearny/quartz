@@ -108,17 +108,17 @@ In #1, the Garonne river is the subject of the sentence, as it is doing the sepa
 
 - cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt
 	- "either keeping them from their own borders or themselves waging war on their territories"
-	- "either endeavouring to keep them out of Gallic territory or waging an aggressive warfare in Germany territory"
+	- "either endeavouring to keep them out of Gallic territory or waging an aggressive warfare in German territory"
 	- "either trying to keep them out of Switzerland or themselves invading Germany"
 
-#1 includes what would seem to be an ablative of separation, however this would only be correct if '*cum*
+#1 includes what would seem to be an ablative of separation, however this would only be correct if '*cum*' was instead '*ab*', '*de*' or '*ex*'. '*gerunt*' is correctly translated as 'waging' in #1 and #2, but #3 translates it as 'invading' rather than 'waging'. Whilst translating '*finibus*' as 'Gallic territory' or 'Switzerland' may provide better context, it is translated more literally by #1 as 'borders'; this is supported by the translation of '*suis*' as 'their own'. However, for the sake of clarity, it might be better to translate it as 'territory', because of the use of '*in*' - one cannot wage war 'in' a border, but they can 'in' a territory. #2 omits '*ipsi*'. #2 includes 'aggressive', which is not present in the latin.
 
 - Eorum uni, pars, quam Gallos obtinere dictum est, initium capit a flumine Rhodano, continetur Garumna flumine, Oceano, finibus belgarum, attingit etiam ab Sequanis et Helvetiis flumen Rhenum, vergit ad septentriones
 	- "The region of the Gauls begins at the Rhone river, is bounded by the Garonne river, the Ocean, and the borders of the Belgae, and also reaches the Rhine River from the direction of the Sequani and the Helvetii; it faces north"
-	- "The separate part of the country which, as has been said, is occupied by the Gauls, starts from the river Rhone, and is nounded by the river Gawronne, the Ocean, and the territory of the Belgae; moreover, on the side of the Sequani and the Helvetii, it touches the river Rhine; and tis general trend is northward"
+	- "The separate part of the country which, as has been said, is occupied by the Gauls, starts from the river Rhone, and is bounded by the river Garonne, the Ocean, and the territory of the Belgae; moreover, on the side of the Sequani and the Helvetii, it touches the river Rhine; and its general trend is northward"
 	- "The region occupied by the Celts, which has one frontier facing north, is bounded by the Rhone, the Garonne, the Atlantic Ocean, and the country of the Belgae; the part of it inhabited by the Sequani and the Helvetii also touches the Rhine"
 
-
+#1 omits '*obtinere*' (to occupy). #2 and #3 include it in the translation, although #2 more accurately translates the whole clause, including 'as has been said' as a translation of 'dictum' (in the passive). #3 states that Gallic territory 'is bounded by' the Garonne, however, '*initium*' translates directly as 'starts' or 'begins' as in #1 and #2. This error may have been created by a translation of the next clause, '*continetur Garumna flumine*' whilst ignoring '*initium*'. Another variance in translation as above between 'territory', 'borders', and 'country' - all are accurate. #2 omits '*etiam*'.
 
 
 - Belgae ab extremis Galliae finibus oriuntur, pertinent ad inferiorem partem fluminis Rheni, spectant in septentrionem et orientem solem
