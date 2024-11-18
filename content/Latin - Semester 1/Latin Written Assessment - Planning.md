@@ -133,13 +133,14 @@ In #1, the Garonne river is the subject of the sentence, as it is doing the sepa
 	- "Aquitania, starting from the Garonne, reaches to the Pyrenees and to that part of the Ocean which is by Spain"
 	- "Aquitania is bounded by the Garonne, the Pyrenees, and the part of the Atlantic coast nearest Spain"
 
-'*pertinet*' is better translated as 'extends' rather than 'starting from' or 'bounded by'. #1 omits '*quae*'. #1 includes 'facing', which is not present in the latin. #2 translates it better as being 'by Spain'. ('by' serving as an alternative for 'nearby) #3 includes 'Atlantic coast', again possibly providing improved context for a modern reader, although 'nearest' is perhaps not the best translation.
+'*pertinet*' is better translated as 'extends' rather than 'starting from' or 'bounded by'. #1 omits '*quae*'. #1 includes 'facing', which is not present in the latin. #2 translates it better as being 'by Spain'. ('by' serving as an alternative for 'nearby' in this case). #3 includes 'Atlantic coast', again possibly providing improved context for a modern reader, although 'nearest' is perhaps not the best translation.
 
 - spectat inter occasum solis et septentriones
 	- "it lies between the setting of the sun and the north"
 	- "its bearing is between west and north"
 	- "it faces north-west"
 
+'*spectat*' is closest to 'faces', and this translation is better as '*spectat*' is a verb and 'it faces' is thus more accurate. #1 translates the sentence most literally, although for clarity 'west' or 'north-west' can also be used without issue.
 
 
 </br>
