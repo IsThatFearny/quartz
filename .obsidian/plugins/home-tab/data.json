@@ -1,0 +1,48 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 9.md",
+      "timestamp": 1731939189308
+    },
+    {
+      "filepath": "Latin - Semester 1/Latin Written Assessment - Planning.md",
+      "timestamp": 1731928434865
+    },
+    {
+      "filepath": "Medieval Worlds - Semester 1/Medieval Worlds Lecture 18 (That I've attended...) - Eurasian Connections on the 'Silk Roads'.md",
+      "timestamp": 1731924015739
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true,
+  "showStarredFiles": true,
+  "starredFileStore": []
+}
