@@ -118,22 +118,22 @@ In #1, the Garonne river is the subject of the sentence, as it is doing the sepa
 	- "The separate part of the country which, as has been said, is occupied by the Gauls, starts from the river Rhone, and is bounded by the river Garonne, the Ocean, and the territory of the Belgae; moreover, on the side of the Sequani and the Helvetii, it touches the river Rhine; and its general trend is northward"
 	- "The region occupied by the Celts, which has one frontier facing north, is bounded by the Rhone, the Garonne, the Atlantic Ocean, and the country of the Belgae; the part of it inhabited by the Sequani and the Helvetii also touches the Rhine"
 
-#1 omits '*obtinere*' (to occupy). #2 and #3 include it in the translation, although #2 more accurately translates the whole clause, including 'as has been said' as a translation of 'dictum' (in the passive). #3 states that Gallic territory 'is bounded by' the Garonne, however, '*initium*' translates directly as 'starts' or 'begins' as in #1 and #2. This error may have been created by a translation of the next clause, '*continetur Garumna flumine*' whilst ignoring '*initium*'. Another variance in translation as above between 'territory', 'borders', and 'country' - all are accurate. #2 omits '*etiam*'.
+#1 omits '*obtinere*' (to occupy). #2 and #3 include it in the translation, although #2 more accurately translates the whole clause, including 'as has been said' as a translation of 'dictum' (in the passive). #3 states that Gallic territory 'is bounded by' the Garonne, however, '*initium*' translates directly as 'starts' or 'begins' as in #1 and #2. This error may have been created by a translation of the next clause, '*continetur Garumna flumine*' whilst ignoring '*initium*'. Another variance in translation as above between 'territory', 'borders', and 'country' - all are accurate. #2 omits '*etiam*'. #1 translates 'attingit' as reaches, but the latter translations use 'touches', which seems to be the better translation in context. #3 brings the final clause, '*vergit ad septentriones*' to the beginning of the passage, which allows one to connect it with the 'region occupied by the Celts', however there is no evidence to support the translation that the region 'has' a frontier facing north; likewise, 'its general trend' is an inaccurate translation of '*vergit*', which should be translated as '*faces*' as in the former translation. #3 also includes 'inhabited' which is not present in the Latin.
 
 
 - Belgae ab extremis Galliae finibus oriuntur, pertinent ad inferiorem partem fluminis Rheni, spectant in septentrionem et orientem solem
-	- "The Belgtae arise from the farthest borders of Gaul; they dwell down to the lower part of the Rhine river, looking north and east"
+	- "The Belgae arise from the farthest borders of Gaul; they dwell down to the lower part of the Rhine river, looking north and east"
 	- "The Belgae, beginning from the edge of the Gallic territory, reach to the lower part of the river Rhine, bearing towards the north and east"
 	- "The Belgic territory, facing north and east, runs from the northern frontier of the Celts to the lower Rhine"
 
-
+#3 omits '*extremis*'. '*oriuntur*' is in the passive, so one would like to translate it as 'they are arisen' rather than 'they arise'. None of the translations include this translation; only #1 includes '*oriuntur*' at all. #1 states that 'they dwell...' however no form of '*incolunt*' is present. #2 is the only one that translates '*pertinent*' as 'reaches'. #1 translates '*spectant*' most accurately as 'looking', however 'bearing' or 'facing' may also be a better, although less literal, translation.
 
 - Aquintania a Garumna flumine ad Pyrenaeos montes et eam partem Oceani quae est ad Hispaniam pertinet
 	- "Aquitania extends from the Garonne River to the Pyrenees and that part of the Ocean facing Spain"
 	- "Aquitania, starting from the Garonne, reaches to the Pyrenees and to that part of the Ocean which is by Spain"
 	- "Aquitania is bounded by the Garonne, the Pyrenees, and the part of the Atlantic coast nearest Spain"
 
-
+'*pertinet*' is better translated as 'extends' rather than 'starting from' or 'bounded by'. #1 omits '*quae*'. #1 includes 'facing', which is not present in the latin. #2 translates it better as being 'by Spain'. ('by' serving as an alternative for 'nearby) #3 includes 'Atlantic coast', again possibly providing improved context for a modern reader, although 'nearest' is perhaps not the best translation.
 
 - spectat inter occasum solis et septentriones
 	- "it lies between the setting of the sun and the north"
