@@ -11,26 +11,18 @@
             "id": "319f273ac50f500d",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
-          },
-          {
-            "id": "9d93177812fe80bb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Latin - Semester 1/Latin Written Assessment - Planning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Latin Written Assessment - Planning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +186,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "9d93177812fe80bb",
+  "active": "319f273ac50f500d",
   "lastOpenFiles": [
+    "Latin - Semester 1/Latin Written Assessment.md",
+    "Latin - Semester 1/Latin Written Assessment - Planning.md",
     "References/Saint Thomas Aquinas+2018.md",
     "References/al-Farabi+2023.md",
     "References/Thomas Aquinas+2023.md",
@@ -220,8 +214,6 @@
     "References/The Dark Ages2007.md",
     "References/William of Moerbeke2024.md",
     "References/Haitian Revolution2023.md",
-    "References/The Virtuous City2010.md",
-    "References/Transcendental Thomism1974.md",
     "References",
     "ZoteroStorage/Chapter 7, Walvin2.pdf",
     "ZoteroStorage/zotero.sqlite",

@@ -10,9 +10,9 @@
 	- ''Gaul is *a whole* divided into three parts"
 	- "Gaul *comprises three areas*"
 
-There is a major difference in how the first two translations deal with '*Gallis est omnis*'. #1 translates it as 'all of gaul', whereas #2 translates it as 'Gaul is a whole'. '*omnis*' can be translated as 'all' *or* 'whole'. In this case, it would seem that 'all of Gaul' is the better translation, because '*omnis*', when used to mean 'whole' as a noun (as we see here) is a neuter plural noun. If 'Gaul is a whole' were the translation, one might expect to see '*summa*', which would match the gender of 'Gallia' (i.e. feminine)
+There is a major difference in how the first two translations deal with '*Gallis est omnis*'. #1 translates it as 'all of gaul', whereas #2 translates it as 'Gaul is a whole'. '*omnis*' can be translated as 'all' *or* 'whole'. In this case, it would seem that 'all of Gaul' is the better translation, because '*omnis*', when used to mean 'whole' as a noun (as we see here) is a neuter plural noun. If 'Gaul is a whole' were the translation, one might expect to see '*summa*', which would match the gender of 'Gallia' (i.e. feminine).
 
-#3 does not translate '*divisa*' ('divided'). Likewise, 'parts' seems a better translation than areas (if the intention were areas then '*regio*' would likely have been used to denote a region). One can see how 'comprises' might have been chosen, but if it that was the intended meaning then '*contineo*' or similar might have been used - '*omnis*' is not a synonym
+#3 does not translate '*divisa*' ('divided') - the former two translations translate it correctly in the passive. Likewise, 'parts' seems a better translation than areas (if the intention were areas then '*regio*' would likely have been used to denote a region). One can see how 'comprises' might have been chosen, but if it that was the intended meaning then '*contineo*' or similar might have been used - '*omnis*' is not a synonym
 
 - quarum unam incolunt Belgae
 	- "one of which the Belgae inhabit"
@@ -20,7 +20,7 @@ There is a major difference in how the first two translations deal with '*Gallis
 	- "inhabited *respectively* by the Belgae"
 
 
-#1 translates '*incolunt*' as the active voice, and therefore treats the Belgae as the subject of the sentence. However, #2 translates '*incolunt*' as if it were the passive, when it is in fact in the active voice. If #2 were correct, then the original would read '*incoluntur*'
+#1 translates '*incolunt*' as the active voice; however, #2 translates '*incolunt*' as if it were the passive, when it is in fact in the active voice. If #2 were correct, then the original would read '*incoluntur*'
 
 #3 omits '*unam*', and conjures 'respectively', perhaps for convenience but this is inaccurate.
 
@@ -29,15 +29,15 @@ There is a major difference in how the first two translations deal with '*Gallis
 	- "another *by the* Aquitani"
 	- "the Aquitani"
 
-#1 follows the previous, translating as the active. #2 maintains the passive voice and is therefore less accurate.
-#3 ignores '*aliam*' (meaning another)
+#1 follows the previous, translating as the active. #2 maintains the passive voice and is therefore less accurate. Similarly, #1 makes more sense in English.
+#3 ignores '*aliam*' (meaning another).
 
 - tertiam qui ipsorum lingua Celtae
 	- "and the third those who *in their own language* are called Celts"
 	- "and a third by a people *called in their own tongue* Celtae"
 	- "and a people who *call themselves* Celts"
 
-Whilst #2 is not necessarily wrong, stylistically 'called in their own tongue' does not come across as fluent English. It may be better to translate it as in the first translation and sacrifice literal accuracy. '*qui*' is translated in the first as 'who' - other translations omit this. Similarly, the second translation keeps the Latin '*Celtae*', which may be better understood as simply 'celts', as in the other translations. #3 omits '*tertiam*'. '*ipsorum*' translates better as 'their own'.
+Whilst #2 is not necessarily wrong, stylistically 'called in their own tongue' does not come across as fluent English. It may be better to translate it as in the first translation and sacrifice literal accuracy. '*qui*' is translated in the first as 'who' - other translations omit this. Similarly, the second translation keeps the Latin '*Celtae*', which may be better understood as simply 'celts', as in the other translations. #3 omits '*tertiam*'. '*ipsorum*' translates better as 'their own'. The inclusion of 'a people' may not be literally accurate, but does aid understanding.
 
 - nostra Galli appellantur
 	- "in our language Gauls"
