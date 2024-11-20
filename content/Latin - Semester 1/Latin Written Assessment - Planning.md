@@ -65,7 +65,7 @@ In #1, the Garonne river is the subject of the sentence, as it is doing the sepa
 	- "Of all these peoples the Belgae are the most courageous"
 	- "The Belgae are the bravest of the three peoples"
 
-#1 translates most literally, omitting 'peoples' as included in the latter two translations. However, for clarity, the inclusion of people's makes better sense, as one could technically believe that the Belgae is the name of a river. The translation of '*forissimi*' may be better understood as 'courageous' or 'bravest' rather than 'strongest', especially when considered in the context of the later mention of 'things which tend to soften their warlike spirit' - this seems to apply best to 'bravest' and 'most courageous'. #3 omits '*Horum*' (i.e. these), and adds 'three', perhaps for clarity in English, although one feels that this is not required. All three translate 'fortissimi' in the superlative.
+#1 translates most literally, omitting 'peoples' as included in the latter two translations. However, for clarity, the inclusion of people's makes better sense, as one could technically believe that the Belgae is the name of a river. The translation of '*fortissimi*' may be better understood as 'courageous' or 'bravest' rather than 'strongest', especially when considered in the context of the later mention of 'things which tend to soften their warlike spirit' - this seems to apply best to 'bravest' and 'most courageous'. #3 omits '*Horum*' (i.e. these), and adds 'three', perhaps for clarity in English, although one feels that this is not required. All three translate 'fortissimi' in the superlative.
 
 
 - propterea quod a cultu atque humanitate provinciae longissime absunt
