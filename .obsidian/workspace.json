@@ -8,21 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6fe9d8e0a158625",
+            "id": "319f273ac50f500d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          },
+          {
+            "id": "9d93177812fe80bb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 9.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Historians Toolkit Tutorial 9"
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +141,8 @@
             "state": {
               "type": "custom-frames-learn",
               "state": {},
-              "icon": "lucide-book",
-              "title": "Learn"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -143,8 +151,18 @@
             "state": {
               "type": "chronology-calendar-view",
               "state": {},
-              "icon": "clock",
-              "title": "Chronology"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "70dc3b8a0b13efd6",
+            "type": "leaf",
+            "state": {
+              "type": "sync",
+              "state": {},
+              "icon": "refresh-ccw",
+              "title": "Sync changes"
             }
           }
         ],
@@ -157,10 +175,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open Google": false,
-      "obsidian-custom-frames:Open iCloud Reminders": false,
-      "obsidian-custom-frames:Open ChatGPT": false,
-      "obsidian-custom-frames:Open JSTOR": false,
       "excel:Create Excel File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -177,64 +191,61 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "workspaces:Manage workspace layouts": false,
-      "notion-like-tables:Create loom": false,
-      "big-calendar:Big Calendar": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "chronology:Open Chronology": false
+      "notion-like-tables:Create loom": false
     }
   },
-  "active": "f6fe9d8e0a158625",
+  "active": "9d93177812fe80bb",
   "lastOpenFiles": [
-    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 9 Prep.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 9.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 8 Prep.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 8.md",
-    "Latin - Semester 1/Latin Written Assessment - Planning.md",
-    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 18 (That I've attended...) - Eurasian Connections on the 'Silk Roads'.md",
-    "Historian's Toolkit - Semester 1/Coursework Feedback.md",
-    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 17 - Islamic Transformations 1000-1500.md",
-    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 12 - The Formation of the Islamic World.md",
-    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 13 - The East Roman World.md",
-    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 14 - Holy War and Crusade.md",
-    "Medieval Worlds - Semester 1/Tutorial 7.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 6.md",
-    "Excalidraw/Historians Toolkit Tutorial 6 2024-11-04 15.46.05.md",
-    "Excalidraw",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 9 - Oral History.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 5.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 5 Prep.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 5 Prep.md",
-    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 11 - Pagans and the Edges of Christendom.md",
-    "Historian's Toolkit - Semester 1/Coursework.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 4 Prep.md",
-    "Medieval Worlds - Semester 1/Coursework - Source Analysis.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 8.md",
-    "Historian's Toolkit - Semester 1/Historians Toolkit Lecture 7 - Decolonising History.md",
-    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 10 - The Church and Society.md",
-    "Medieval Worlds - Semester 1/Medieval Worlds Tutorial 3 Prep.md",
-    "Lecture 9.html",
-    "Pasted image 20241009122314.png",
-    "Pasted image 20241007103445.png",
-    "Pasted image 20241007100526.png",
-    "Pasted image 20241002100957.png",
-    "Pasted image 20240930100944.png",
-    "Pasted image 20240920144516.png",
-    "Pasted image 20240920144259.png",
-    "Pasted image 20240920141737.png",
-    "Historian's Toolkit - Semester 1",
-    "Templates",
-    "Latin - Semester 1",
-    "Medieval Worlds - Semester 1",
+    "References/Saint Thomas Aquinas+2018.md",
+    "References/al-Farabi+2023.md",
+    "References/Thomas Aquinas+2023.md",
+    "References/Commentary on the Sentences+undefined.md",
+    "References/Aristotle on Intelligible Matter1980.md",
+    "References/Descartes's Revised Averroism2014.md",
+    "References/Platonisms in Islamic Philosophy1994.md",
+    "References/A source book in medieval science1974.md",
+    "References/Aquinas and the Active Intellect1992.md",
+    "References/Ibn Rushd+Melton2009.md",
+    "References/Encylopedia of Renaissance Philosophy.md",
+    "References/Ibn Sina+Melton2009.md",
+    "References/The Duality of the Human Soul2018.md",
+    "References/The Haitian Revolution2000.md",
+    "References/Translation from Arabic1980.md",
+    "References/Latin Averroism2009.md",
+    "References/The Age of Peel1973.md",
+    "References/Faith and Reason.md",
+    "References/John Of Jandun2024.md",
+    "References/Thomism and Atheism2011.md",
+    "References/The Not-So-Dark Ages1998.md",
+    "References/The Dark Ages2007.md",
+    "References/William of Moerbeke2024.md",
+    "References/Haitian Revolution2023.md",
+    "References/The Virtuous City2010.md",
+    "References/Transcendental Thomism1974.md",
     "References",
-    "Untitled.canvas",
+    "ZoteroStorage/Chapter 7, Walvin2.pdf",
+    "ZoteroStorage/zotero.sqlite",
+    "Attachments/Untitled 1.loom",
+    "Attachments/Untitled 2.loom",
+    "Prep/Economics/South Africa Economic Progress.pptx",
+    "ZoteroStorage/better-bibtex.sqlite",
+    "Attachments/Untitled 3.loom",
+    "Attachments/Untitled.loom",
+    "Attachments/RevisionTimetableTemplate.loom",
     "Attachments/Pasted image 20240515141124.png",
-    "Attachments/AQA-71361-QP-JUN22.pdf",
-    "Attachments/AQA-71361-QP-JUN22.pdf.crdownload",
-    "Attachments/AQA-71361-QP-NOV21.pdf",
+    "Attachments/Pasted image 20231120181146.png",
+    "Attachments/Pasted image 20230926115005.png",
+    "Attachments/Pasted image 20230831150847.png",
+    "Attachments/IMG_2528.jpeg",
+    "Attachments/IMG_2528 1.jpeg",
+    "Attachments/Pasted image 20240221220738.png",
+    "Attachments/Pasted image 20231204201108.png",
     "Attachments/IMG_2529.jpeg",
+    "Attachments/Pasted image 20231207092637.png",
+    "Prep/Economics/Reducing Inequality Mindmap.canvas",
+    "Untitled.canvas",
     "History/Stalin WWII Spider Diagrams.canvas",
     "Prep/History/Why did Heath lose the 1974 election.canvas",
-    "Prep/Economics/Reducing Inequality Mindmap.canvas",
     "Prep/Philosophy/Rational Intuition and Deduction Thesis Summary.canvas"
   ]
 }

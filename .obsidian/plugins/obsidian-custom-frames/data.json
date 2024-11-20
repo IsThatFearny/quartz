@@ -65,17 +65,6 @@
       "zoomLevel": 1,
       "forceIframe": false,
       "customCss": ""
-    },
-    {
-      "url": "learn.ed.ac.uk",
-      "displayName": "Learn",
-      "icon": "book",
-      "hideOnMobile": true,
-      "addRibbonIcon": false,
-      "openInCenter": false,
-      "zoomLevel": 1,
-      "forceIframe": false,
-      "customCss": ""
     }
   ],
   "padding": 5
