@@ -8,7 +8,7 @@
 - The gay rights movement had not so readily adopted the direct action techniques that other civil rights movements had (D'Emilio 1998)
 - 
 
-D'Emilio's article demonstrates the infighting within the movement between the young and the old guard - Stonewall as the catalyst for cohesiveness?
+D'Emilio's article demonstrates the infighting within the movement between the young and the old guard - Stonewall as the catalyst for cohesiveness? He emphasises the formation of the Gay Liberation Front (GLF)
 
 Begs the question 'did the homophile movement have *that* much influence pre-stonewall?'
 
