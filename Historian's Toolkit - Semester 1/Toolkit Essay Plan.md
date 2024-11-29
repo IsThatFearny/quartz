@@ -1,0 +1,12 @@
+# Toolkit Essay Plan
+
+</br>
+
+### Do we distort LGBTQ+ history by treating the Stonewall Riots as a moment of radical change?
+
+- Stonewall *was* a moment of radical change, made possible by previous activism
+- The gay rights movement had not so readily adopted the direct action techniques that other civil rights movements had (D'Emilio 1998)
+- 
+
+
+By treating the riot itself as a moment of radical change, we do not necessarily distort LGBTQ+ history, as long as we acknowledge that it would not have been possible without the activism of those who came before, even though said activism was in a different form. It was the beginning of a more radical approach to LGBT rights, marking a shift away from peaceful protest.
