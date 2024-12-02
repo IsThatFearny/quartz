@@ -14,6 +14,11 @@ Cosmography was a major source of information, but this was inaccessible to many
 
 Diplomatic relationships existed, but not in the modern sense, nor were they very strong - an awareness existed, but not true knowledge
 
+Advances in cartography did eventually come (see Catalan Atlas)
+
+Western cartography was relatively ignorant of the east (again see Catalan Atlas and Hereford Map)
+
+
 </br>
 
 ### Plan
@@ -27,3 +32,5 @@ Diplomatic relationships existed, but not in the modern sense, nor were they ver
 **Paragraph 3:** The usefulness of written accounts
 
 **Paragraph 4:** Travel to the east/diplomacy
+
+**Paragraph 5:** East vs West
