@@ -19,3 +19,13 @@ By treating the riot itself as a moment of radical change, we do not necessarily
 Perhaps distortion of lesbian history?
 
 The post-stonewall movement was incredibly different from the pre-stonewall movement
+
+</br>
+
+### Plan
+
+**Thesis statement:** By treating Stonewall (the event) as a radical moment of change as many historians do (cite examples here), we do not necessarily distort pre-stonewall LGBT history, but must avoid treating Stonewall as the 'beginning' of the gay rights movement
+
+**Paragraph 1:** Outline major changes pre/post stonewall - analyse why Stonewall marked radical change and *evidence this*
+
+**Paragraph 2:** 
