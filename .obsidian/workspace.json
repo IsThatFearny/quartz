@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c1903f9afde3af2",
+            "id": "0d44baf1ff019e7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Historian's Toolkit - Semester 1/Toolkit Essay Plan.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -186,10 +186,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "1c1903f9afde3af2",
+  "active": "0d44baf1ff019e7b",
   "lastOpenFiles": [
-    "LiteratureNotes/demilioNewBeginningBirth1998.md",
     "Historian's Toolkit - Semester 1/Toolkit Essay Plan.md",
+    "LiteratureNotes/demilioNewBeginningBirth1998.md",
     "LiteratureNotes",
     "Historian's Toolkit - Semester 1/Historians Toolkit Essay.md",
     "Latin - Semester 1/Latin Written Assessment.md",
