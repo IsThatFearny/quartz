@@ -29,7 +29,7 @@ The answer question of whether long-distance travel was a matter of 'setting out
 [^11]: Ibn Battutah, <i>Rihla</i>
 [^12]: Usama ibn Munqidh, <i>The Book of Contemplation. Islam and the Crusades</i>, trans. Paul M. Cobb (London: Penguin, 2008).
 [^13]: Martin, “Geography in the Middle Ages.”
-[^14]: Peter Jackson, “Christians, Barbarians and Monsters: The European Discovery of the World Beyond Islam,” in <i>The Medieval World</i>, ed. Peter Linehan, Janet L. Nelson, and Marios Costambeys (London: Routledge, 2001), <a href="http://ebookcentral.proquest.com/lib/ed/detail.action?docID=1396886">http://ebookcentral.proquest.com/lib/ed/detail.action?docID=1396886</a>.
+[^14]: Peter Jackson, “Christians, Barbarians and Monsters: The European Discovery of the World Beyond Islam,” in <i>The Medieval World</i>, ed. Peter Linehan, Janet L. Nelson, and Marios Costambeys (London: Routledge, 2001), https://doi.org/10.4324/9781315102511-6.
 [^15]: Legassie, “Travail and Authority in the Forgotten Age of Discovery.”
-[^16]: Marianne O’Doherty, “Classical Traditions of India and Medieval Transformations,” in <i>The Indies and the Medieval West. Thought, Report, Imagination</i> (Turnhout: Brepols Publishers, 2013), 13–51.
+[^16]: Marianne O’Doherty, “Classical Traditions of India and Medieval Transformations,” in <i>The Indies and the Medieval West. Thought, Report, Imagination</i> (Turnhout: Brepols Publishers, 2013), 13–51, https://doi.org/10.1484/m.mv-eb.4.00018.
 [^17]: Legassie, “Travail and Authority in the Forgotten Age of Discovery.”
