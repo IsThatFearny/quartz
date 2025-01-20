@@ -6,7 +6,7 @@
 
 - What signs of barbarity does Pigafetta detect in the islanders? In what ways does their representation serve to highlight superior European civilization?
 
-Pigafetta often refers to the indigenous peoples that he comes across as 'going naked like the others', also giving reference to their referral to him and his crew as 'holy bodies'. By representing these peoples as almost 'savage', Pigafetta highlights the superiority of his own civilisation, who wear clothes and do not believe in such 'holy bodies' - the Spanish are part of 'civilised society'; the tribal people are clearly shown not to be such. 
+Pigafetta often refers to the indigenous peoples that he comes across as 'going naked like the others', also giving reference to their referral to him and his crew as 'holy bodies'. By representing these peoples as almost 'savage', Pigafetta highlights the superiority of his own civilisation, who wear clothes and do not believe in such 'holy bodies' - the Spanish are part of 'civilised society'; the tribal people are clearly shown not to be as such. 
 
 
 - The Cantino planisphere is a manuscript, designed around ‘rumb lines’; the Waldseemuller world map is a printed version, perhaps originally made in 1000 copies, and designed to cover a very large wall. What different purposes might these two media serve?
