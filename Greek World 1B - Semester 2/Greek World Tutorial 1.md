@@ -6,7 +6,7 @@ Pericles:
 
 - Son of Xanthippos, an Athenian general
 - Lived in the 5th century
-- A prominent Athenian politican
+- A prominent Athenian politician
 - Served as a general several times, raiding various cities and islands and continuously getting elected to the position over 15 years
 - Heavily involved in the outbreak and subsequent waging of the Peloponnesian war - his refusal to rescind a trade decree is largely seen as a cause for the war - and during the war he advocated a defensive strategy, fortifying Athens rather than pushing outwards
 
