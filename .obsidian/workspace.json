@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "2f101dd487cf13b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f5127a7be71738d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f28a699a0a9e6a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Early Modern History - Semester 2/Early Modern Lecture 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Early Modern Lecture 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75c6fb84b4e4f296",
+    "type": "split",
+    "children": [
+      {
+        "id": "2882572433d44828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e4e2689a489d6e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f8a6e689d13b1869",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e0c59b496d1b9af",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "9d906252660f3b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "51499fb39349eac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7fd6a30d253f3a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Medieval Worlds - Semester 1/Coursework - Source Analysis.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Coursework - Source Analysis"
+            }
+          },
+          {
+            "id": "11db37917de121bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f2b5dffdeae088bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Medieval Worlds - Semester 1/Coursework - Source Analysis.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Coursework - Source Analysis"
+            }
+          },
+          {
+            "id": "e4050c103204d0c5",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-learn",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e0e17e0f7279628a",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "70dc3b8a0b13efd6",
+            "type": "leaf",
+            "state": {
+              "type": "sync",
+              "state": {},
+              "icon": "refresh-ccw",
+              "title": "Sync changes"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "excel:Create Excel File": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "cmdr:Custom Frames: Open ChatGPT": false,
+      "cmdr:Custom Frames: Open iCloud Reminders": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "workspaces:Manage workspace layouts": false,
+      "notion-like-tables:Create loom": false
+    }
+  },
+  "active": "f28a699a0a9e6a68",
+  "lastOpenFiles": [
+    "Early Modern History - Semester 2/Early Modern Lecture 4.md",
+    "Greek World 1B - Semester 2/Greek World Lecture 4.md",
+    "Greek World 1B - Semester 2/Greek World Lecture 3.md",
+    "Attachments/Pasted image 20250121163315.png",
+    "Random Roman World Shit.md",
+    "Greek World 1B - Semester 2/Greek World Tutorial 1.md",
+    "Islamic History 1B - Semester 2/Islamic History Tutorial 1.md",
+    "Islamic History 1B - Semester 2/Islamic History Lecture 3.md",
+    "Greek World 1B - Semester 2/Greek World Lecture 2.md",
+    "Greek World 1B - Semester 2/Greek World Lecture 1.md",
+    "Attachments/Pasted image 20250120162909.png",
+    "Early Modern History - Semester 2/Early Modern Tutorial 1.md",
+    "Early Modern History - Semester 2/Early Modern Lecture 2.md",
+    "Attachments/Pasted image 20250116164938.png",
+    "Attachments/Pasted image 20250116164920.png",
+    "Attachments/Pasted image 20250116164855.png",
+    "Early Modern History - Semester 2/Early Modern Lecture 1.md",
+    "Early Modern History - Semester 2",
+    "Greek World 1B - Semester 2/Early Modern History - Semester 2.md",
+    "Excalidraw/Greek World Lecture 1 2025-01-14 16.31.09.md",
+    "Excalidraw",
+    "Attachments/Pasted image 20250114163029.png",
+    "Attachments",
+    "Islamic History 1B - Semester 2/Islamic History Lecture 2.md",
+    "Greek World 1B - Semester 2",
+    "Islamic History 1B - Semester 2/Islamic History Lecture 1.md",
+    "Islamic History 1B - Semester 2",
+    "Historian's Toolkit - Semester 1/Historians Toolkit Essay.md",
+    "Historian's Toolkit - Semester 1/Toolkit Essay Plan.md",
+    "Medieval Worlds - Semester 1/Medieval Worlds Essay.md",
+    "Medieval Worlds - Semester 1/Medieval Worlds Essay Plan.md",
+    "LiteratureNotes/demilioNewBeginningBirth1998.md",
+    "LiteratureNotes",
+    "Latin - Semester 1/Latin Written Assessment.md",
+    "Latin - Semester 1/Latin Written Assessment - Planning.md",
+    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 7 - Vikings and their world.md",
+    "Medieval Worlds - Semester 1/Medieval Worlds Tutorial 2 Prep.md",
+    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 2 - Which Medieval Worlds, Where.md",
+    "References",
+    "ZoteroStorage/Chapter 7, Walvin2.pdf",
+    "ZoteroStorage/zotero.sqlite",
+    "Attachments/Untitled 1.loom",
+    "Attachments/Pasted image 20240515141124.png",
+    "Attachments/Pasted image 20231120181146.png",
+    "Attachments/Pasted image 20230926115005.png",
+    "Attachments/Pasted image 20230831150847.png",
+    "Prep/Economics/Reducing Inequality Mindmap.canvas",
+    "Untitled.canvas",
+    "History/Stalin WWII Spider Diagrams.canvas",
+    "Prep/History/Why did Heath lose the 1974 election.canvas",
+    "Prep/Philosophy/Rational Intuition and Deduction Thesis Summary.canvas"
+  ]
+}
