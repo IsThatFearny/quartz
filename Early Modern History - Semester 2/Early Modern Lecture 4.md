@@ -17,6 +17,11 @@
 - Throughout north-west Africa there was a complex slave trade network, giving the Mediterranean world access to cheap labour
 - Jerusalem, Cairo, and Mecca were all major sites of pilgrimage - pilgrimage routes had large implications for the flow of money, for the prosperity of merchants on the routes, and for certain cities such as Venice
 - 'Janissaries' were white boys who would be taken to Istanbul, integrated into Islam and Ottoman culture, and become members of the military - they were a good example of what a standing army might look like, and were an emblem of commitment
+- The battle of Lepanto signalled an increased naval presence in the Mediterranean
 
 </br>
 
+### Religion and Culture
+
+- The period saw the rise of humanism and classicism
+- A consolidation of papal power was seen in Catholicism, and Protestantism was on the rise (to cut out the papal 'middle man')
