@@ -26,7 +26,7 @@ It would seem the Pericles has a disdain for the funeral speech, stating that hi
 4. In what circumstances was this speech made? When, where, and how was it  
 delivered? What were the purposes of such funerals and speeches?  
 
-This specific funeral oration was made at the burial of those soldiers who perished in the first year of the Peloponnesian war. It was delivered to a very large audience (Thucydides makes this abundantly clear), mourning as a collective for the war dead. The purpose of funeral orations such as this
+This specific funeral oration was made at the burial of those soldiers who perished in the first year of the Peloponnesian war. It was delivered to a very large audience (Thucydides makes this abundantly clear), mourning as a collective for the war dead. These speeches were not in the form of a eulogy as we might conceive of it: indeed, there is little reference to the identities of the mourned or their contributions to society; rather, the purpose of funeral orations such as this was to identify those present with a 'collective self-image' (as Carey puts it), largely to emphasise the value of the war to the wider Athenian community. The purpose of the oration is to console the audience that their great loss is not in vain: it is for the sake of the defense of Athenian democracy, virtues, and culture.
 
 5. Did Pericles really say this? Think about Thucydides and his role in this. Who is  
 Thucydides?  
@@ -35,9 +35,29 @@ Whilst there is some evidence to argue that Thucydides somewhat accurately recor
 
 6. What does the speech have to say about Athenian democracy? Note down the  
 points and references.  
-7. In what ways is the speech a fair reflection of Athenian democracy?  
+
+- 'Our constitution does not copy the laws of neighbouring states' - it is made clear that Athenian democracy is not only unique, but that the people of Athens pride themselves on such a system of government.
+- 'If we look to the laws, they afford equal justice to all in their private differences...' - great emphasis is placed on how the democratic system places no man above another (although women are a different matter...), regardless of social, marital, or financial status, and regardless too of age.
+- Pericles points out that Athens is a society without judgement ('we do not feel called upon to be angry with our neighbour for doing what he likes'), but in this, Athens remains lawful and ordered
+- The fear of lawlessness is mitigated by deference to government and judiciary officials, and the bureaucracy surrounding them. It is made quite clear that Athenian democracy provides for a free, fair, and lawful state
+
+7. In what ways is the speech a fair reflection of Athenian democracy? 
+
+One might argue that, despite Pericles' claim that Athenian democracy is fair to all, this omits any man who is not free, women, and foreign citizens. Similarly, the claim that democracy does not soften the spirit of Athenians but instead makes them stronger, is, as Bosworth acknowledges, a paradox: the Athenians themselves had not found themselves defending their land in recent years, but had instead gone forth and attacked enemies in their own territory. 
+
 8. What might limit involvement in government?  
+
+As mentioned above, certain statuses, primarily being a member of a minority group, could prevent or restrict involvement in government. Pericles makes out that the requirements to hold office are not rigorous: one must simply be a free, male citizen. However, being female, a slave, a foreign citizen, underage, etc. could prevent one from involving oneself in government or high office
+
 9. To whom does Pericles compare the Athenians and their society, and why?  
-10. What does this speech offer to its listeners?  
+
+Pericles spends much of the speech comparing Athenian society and its citizens to their 'antagonists' (i.e. Sparta and her allies), who he depicts as barbaric in society and culture, and weak in military might. Such comparison is intended to demonstrate to the listeners that war is being waged against and inferior enemy, to give confidence to the audience that Athens will, firstly, emerge victorious, and second that the cause that the dead have fought for shall not be for naught.
+
+10. What does this speech offer to its listeners?
+
+The speech offers reassurance that the sacrifice of the audience's loved ones was not in vain, as they fell defending the constitution which Pericles lauds so often. The oration also serves to offer brief condolence and compassion towards individual losses (although Bosworth argues that it is made clear that this is not the occasion for individual mourning), and praises the virtues of those who have fallen in battle, in order to glorify them and by extension, glorify Athenian military might - again, to provide reassurance
+
 11. Finally take a look at the stele displaying an Athenian casualty list, which appears  
 at the end of this worksheet. How does this complement the funeral speech?
+
+Such large loss of life as shown on the stele compliments the funeral oration by demonstrating the importance of reconciling mass death with the Athenian cause - so many deaths must have been 'for' something, or else the sentiment would be that they had died in vain, for a pointless cause. The funeral oration emphasises that this is not the case. 
