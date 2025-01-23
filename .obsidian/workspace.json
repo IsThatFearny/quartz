@@ -11,10 +11,15 @@
             "id": "f5b3bde0c39bc47e",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Greek World 1B - Semester 2/Greek World Week 3 Prep.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greek World Week 3 Prep"
             }
           }
         ]
@@ -183,15 +188,18 @@
   },
   "active": "7e0c59b496d1b9af",
   "lastOpenFiles": [
+    "Lecture 9.html",
+    "Greek World 1B - Semester 2/Greek World Tutorial 1.md",
+    "Greek World 1B - Semester 2/Greek World Week 3 Prep.md",
+    "Greek World 1B - Semester 2/Greek World Lecture 4.md",
+    "Greek World 1B - Semester 2/Greek World Lecture 3.md",
+    "Greek World 1B - Semester 2/Greek World Lecture 1.md",
+    "Greek World 1B - Semester 2/Greek World Lecture 2.md",
+    "Medieval Worlds - Semester 1/Tutorial 7.md",
     "Greek World 1B - Semester 2/Greek World Tutorial 2.md",
     "Greek World 1B - Semester 2/Greek World Lecture 5.md",
     "Templates/Default.md",
     "Templates",
-    "Greek World 1B - Semester 2/Greek World Tutorial 1.md",
-    "Greek World 1B - Semester 2/Greek World Lecture 3.md",
-    "Greek World 1B - Semester 2/Greek World Lecture 4.md",
-    "Greek World 1B - Semester 2/Greek World Lecture 1.md",
-    "Greek World 1B - Semester 2/Greek World Lecture 2.md",
     "Early Modern History - Semester 2/Early Modern Lecture 4.md",
     "Attachments/Pasted image 20250121163315.png",
     "Random Roman World Shit.md",
@@ -218,10 +226,7 @@
     "Historian's Toolkit - Semester 1/Toolkit Essay Plan.md",
     "Medieval Worlds - Semester 1/Medieval Worlds Essay.md",
     "Medieval Worlds - Semester 1/Medieval Worlds Essay Plan.md",
-    "LiteratureNotes/demilioNewBeginningBirth1998.md",
     "LiteratureNotes",
-    "Latin - Semester 1/Latin Written Assessment.md",
-    "Latin - Semester 1/Latin Written Assessment - Planning.md",
     "References",
     "ZoteroStorage/Chapter 7, Walvin2.pdf",
     "ZoteroStorage/zotero.sqlite",
