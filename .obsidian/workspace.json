@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7bcd3cddc615cad",
+            "id": "f5b3bde0c39bc47e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greek World 1B - Semester 2/Greek World Tutorial 1.md",
-                "mode": "preview",
+                "file": "Greek World 1B - Semester 2/Greek World Tutorial 2.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greek World Tutorial 1"
+              "title": "Greek World Tutorial 2"
             }
           }
         ]
@@ -186,13 +186,14 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "f7bcd3cddc615cad",
+  "active": "f5b3bde0c39bc47e",
   "lastOpenFiles": [
+    "Greek World 1B - Semester 2/Greek World Tutorial 1.md",
+    "Greek World 1B - Semester 2/Greek World Tutorial 2.md",
     "Greek World 1B - Semester 2/Greek World Lecture 3.md",
     "Greek World 1B - Semester 2/Greek World Lecture 4.md",
     "Greek World 1B - Semester 2/Greek World Lecture 1.md",
     "Greek World 1B - Semester 2/Greek World Lecture 2.md",
-    "Greek World 1B - Semester 2/Greek World Tutorial 1.md",
     "Early Modern History - Semester 2/Early Modern Lecture 4.md",
     "Attachments/Pasted image 20250121163315.png",
     "Random Roman World Shit.md",
@@ -225,7 +226,6 @@
     "Latin - Semester 1/Latin Written Assessment - Planning.md",
     "Medieval Worlds - Semester 1/Medieval Worlds Lecture 7 - Vikings and their world.md",
     "Medieval Worlds - Semester 1/Medieval Worlds Tutorial 2 Prep.md",
-    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 2 - Which Medieval Worlds, Where.md",
     "References",
     "ZoteroStorage/Chapter 7, Walvin2.pdf",
     "ZoteroStorage/zotero.sqlite",
