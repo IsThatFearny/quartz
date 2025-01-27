@@ -48,9 +48,40 @@ The success of the first crusade resulted in the creation of various 'crusader s
 - County of Tripoli (1109-1289), controlled by the Raymonds from Southern France
 - Kingdom of Jerusalem (1099-1291), controlled by the Baldwins from Flanders
 
-Latin Christians were a minority in the Islamic world, and thus built large-scale fortifications (i.e. castles) and made sure to control important Mediterranean port cities and Levantine ports. They also expelled all surviving Muslims and Jews from Jerusalem. However
+Latin Christians were a minority in the Islamic world, and thus built large-scale fortifications (i.e. castles) and made sure to control important Mediterranean port cities and Levantine ports. They also expelled all surviving Muslims and Jews from Jerusalem. However, the crusaders were never able to capture inland cities such as Aleppo and Damascus.
 
 </br>
+
+### Syria in the 11th century
+
+- Post-1092, the Great Seljuq empire was divided amongst various groups
+- The East of Syria remained under the influence of the Great Seljuqs
+- *Atabeg* (governors appointed by Seljuqs) in Damascus, Aleppo, Antioch, Jerusalem, etc.
+- Edessa was under the authority of an Armenian kingdom (Christian rulers)
+- Tripoli was controlled by the Banu 'Ammar, a local family of judges who had originally been appointed by the Fatimids
+
+</br>
+
+### Jerusalem
+
+- Three holy sites:
+	- Church of the Holy Sepulchre
+	- The Dome of the Rock
+	- Western Wall
+- Jerusalem had limited importance - it was not a political centre, nor was it an economic hub, nor did it have any military significance. It was never a seat of government nor a burial place for political leaders
+- It was ceded to the Franks twice in the 13th century in order to protect Egypt
+
+</br>
+
+### Muslim reactions
+
+There was a limited response to the First Crusade. The Rum Seljuqs were only concerned with the intrusion into Anatolia; and the Great Seljuqs' campaign (led by Kirbogha, Atabeg of Mosul) to support Antioch (1098) was unsuccessful. The 'Abbasid caliphate's response also had little consequence: *Abu Sa'ad al-Harawi*'s speech calling for more troops was entirely ignored
+
+</br>
+
+### Zengi as a counter-crusader
+
+Zengi was of slave origin, being hired by the Great Seljuq sultan Malik Shah as a tutor for his son and governor of Mosul in 1127. Zengi took Aleppo in 1128, and took power in Syria for himself. He subsequently took Edessa from the Franks in 1144, the first major defeat for the crusaders, and the catalyst for the Second Crusade in 1148. Zengi died in 1146.
 
 
 
