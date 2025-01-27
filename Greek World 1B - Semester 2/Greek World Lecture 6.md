@@ -36,3 +36,6 @@ The *skene* building at the back of the stage functioned as a dressing room/back
 ### The Choregos
 
 The wealthiest members of Athenian society had to pay a *liturgy*, providing funding for various buildings, projects, etc. for the good of the community. One could be made to provide funding for ships, or, more relevantly, to serve as the *choregos* (producer-esque role) for a particular play - they would compete against each other for awards and prizes. The choregos was then permitted to erect a monument (a *choregic* monument) to their success.
+
+</br>
+
