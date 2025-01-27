@@ -9,7 +9,7 @@
 
 The document records the proceedings of an Inquisitorial tribunal against Elena/o de Cespedes, accused of sodomy for marrying a woman (although they presented as Masculine). The tribunal took place in 1587. The inquisition arrested Elena/o because they believed Elena/o to have committed a crime against the Church, namely sodomy and sorcery. 
 
-**N.B.** By this point the inquisition had started to function as an organ of social and moral control, rather than simply prosecuting religious transgressions
+**N.B.** By this point the inquisition had started to function as an organ of social and moral control, rather than simply prosecuting religious transgressions.
 
 2. How does your source understand Elena/o to be different or an outsider? At what points do early modern people start to care about difference? How do they identify it, in this inquisition record? What kinds of differences and practices seem to pass unnoticed? What was ‘tolerated’?
 
