@@ -18,7 +18,10 @@ At the new temple of Dionysos Eluthereos was built a theatre, rectangular in sha
 
 - There were never any more than three main actors on the stage at any one time (excluding the chorus)
 - Seats were made of wood, and were rented for various shows (we have evidence of rental contracts from stone inscriptions)
-- City Dionysia - a religious festival celebrating Dionysus, with theatre performances included (usually religious in nature)
+
+### The City Dionysia
+
+City Dionysia - a religious festival celebrating Dionysus, with theatre performances included (usually religious in nature)
 - Dionysos was the god of *ekstasis* (standing outside oneself), theatre, alcohol, etc. *ekstasis* was the central tenet of theatre - an actor is figuratively standing outside oneself whilst acting
 - 4 days of performances, with actors (all male) wearing specific masks to depict certain characters (villain, tragic hero, etc.)
 - 3 tragedians would compete with each other, submitting various plays (3 tragedies and 1 satyr play, where actors would dress as satyrs and act comically). The only surviving set is Aeschylus' *Orestia*
