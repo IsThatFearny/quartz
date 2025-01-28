@@ -19,3 +19,5 @@ Usama's commentary on the Franks came from his numerous journeys to the Levant w
 
 3. In what ways was Frankish rule experienced differently by Muslims of various social classes?
 
+Interaction between Muslims and Franks seems to have been relatively limited - there was a significant language barrier, especially between the 'common people'; the upper classes of Franks spoke Arabic in order to communicate with their Muslim counterparts, so interaction was likely different in these circumstances. Similarly, diplomatic and mercantile activity required interaction and cooperation, so logically those involved in these activities, usually the upper classes, would experience Frankish rule very differently to the lower classes, who had little reason to cooperate with their Frankish rulers, who, as Usama relates, could be quite rude towards Muslim citizens.
+
