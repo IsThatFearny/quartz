@@ -39,4 +39,3 @@
 </br>
 
 - Sparta did not feel safe in their home territory, because they were constantly at war with their neighbours in the Peloponnese - they fought with Arcadia, Argolis, Laconia, and Messenia
-- 
