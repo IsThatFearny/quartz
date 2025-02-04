@@ -1,0 +1,52 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Islamic History 1B - Semester 2/Islamic History Lecture 6.md",
+      "timestamp": 1738659966002
+    },
+    {
+      "filepath": "Greek World 1B - Semester 2/Greek World Lecture 9.md",
+      "timestamp": 1738598661873
+    },
+    {
+      "filepath": "Early Modern History - Semester 2/Early Modern Tutorial 3.md",
+      "timestamp": 1738591829350
+    },
+    {
+      "filepath": "Greek World 1B - Semester 2/Greek World Lecture 8.md",
+      "timestamp": 1738591810311
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true,
+  "showStarredFiles": true,
+  "starredFileStore": []
+}
