@@ -11,10 +11,15 @@
             "id": "f3b8edc5fd9a4f7c",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Greek World 1B - Semester 2/Greek World Lecture 10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Greek World Lecture 10"
             }
           }
         ]
@@ -183,6 +188,7 @@
   },
   "active": "f3b8edc5fd9a4f7c",
   "lastOpenFiles": [
+    "Greek World 1B - Semester 2/Greek World Lecture 10.md",
     "Islamic History 1B - Semester 2/Islamic History Lecture 6.md",
     "Islamic History 1B - Semester 2/Islamic History Lecture 7.md",
     "Early Modern History - Semester 2/Early Modern Tutorial 3.md",
@@ -215,7 +221,6 @@
     "Templates/Default.md",
     "Templates",
     "Attachments/Pasted image 20250121163315.png",
-    "Random Roman World Shit.md",
     "Attachments/Pasted image 20250120162909.png",
     "Attachments/Pasted image 20250116164938.png",
     "Attachments/Pasted image 20250116164920.png",
