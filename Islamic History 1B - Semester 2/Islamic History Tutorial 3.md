@@ -1,1 +1,0 @@
-# Islamic History Tutorial 3
