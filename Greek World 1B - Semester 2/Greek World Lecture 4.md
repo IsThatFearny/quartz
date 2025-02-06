@@ -54,6 +54,7 @@
 - If the Greeks depicted are truly contemporary, then this is revolutionary in Greek temple art
 
 </br>
+
 ### The Erechtheion
 
 - Situated on the North Side
