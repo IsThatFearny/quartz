@@ -43,4 +43,10 @@ The latter intepretation would certainly fit in closer with the various other de
 
 ### Essay
 
-The Phaselis decree was composed in the 5th cent
+The Phaselis decree was composed in the 5th century BC (the exact date is contested - some scholars suggest that it dates to c. 460, whereas others argue that it is closer to c. 420).[^1] It is part of a series of Athenian imperial decrees that managed relations between Athens and her allies, such as Chalkis, Samos, and of course Phaselis. In this case, the aspect of inter-state relations covered is the trial of Phaselites in Athens when defending themselves against an Athenian prosecutor. The decree affords Phaselites the right to have their trial held in the court of the polemarch, the judge who held jurisdiction over those who resided in Athens but held citizenship of another *polis*.[^2]
+
+Before one can discuss the relevance of the decree for understanding Athenian imperialism, one must deal with the controversy over the exact implications of the Phaselis decree. The decree has historically been read as introducing two conflicting pieces of legislation: that Phaselites must travel to Athens in order to defend their case; and that they are granted the privilege of having their case heard in the court of the polemarch. It would seem, in this interpretation, that Phaselites are simultaneously being punished and rewarded. This is not strictly a cause for criticism: James argues that it wHowever, modern scholarship has presented a secondary interpretation: that the decree applies only to Phaselites who were currently in Athens.[^3] This would make more sense considering the aforementioned role of the polemarch.
+
+[^1]: C.W. Fornara, “The Phaselis Decree,” <i>Classical Quarterly</i>, no. 29 (1979): 49–52; Leah Lazar, <i>Athenian Power in the Fifth Century BC</i>, Oxford Classical Monographs (Oxford: University Press, 2024); Jesse James, “Repunctuating Athenian Imperialism in the Phaselis Decree,” <i>Zeitschrift Für Papyrologie Und Epigraphik</i> 225 (2023): 133–41.
+[^2]: T. Editors of Encyclopedia Britannica, “Greek Law,” in <i>Encyclopedia Britannica</i>, December 21, 2024, <a href="https://www.britannica.com/topic/Greek-law">https://www.britannica.com/topic/Greek-law</a>.
+[^3]: James, “Repunctuating Athenian Imperialism in the Phaselis Decree.”
