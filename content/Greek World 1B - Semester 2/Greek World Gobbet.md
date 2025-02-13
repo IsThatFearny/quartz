@@ -37,6 +37,6 @@ By this interpretation of the decree, Athens in this period is characterised as 
 [^6]: James, “Repunctuating Athenian Imperialism in the Phaselis Decree.”
 [^7]: Lazar, <i>Athenian Power in the Fifth Century BC</i>, pp. 50
 [^8]: Meiggs and Lewis, <i>A Selection of Greek Historical Inscriptions to the End of the Fifth Century BC</i>.
-[^9]: IG I<sup>3</sup> 1454, lines 8-12, https://www.atticinscriptions.com/inscription/IGI3/1454 [Accessed 09/02/2025].
+[^9]: IG I<sup>3</sup> 1454, lines 8-12.
 [^10]: Lazar, <i>Athenian Power in the Fifth Century BC</i>.
-[^11]: IG I<sup>3</sup> 40, lines 47-52, https://www.atticinscriptions.com/inscription/IGI3/40 [Accessed 10/02/2025]
+[^11]: IG I<sup>3</sup> 40, lines 47-52.
