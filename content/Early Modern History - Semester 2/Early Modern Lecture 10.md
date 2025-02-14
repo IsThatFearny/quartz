@@ -78,4 +78,4 @@ The Fall of Constantinople was highly important in global history, as it restric
 	- At the bottom were the peasants who worked the land in order to create this surplus - they stay connected to the land and were able to pass it on to their children, despite lacking ownership
 - The middle class helped to run the empire and would be paid in 'land revenue'. This class was moved around often to avoid geographical centralisation of power
 - Land-tenure had a unique structure, and it was this that held together the large empires of heterogenous populations. All were able to be integrated into the imperial elite
-- Even enslaved people had the opportunity to advance themselves by becoming part of the military and administrative apparatus - this was permitted as a result of their indoctrination into the imperial apparatus a
+- Even enslaved people had the opportunity to advance themselves by becoming part of the military and administrative apparatus - this was permitted as a result of their indoctrination into the imperial apparatus and lack of connections and loyalty which lay elsewhere
