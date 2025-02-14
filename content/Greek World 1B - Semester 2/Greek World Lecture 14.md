@@ -87,3 +87,9 @@ Slaves could be privately freed by their masters (although proper documentation 
 In wartime, slaves could also be freed if they were useful in the war effort. This largely served to motivate slaves into doing difficult tasks which free men did not want to do.
 
 Manumission did not give one full citizenship of a region, but rather made the freed man a metic (i.e. a permanent resident of that area).
+
+</br>
+
+### Alternatives to slavery
+
+The abolition of slavery was not an option for the Greeks - Aristotle and Krates both write that slavery could only be ended if all static implements were made capable of moving.
