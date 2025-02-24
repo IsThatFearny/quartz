@@ -52,6 +52,7 @@ The Fall of Constantinople was highly important in global history, as it restric
 - Shah Ismal was succeeded by Shah Abbas (r. 1588-1629), who expanded the empire and expelled the Portuguese from Hormuz
 
 </br>
+
 #### Safavid Religious Differences
 
 - Shi'ism was promoted as Iran's official religion, despite it being a minority religion
