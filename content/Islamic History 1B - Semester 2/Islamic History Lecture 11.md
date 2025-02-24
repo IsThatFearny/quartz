@@ -46,4 +46,25 @@ The Mongol Khanates fractured into smaller pieces in the 14th century: the Ilkha
 
 #### Rise to Power
 
-Timur acquired leadership through making alliances with various other tribes, becoming ruler of Transoxania. In the 13
+Timur acquired leadership through making alliances with various other tribes, becoming ruler of Transoxania. In the 1360s, he allied with Husayn (of the western Chagatai Khanate) against the easter Khanate, and he subsequently killed Husayn in 1369, taking power for himself. He was not able to claim the title of Khan, not being of noble descent, and therefore maintained a puppet ruler, naming himself 'commander' instead. He married a descendant of Ghengis Khan, Saray Malik, and was then formally recognised as the leader of the western Chagatai Khanate, using Samarkand as his capital.
+
+</br>
+
+#### Various Campaigns
+
+- 1370s: Attacks on the eastern Khanate
+- 1378: Took Kashgar
+- 1380s: Installed Toqtamish as Khan of the Golden Horde
+- 1385: Toqtamish rebelled
+- 1395: Timur sacked Toqtamish's capital
+- 1390s: Attacked Golden Horde territories as well as Moscow
+- Throughout the 1380s and 1390s, Timur attacked former Ilkhanid territories in Iran and the Caucasus
+
+</br>
+
+#### Later Conquests
+
+- 1398: Invaded India and sacked Delhi, massacring 80,000 inhabitants and deploying 90 elephants in order to return looted wealth. Spared administrators, scholars, artists, etc.
+- 1400: Sacked Aleppo
+- 1401: Sacked Damascus and Baghdad
+- 1402: The Battle of Ankara. Timur captured the Ottoman Sultan Bayezid I, causing massive and widespread Ottoman instability (and delaying Ottoman attacks on Constantinople for by years)
