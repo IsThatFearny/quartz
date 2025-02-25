@@ -40,5 +40,6 @@
 
 ### Macedonian Political Turmoil
 
-- After Perdiccas died, there was no legitimate successor - Archelaus possessed the throne, but had no claim to it, being the son of a slave of Perdiccas' brother Alcetas
-- In order to 
+- After Perdiccas died, there was no legitimate successor - Archelaus possessed the throne, but had no claim to it, being the son of a slave of Perdiccas' brother Alcetas (and therefore not a legitimate son)
+- In order to remove contest to the throne, Archelaus made out that he would restore Alcetas to the throne, before having him and his son (Archelaus' cousin) murdered. He also drowned his seven year old brother, who was considered to be a legitimate son and therefore a worthy successor to Perdiccas
+- Archelaus was killed by a paige, sparking another succession battle
