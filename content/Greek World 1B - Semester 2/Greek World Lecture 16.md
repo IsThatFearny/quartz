@@ -13,7 +13,7 @@
 
 </br>
 
-### Macedonian Tombs
+### Macedonian Tombs at Vergina
 
 - The surviving tombs are from the Hellenistic period
 - Most have elaborate wall decoration depicting various events - these have been preserved because they are below ground; we have no surviving paintings above ground
@@ -39,7 +39,27 @@
 
 #### Tomb 2
 
+- Built c. 320 BCE
 - The only tomb that remained un-plundered
+- Belonged to a member of the Macedonian royal family
 - The facade included a doric frieze, metopes, etc. (similar to the Parthenon)
-- The wall painting wraps around the facade, depicting a hunting scene
-- The use of landscape in the wall painting is a
+- The wall painting wraps around the facade, depicting a royal hunting scene:
+
+![[Pasted image 20250225163407.png|500]]
+
+- The use of landscape in the wall painting is unusual for Greek art
+- It is speculated that the figure shown in purple, a young child, is meant to be Alexander the Great, with his father Philip II also present
+- Above tomb 2, the remnants of a cremation pyre are present
+- When the tomb was discovered, various artifacts were present:
+	- Gold Larnakes (boxes), both of which had objects within them: in one, cremated bone, textiles and fabric, and a gold crown; in the other, similar, although this had the remains of a woman rather than a man 
+	- A couch, made of stone with ivory decoration. Two ivory heads adorned it, portraits of Alexander the Great and Philip II
+	- Greaves - not equal in length, implying that their possessor was Philip II who had been maimed in battle
+	- A pure gold quiver
+	- Alabaster vessels
+- The likely candidate for burial in this tomb is Philip III Arrhidaios (r. 323-317 BCE), step-brother of Alexander the Great, although no evidence has been conclusive
+
+</br>
+
+#### Tomb Paintings
+
+- The deceased, if depicted, were usually shown seated, often accompanied by Aiakos and Rhadamanthys who were associated with death
