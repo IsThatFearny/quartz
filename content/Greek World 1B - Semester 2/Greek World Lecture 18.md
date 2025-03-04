@@ -28,4 +28,9 @@ Olympias (the grandmother of Alexander's child) captured the royal family and se
 
 </br>
 
+### The Treaty
+
+A treaty was decided upon to end the succession battle. Cassander, Ptolemy, and Lysimachus agreed with Antigonus that Cassander would be 'general of Europe' until Alexander's son came of age; that Lysimachus would rule Thrace; and that Ptolemy should rule Egypt and Arabia. Antigonus was take precedence in Asia, and the Greeks would be autonomous.
+
+
 
