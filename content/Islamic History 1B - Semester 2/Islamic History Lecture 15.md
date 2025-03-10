@@ -45,3 +45,37 @@
 **The First Delhi Sultanate**
 
 A real sultanate is established under the first major Aybeg ruler, Iltutmish (r. 1211-1236). Iltutmish, a turkic name meaning 'holder to power', repelled the Mongol invasion, and attracted Turko-Mongol tribal migrations in the region.
+
+</br>
+
+### The Khaljid Delhi Sultanate (1290-1320)
+
+- Ruled by Ala' al-Din Khalji, r. 1296-1316
+- The sultanate was plagued by Mongol raids from 1300-1303.
+- The predominant religion was Chisti Sufism
+- Led various raids into Southern
+
+</br>
+
+### The Tughluqid Delhi Sultanate (1320-1414)
+
+- The sultanate expanded greatly in the 1320s
+- However, the 1330s and 1340s were characterised by widespread unrest, and eventually fragmented
+
+</br>
+
+### Rule and Governance
+
+- Comprised of Turks, Mongols, and a Persian administrative class
+- Traditional and rituals were characteristic of the steppe regions
+- Governance was largely Perso-Islamic
+- Delhi became one of the largest and most powerful cities in the Islamic world
+- The Delhi sultanates saw significant cultural and economic success
+
+</br>
+
+### Religion
+
+Indian Islam brought with it a distinctive form of art and architecture. Sufism was the dominant form of Islam, developing the *dhikr*, a Sufi ceremony for the remembrance of God through constant repetition of his name; and the *sama*, a ceremony for remembrance through music and dance.
+
+**13th-14th century authors describe India as the 'sanctuary of Islam', where the community was safe from the 'infidel' mongols**
