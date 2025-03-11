@@ -37,9 +37,30 @@
 - He was partly inspired by Osiris (Egyptian) and partly by Hades (Greek)
 - He was worshipped at the Serepeion, along with his wife Isis
 - It is thought that the temple of Serapis also served as a place of worship for the Ptolemies (inferred from inscriptions on the Altar of Serapis)
+- It is believed that Aphrodite was also worshipped at the Serepeion
 
 </br>
 
 ### Library of Alexandria
 
-- Claimed to have held 700,000 works (on Papyrus s)
+- Claimed to have held 700,000 works (on Papyrus scrolls)
+- Attracted various intellectuals and philosophers from all over the Hellenistic poetry
+- Numerous fires destroyed the library, the most famous being in 48 BC (although there were many more instances)
+
+</br>
+
+- Houses often featured mosaic floors, made up of Tesserae:
+
+![[Pasted image 20250311163925.png|250]]
+
+</br>
+
+### Coinage and Imagery
+
+- Ptolemaic rulers were depicted on coinage in the guise of a deity - a diadem was placed in the hair of the ruler in order to demonstrate deification; similarly, an Aegis of Zeus was worn around the neck to show godliness
+- Ptolemy II minted coins which showed him and his wife on the obverse side and Ptolemy I and his wife Berenice I
+- Ptolemy I was depicted in sculpture as a 'typical' Egyptian pharaoh:
+
+![[Pasted image 20250311164851.png|250]]
+
+- Imagery was somewhat 'bilingual'
