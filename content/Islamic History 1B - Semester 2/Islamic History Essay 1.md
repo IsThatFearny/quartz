@@ -8,5 +8,8 @@
 
 ### Planning
 
-- Para on religion
+- Para on religion and shared worship
+- Ensure focus is maintained on **day-to-day** activities - i.e. no diplomacy, royal relations, etc.
+- 'Indigenous populations' includes local Christians as well as Muslims
+- Jerusalem as a focus?
 - 
