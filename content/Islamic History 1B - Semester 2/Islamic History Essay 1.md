@@ -8,3 +8,5 @@
 
 ### Planning
 
+- Para on religion
+- 
