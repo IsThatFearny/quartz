@@ -18,3 +18,33 @@
 - 1519 - 1522: Magellan Circumnavigation  
 - 1565: Spanish arrival in the Philippines  
 - 1571: Establishment of colony in Manila
+
+</br>
+
+### Goods transported
+
+**Americas --> Asia**
+
+- Silver
+- Potatoes
+- Sweet Potatoes
+- Tomatoes
+- Chili Pepper
+- Peanuts
+- Pineapple
+- Tobacco
+
+**Asia --> Americas**
+
+- Silk
+- Textiles
+- Spice
+- Porcelain
+- Ivory
+- Lacquerware
+- Folded screens and furniture
+- Wax
+
+</br>
+
+The Spanish reale was so strong that other global currencies were weighted against it (the early modern equivalent of the US dollar today).
