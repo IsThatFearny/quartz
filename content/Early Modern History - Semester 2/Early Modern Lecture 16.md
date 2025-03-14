@@ -25,3 +25,11 @@
 </br>
 
 ### Sir Joseph Banks
+
+- A central figure of the scientific enlightenment
+	- Director of the royal gardens at Kew from 1773
+	- President of the Royal Society from 1778
+- Believed in colonialism and science for economic benefit
+	- Enthusiastic in the discovery and categorisation of the natural world
+	- Key promoter of pacific voyages and colonisation of Australia
+	- Leader of the African Association promoting exploration
