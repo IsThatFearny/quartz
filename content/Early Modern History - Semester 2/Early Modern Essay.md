@@ -6,9 +6,7 @@
 
 </br>
 
-### Planning
+The development of increasingly accurate cartography and the increase in travel writing in the Early Modern Period has, in recent historiography, given rise to 'global history', i.e. a form of history writing that seeks to emphasise the interconnection between various different cultures, states, populations, etc. This comes as little surprise: instance of interaction increased through trade and diplomacy, enabled by improved transportation and technology. However, despite the world becoming ever more connected in this period, from 2013 onwards various historians have warned against embracing the all-encompassing connectivity narrative, arguing that it may cause the historian to stray from instances of disconnectedness.[^1] Within the story of connectivity which maps and travel writing can tell, they also show inherent disconnections between societies. Biedermann makes the argument that we should use the term '(dis)connections' to describe the developing global links as "carrying simultaneously the potential for convergence and divergence".[^2] This essay shall argue in support of this view and 
 
-- AI Summary:
-	- Q: 'What does Biedermann mean by disconnections?'; A: The author uses the term '(dis)connections' to describe the simultaneous existence of connection and disconnection as inherent qualities of historical relationships. It emphasizes that disconnection is not merely a result of external forces but is embedded within the very nature of connections between nonidentical entities. This concept allows for a more nuanced understanding of history, where both aspects can coexist and inform each other, leading to richer narratives.
-	- Q: 
-
+[^1]: Zoltan Biedermann, “(Dis)Connected History and the Multiple Narratives of Global Early Modernity,” <i>Modern Philology</i> 119, no. 1 (2021): 13–32.
+[^2]: Zoltan Biedermann, “(Dis)Connected History and the Multiple Narratives of Global Early Modernity,” pp. 25
