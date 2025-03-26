@@ -175,4 +175,6 @@
 
 - Built on the ruins of the Rum Seljuq and Ilkhanid Mongol states
 - Before 1453, power was legitimised through a claim of investiture by Rum Seljuqs
-- After 1453, 
+- After 1453, legitimisation of power was as a result of the conquest of Constantinople
+- Imperial ideology was expressed in titles: Abu 'l Fath Mehmed = Mehmed the Conqueror; Qayser-i Rum = Caesar/Emperor of Rome
+- Two sources of law: Shari'a (Islamic Law) and *kanun* (Sultanic laws/decrees)
