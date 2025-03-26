@@ -36,3 +36,13 @@
 	- Does the text convey a certain tone? How does the language work? What are the important metaphors and symbols? What can the author's choice of words tell you?
 	- What is the author's point of view? How does the author's point of view relate to their background?
 	- What is the author's potential bias? What does the author choose to talk and not talk about? Whose points of view are left out?
+- Whilst direct quotations are discouraged, words from the text can be used in order to emphasise a point about language or tone
+- No footnotes or bibliography, but it is encouraged to cite certain authors (including their death date if they are contemporary to the time)
+
+</br>
+
+### Materials
+
+- Use lecture slides
+- Tutorial assigned reading and tutorial notes can be used as they will be relevant
+- Essay feedback on previous essays
