@@ -102,4 +102,4 @@
 ---
 
 In 399 BCE, Socrates stood trial before a jury of 500 to defend himself against charges of 'impiety' and 'corrupting the youth' which had been brought against him. It was argued by the prosecutor, Meletus, that Socrates did not believe in the traditional Athenian gods, and that he was thus indoctrinating the young people of Athens with his teachings. In much scholarship, these charges are intepreted as charges of 'Atheism'. However, whether Socrates was an Atheist (in the modern sense) is a matter of much debate: there is evidence to suggest that Socrates simply redefined Greek religion and divinity, rather than refuting the concept of religion in its entirety. This is the argument that this essay shall make: Socrates was not an Atheist. A monotheist perhaps, 'impious' by Athenian standards maybe, but he certainly believed in the supernatural and divine powers, even if he did not attribute these powers to traditional Greek polytheistic views.
-
+ 
