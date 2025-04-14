@@ -95,4 +95,6 @@
 
 ## Essay
 
-Trade was a major aspect of various Islamic empires, both with other Muslim entities or with non-Muslims. The part that it played in widespread conversion to Islam cannot be understated: it facilitated sustained, peaceful contact, offered economic incentives to those who converted, and was instrumental in transmitting Islamic religious and cultural ideas to those outside Islam. This essay will argue that trade had a vital influence of conversion to Islam 
+Trade was a major aspect of various Islamic empires, both with other Muslim entities or with non-Muslims. The part that it played in widespread conversion to Islam cannot be understated: it facilitated sustained, peaceful contact, offered economic incentives to those who converted, and was instrumental in transmitting Islamic religious and cultural ideas to those outside Islam. This essay will argue that trade had a vital influence of conversion to Islam, addressing the key themes of its role in creating points of contact, providing positive economic circumstances for converts, and enabling the transmission of Islamic texts and culture to non-Islamic regions.
+
+Trade routes extending beyond Arab-conquered regions of the world established various points of contact between Muslim traders and n
