@@ -102,3 +102,166 @@ Trade routes extending beyond Arab-conquered regions of the world established va
 In a similar vein, trade also provided strong economic incentives for conversion to Islam. One such incentive was the use of Sharia contracts. The Qu'ran refers to moral obligations and contracts under Sharia law, specific to trade and mercantile activity. Inherent within Islamic trade was a system of trust and honesty as prescribed by the Qu'ran, reducing transaction costs and providing access to legal protection under Islamic law. This system was inaccessible to non-Muslims, and conversion within non-Muslim merchant communities was highly beneficial for all parties, as they could guarantee a certain level of trust in trading activity. This clearly demonstrates that trade was vital in influencing conversion to Islam - non-Muslim merchants converting for this reason was not uncommon in both Arab-ruled states, and those which were external to the Arab world. Economic incentives also existed within the trade taxation system. *Ushr*, for example, was a tax levied on those (to a greater extent on non-Muslims than Muslims) moving goods and livestock across Islamic borders - a convert, therefore, would be required to pay significantly less (some reports say up to half of the tax), saving a significant amount of money in transactions involving border crossings. Trade created these economic incentives which convinced many non-Muslims trading with Muslims to convert as a matter of convenience and fiscal efficiency in their ventures.
 
 Trade created connections between Islamic territories and foreign lands, allowing merchants to settle and bring their religion with them, forming Islamic communities in trade hubs around the world. It brought economic incentives for conversion, leading to the conversion many non-Muslim merchants hoping to gain a competitive advantage. From these arguments, it becomes evident that trade played a key role in the Islamisation of much of the world, whether in the Arab world or externally.
+
+</br>
+
+---
+
+## Section B
+
+### Outline
+
+#### **I. Introduction (c. 75–100 words)**
+
+- Briefly introduce the source and its significance.  
+    _Example: This excerpt is drawn from the travelogue of Ibn al-Jubayr, a Muslim traveler and writer of the 12th century, whose writings offer an important lens into the interactions between Muslim and Christian societies during the Crusades._
+    
+- State the main theme of the passage: **peaceful coexistence and economic exchange despite religious warfare**.
+    
+- Indicate your approach: contextual, analytical, and reflective on its utility and limitations as historical evidence.
+    
+
+---
+
+#### **II. Historical Context (c. 150–200 words)**
+
+- **Author background**:  
+    Ibn al-Jubayr (1145–1217), Andalusi Arab, court secretary from Granada. Undertook the Hajj in 1183–1185, travelling through Egypt, Syria, and the Levant during the time of the Crusades. Educated and devout Muslim, with a critical eye but also a descriptive impulse.
+    
+- **When and where**:  
+    Written after his return from pilgrimage, likely around 1185–1186. The Islamic world at the time was politically fragmented but culturally rich. The Crusader states (e.g., the Kingdom of Jerusalem) existed side by side with Muslim powers like the Ayyubids (Saladin).
+    
+- **What was going on**:  
+    Despite the ongoing Crusades (Third Crusade loomed shortly after), there were zones of relatively stable coexistence and pragmatic commerce. Ibn al-Jubayr witnessed a society in which war and trade coexisted paradoxically.
+    
+
+---
+
+#### **III. Source Analysis (c. 300–350 words)**
+
+##### **Message and argument:**
+
+- **Explicit message**: Despite warfare, peaceful interaction and commerce continued between Muslims and Christians.
+    
+- **Implicit messages**:
+    
+    - The contrast between the “soldiers” and “civilians” implies a layered society where practical needs overrode religious hostility.
+        
+    - The notion of iʿtidal (balance/fairness) suggests admiration for structured coexistence, possibly as a critique of Muslim divisions.
+        
+
+##### **Rhetorical strategies and evidence:**
+
+- Use of paradox: juxtaposing "fires of discord" with peaceful movement of caravans.
+    
+- Citing examples: Egypt to Damascus via Frankish lands, mutual taxation.
+    
+- Emphasis on fairness and reciprocal taxation presents a message of _functional pragmatism_.
+    
+
+##### **Tone and language:**
+
+- Calm, almost admiring tone. "Astonishing" implies surprise but not condemnation.
+    
+- Key concepts: **ittifaq (agreement), iʿtidal (balance/equality)**—moral and legal language suggesting structured norms.
+    
+- Contrast between **ahl al-harb** (soldiers) and civilians points to the division of roles, possibly reflecting Islamic legal thinking (jihad vs. dar al-‘ahd).
+    
+
+##### **Point of view and bias:**
+
+- Ibn al-Jubayr writes from a Muslim perspective, but as a traveler, he offers a somewhat detached account.
+    
+- Potential bias: may idealize or exaggerate the "tolerance" to highlight Muslim moral superiority or criticize internal Muslim divisions.
+    
+- Leaves out the perspective of Christian authorities or lower-class individuals on both sides.
+    
+
+---
+
+#### **IV. Nature and Use of the Source (c. 150–200 words)**
+
+##### **Prescriptive vs. descriptive:**
+
+- Primarily **descriptive**: presents what _did_ happen based on observation.
+    
+- Yet may have a **prescriptive undercurrent**: implies that peaceful coexistence is preferable or admirable.
+    
+
+##### **Whose beliefs/actions does it reflect?**
+
+- Reflects elite, educated perspective—more about officials, merchants, and structured interactions.
+    
+- Suggests that **ordinary people**, especially traders and travelers, were integrated into this system of coexistence, but doesn’t voice their views directly.
+    
+
+##### **Uses and benefits:**
+
+- Offers insight into **cross-cultural interaction**, economic interdependence, and informal diplomacy during wartime.
+    
+- Shows how boundaries between religious groups were not impermeable—key for studying **entanglement vs. disconnection**.
+    
+
+##### **Limitations:**
+
+- Not a comprehensive picture—omits violence, power imbalances, or local-level tensions.
+    
+- One-sided narrative—Christian voices are absent.
+    
+- Idealized? Not all zones may have functioned with such “equal treatment.”
+    
+
+---
+
+#### **V. Connection to Course Themes (c. 100–125 words)**
+
+- **Disconnection vs. connection**:  
+    As Biedermann suggests, disconnections can _coexist with_ connectivity. The military divide did not prevent economic integration.
+    
+- **Secondary sources**:
+    
+    - Trivellato’s work on commerce and cross-cultural trust ties well with the themes of reciprocal taxation and security.
+        
+    - Ramachandran’s focus on travel writing as a mode of world-making helps interpret Ibn al-Jubayr’s account as part of a broader cartography of relations.
+        
+    - Natalie Zemon Davis’ interest in _trading zones_ echoes in this description of mutual benefit amid tension.
+        
+- **Compare to other primary sources**: e.g., Christian pilgrimage accounts or Geniza documents showing Muslim-Jewish-Christian trade networks.
+    
+
+---
+
+#### **VI. Conclusion (c. 50–75 words)**
+
+- Reiterate the value of the source: A vivid depiction of how practical needs shaped interfaith relations amid warfare.
+    
+- Acknowledge its limitations but emphasize its usefulness in complicating binaries of war/peace or connection/disconnection.
+    
+- Suggest that Ibn al-Jubayr’s observations invite us to see the Crusades not just as religious conflict but as an era of negotiated coexistence.
+
+</br>
+
+### Source
+
+One of the astonishing things that is talked of is that though the fires of discord  
+burn between the two parties, Muslim and Christian, their two armies may meet  
+and dispose themselves in battle array, and yet Muslim and Christian travellers will  
+come and go between them without interference.  
+The caravans still passed successively from Egypt to Damascus, going through the  
+land of the Franks without impediment from them [Franks]. In the same way the  
+Muslims continuously journeyed from Damascus to Acre [through the Frankish  
+territory], and likewise not one of the Christian merchants was stopped or  
+hindered [in the Muslim territories]. The Christians impose a tax on the Muslims  
+[merchants who cross their lands] which give them [the Muslims] full security; and  
+likewise the Christian merchants pay a tax on their goods in Muslim lands.  
+Agreement (ittifaq) exists between them, and there is equal treatment (i‘tidal) in  
+all cases. The soldiers (ahl al-Harb=les gens de guerre) engage themselves in their  
+war, while the civilians are at peace and most [of the goods] goes to him who  
+conquers.  
+From Ibn al-Jubayr’s Al-Rihla [travelogue], translated by Y. Frenkel in The  
+Crusades and the Near East. Cultural Histories, (C. Kostick ed.), London, 2011,  
+p.43.
+
+</br>
+
+### Essay
