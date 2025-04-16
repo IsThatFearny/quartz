@@ -243,25 +243,15 @@ Trade created connections between Islamic territories and foreign lands, allowin
 
 ### Source
 
-One of the astonishing things that is talked of is that though the fires of discord  
-burn between the two parties, Muslim and Christian, their two armies may meet  
-and dispose themselves in battle array, and yet Muslim and Christian travellers will  
-come and go between them without interference.  
-The caravans still passed successively from Egypt to Damascus, going through the  
-land of the Franks without impediment from them [Franks]. In the same way the  
-Muslims continuously journeyed from Damascus to Acre [through the Frankish  
-territory], and likewise not one of the Christian merchants was stopped or  
-hindered [in the Muslim territories]. The Christians impose a tax on the Muslims  
-[merchants who cross their lands] which give them [the Muslims] full security; and  
-likewise the Christian merchants pay a tax on their goods in Muslim lands.  
-Agreement (ittifaq) exists between them, and there is equal treatment (i‘tidal) in  
-all cases. The soldiers (ahl al-Harb=les gens de guerre) engage themselves in their  
-war, while the civilians are at peace and most [of the goods] goes to him who  
-conquers.  
-From Ibn al-Jubayr’s Al-Rihla [travelogue], translated by Y. Frenkel in The  
-Crusades and the Near East. Cultural Histories, (C. Kostick ed.), London, 2011,  
-p.43.
+One of the astonishing things that is talked of is that though the fires of discord burn between the two parties, Muslim and Christian, their two armies may meet and dispose themselves in battle array, and yet Muslim and Christian travellers will come and go between them without interference. The caravans still passed successively from Egypt to Damascus, going through the land of the Franks without impediment from them [Franks]. In the same way the Muslims continuously journeyed from Damascus to Acre [through the Frankish territory], and likewise not one of the Christian merchants was stopped or hindered [in the Muslim territories]. The Christians impose a tax on the Muslims [merchants who cross their lands] which give them [the Muslims] full security; and likewise the Christian merchants pay a tax on their goods in Muslim lands. Agreement (ittifaq) exists between them, and there is equal treatment (i‘tidal) in all cases. The soldiers (ahl al-Harb=les gens de guerre) engage themselves in their war, while the civilians are at peace and most [of the goods] goes to him who conquers. 
+**From Ibn al-Jubayr’s Al-Rihla [travelogue], translated by Y. Frenkel in The Crusades and the Near East. Cultural Histories, (C. Kostick ed.), London, 2011, p.43.**
 
 </br>
 
 ### Essay
+
+This excerpt is taken from Ibn al-Jubayr's *Al-Rihla*. al-Jubayr was a Muslim travel writer living in the 12th-century, and his *Al-Rihla* was a journal of his travels around the Islamic world. It offers an insight into the interactions between Muslim and Christian societies during the Crusades. The passage's overarching theme is that, despite the religious warfare that was ongoing at the time (referred to as "the fires of discord"), peaceful coexistence and economic interaction was still possible.
+
+Ibn al-Jubayr was an Arab born in Granada, in Al-Andalus in the mid 12th-century. He travelled throughout much of the Arab world whilst undertaking the Hajj, his religious pilgrimage to Mecca, during which he travelled through Frankish-occupied territory. The Al-Rihla was written after his pilgrimage, at a time when political fragmentation was at its most extreme. However, despite this, Muslim and Christian powers still lived side-by-side, cooperating out of pragmatism and necessity. Merchant activity and conflict existed paradoxically, particularly in the Levant. Indeed, al-Jubayr comments on the fact that "their two armies may meet and dispose themselves in battle array, and yet Muslim and Christian travellers will come and go between them without interference". In this passage, Al-Jubayr details the exact nature of the civilian co-inhabitance that occured throughout the Levant.
+
+Ibn al-Jubayr's primary explicit message in this source is that, despite the ongoing conflict, interaction between warring societies still occurred, particularly in the context of commerce. This is clearly supported by his reference to how "The soldiers engage themselves in their war, while the civilians are at peace". In addition to the explicit messaging in the source, al-Jubayr also strongly implies that practical needs were prioritised over religious hostility: he states that an "agreement (Ittifaq) exists between them", and said commercial agreement clearly overrides the animosity felt by the warring factions. 
