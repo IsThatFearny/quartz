@@ -249,8 +249,6 @@ To be a citizen (_politēs_) one had to:
 
 ---
 
-This lecture ties Athens’ architectural and religious achievements to its imperial ambitions. The **Parthenon** reflects **Athenian identity, power, and ideology**, projecting dominance through art and sacred architecture.
-
 </br>
 
 ## **Lecture 4 Summary: Parthenon Sculpture & Other Acropolis Monuments**
