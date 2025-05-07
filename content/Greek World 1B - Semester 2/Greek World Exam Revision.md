@@ -31,4 +31,6 @@
 
 After the Persian war, the Athenian people began to rebuild their fortifications, including Athens' famed 'long walls'. The Spartans sent a delegation to Athens to attempt to prevent this fortification, spurred into action partly by the increasing size of the Athenian navy and the bold approach that the Athenians had taken during the Persian War. The Spartans' request was that Athens should join with other Peloponnesian city-states and remove all fortifications.
 
-Themistocles (c. 524 - c. 459 BCE)
+Themistocles (c. 524 - c. 459 BCE) persuaded the Athenians to finish building the port (*Peiraeus*) in order to further strengthen the Athenian navy, realising that becoming a seafaring nation was the 'key to the acquisition of power'.
+
+Pausanius was recalled to Sparta for an inquiry into reports received  
