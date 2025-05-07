@@ -7,7 +7,7 @@
 ![[Pasted image 20250225161456.png|500]]
 
 - Constructed by Philip II (r. 359-336 BCE)
-- Rooms were tiled with incredibly detailed mosaics underfoot, especially in banqueting rooms
+- Rooms were tiled with incredibly detailed mosaics underfoot, aespecially in banqueting rooms
 - Residential and banqueting rooms were located on the east and west sides of the building - the north was used more as a balcony of sorts
 
 
