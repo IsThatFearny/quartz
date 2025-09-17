@@ -1,0 +1,48 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Transformation of the Roman World - Semester 1/Lecture 2 - 17-09-2025.md",
+      "timestamp": 1758107656473
+    },
+    {
+      "filepath": "Transformation of the Roman World - Semester 1/Lecture 1 - 15-09-2025.md",
+      "timestamp": 1758107649079
+    },
+    {
+      "filepath": "Ancient Historiography - Semester 1/Lecture 1 - 16-09-2025.md",
+      "timestamp": 1758021005521
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true,
+  "showStarredFiles": true,
+  "starredFileStore": []
+}
