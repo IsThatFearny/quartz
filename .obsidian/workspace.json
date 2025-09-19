@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "92e44b476586d0bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9febf6781a784a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc5413eaef3b3725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Historiography/Lecture 2 - 19-09-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 2 - 19-09-2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4857dacacefbe314",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e5dbec4c983d016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735e7aacbba4aef6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2abb693cb5082fc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f0a963f8f214ffba",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "694517323b7b64b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7654c4d65333ae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7252d9e583e1b33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "549fe7e6e510f8bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "excel:Create Excel File": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "notion-like-tables:Create loom": false
+    }
+  },
+  "active": "bc5413eaef3b3725",
+  "lastOpenFiles": [
+    "Intro to Historiography/Lecture 2 - 19-09-2025.md",
+    "Intro to Historiography/Lecture 2 - 19/09/2025.md",
+    "Intro to Historiography/Lecture 2 - 19/09",
+    "Intro to Historiography/Lecture 2 - 19",
+    "Intro to Historiography",
+    "Ancient Historiography - Semester 1/Lecture 2 - 16-09-2025.md",
+    "Transformation of the Roman World - Semester 1/Lecture 2 - 17-09-2025.md",
+    "Transformation of the Roman World - Semester 1/Lecture 1 - 15-09-2025.md",
+    "Ancient Historiography - Semester 1/Lecture 1 - 16-09-2025.md",
+    "Ancient Historiography - Semester 1",
+    "Transformation of the Roman World - Semester 1",
+    "Latin - Semester 1/Latin Written Assessment.md",
+    "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 8 Prep.md",
+    "Islamic History 1B - Semester 2/Islamic History Lecture 22.md",
+    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 13 - The East Roman World.md",
+    "Greek World 1B - Semester 2/Greek World Exam Revision.md",
+    "Early Modern History - Semester 2/Early Modern Essay.md"
+  ]
+}
