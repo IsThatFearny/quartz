@@ -11,10 +11,15 @@
             "id": "82f35e900d449679",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Transformation of the Roman World - Semester 1/Lecture 3 - 22-09-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 3 - 22-09-2025"
             }
           }
         ]
@@ -142,6 +147,7 @@
   },
   "active": "82f35e900d449679",
   "lastOpenFiles": [
+    "Transformation of the Roman World - Semester 1/Lecture 3 - 22-09-2025.md",
     "Intro to Historiography/Lecture 2 - 19-09-2025.md",
     "Intro to Historiography/Lecture 2 - 19/09/2025.md",
     "Intro to Historiography/Lecture 2 - 19/09",
