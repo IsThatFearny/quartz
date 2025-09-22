@@ -1,0 +1,90 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1746612913601.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1746612913601,
+  "responses": {},
+  "messages": {
+    "user-1-1746613029991-1": 1,
+    "user-2-1746613107699-1": 2
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1746612913601",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746612913601",
+      "content": [
+        {
+          "type": "text",
+          "text": "Summarise all notes in the folder /Greek World 1B - Semester 2/"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1746613029991-1",
+      "context": {
+        "folder_refs": [
+          "Greek World 1B - Semester 2"
+        ]
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1746613029991-1",
+      "key": "Untitled 1746612913601#user-1-1746613029991-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746612913601",
+      "content": [
+        {
+          "type": "text",
+          "text": "Can you summarise all notes in /Greek World 1B - Semester 2/"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "user-2-1746613107699-1",
+      "context": {
+        "folder_refs": [
+          "Greek World 1B - Semester 2"
+        ]
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1746613107699-1",
+      "key": "Untitled 1746612913601#user-2-1746613107699-1"
+    }
+  ]
+}
