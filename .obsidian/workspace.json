@@ -11,10 +11,15 @@
             "id": "c2da75e117d66329",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Ancient Historiography - Semester 1/Lecture 5 - 02-10-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 5 - 02-10-2025"
             }
           }
         ]
@@ -142,6 +147,7 @@
   },
   "active": "c2da75e117d66329",
   "lastOpenFiles": [
+    "Ancient Historiography - Semester 1/Lecture 5 - 02-10-2025.md",
     "Ancient Historiography - Semester 1/Lecture 4 - 30-09-2025.md",
     "Intro to Historiography - Semester 1/Lecture 4 - 26-09-2025.md",
     "Transformation of the Roman World - Semester 1/Lecture 4 - 24-09-2025.md",
