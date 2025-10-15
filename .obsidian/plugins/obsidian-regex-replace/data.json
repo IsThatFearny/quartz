@@ -1,0 +1,10 @@
+{
+  "findText": "Atheism",
+  "replaceText": "atheism",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": false
+}
