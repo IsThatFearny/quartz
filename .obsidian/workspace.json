@@ -11,10 +11,15 @@
             "id": "3b1a00eaf50942e9",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Historiography - Semester 1/Essay 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Essay 1"
             }
           }
         ]
