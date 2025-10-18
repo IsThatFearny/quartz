@@ -220,3 +220,8 @@ Who cooked the victory feast?” (“People's History and Socialist Theory”, 1
 
 </br>
 
+#### 'On Engels' 'The Condition of the Working Class in England''
+
+“the first book in Britain or any other country which dealt with the working class as a whole and not merely with particular sections and industries.” (Eric Hobsbawm, 2011, p. 91)
+
+“Secondly, and more important, it was not merely a survey of working-class conditions, but a general analysis of the evolution of industrial capitalism, of the social impact of industrialisation and its political and social consequences – including the rise of the labour movement” (Eric Hobsbawm, 2011, p. 91)
