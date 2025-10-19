@@ -12,7 +12,7 @@ Dr. Oakland introduces **“history from below”**, a historiographical approac
 
 #### **Origins and Definitions**
 
-- Early precursors include **17th–18th century antiquarians** like _John Aubrey_, who linked social behavior to economic life.
+- Early precursors include **17th–18th century antiquarians** like _John Aubrey_, who linked social behaviour to economic life.
     
 - **Social history** studies societal structures using social science and quantitative methods.
     
