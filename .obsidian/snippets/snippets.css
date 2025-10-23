@@ -1,0 +1,10 @@
+.markdown-embed {
+    height: 100%; 
+    max-height: 80vh; 
+    overflow: scroll; 
+    padding: 0 0 0 8px;}
+
+.markdown-preview-section {
+    margin: 0 0 0 0;
+    max-width: 100%;
+}
