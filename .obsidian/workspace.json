@@ -11,10 +11,15 @@
             "id": "a630ab145a877540",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Ancient Historiography - Semester 1/Lecture 13 - 28-10-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 13 - 28-10-2025"
             }
           }
         ]
@@ -144,6 +149,7 @@
   },
   "active": "a630ab145a877540",
   "lastOpenFiles": [
+    "Ancient Historiography - Semester 1/Lecture 13 - 28-10-2025.md",
     "Transformation of the Roman World - Semester 1/Tutorial Prep 28-10-2025.md",
     "Intro to Historiography - Semester 1/Tutorial Prep 28-10-2025.md",
     "Intro to Historiography - Semester 1/Lecture 12 - 24-10-2025.md",
@@ -175,7 +181,6 @@
     "Transformation of the Roman World - Semester 1",
     "Latin - Semester 1/Latin Written Assessment.md",
     "Historian's Toolkit - Semester 1/Historians Toolkit Tutorial 8 Prep.md",
-    "Islamic History 1B - Semester 2/Islamic History Lecture 22.md",
-    "Medieval Worlds - Semester 1/Medieval Worlds Lecture 13 - The East Roman World.md"
+    "Islamic History 1B - Semester 2/Islamic History Lecture 22.md"
   ]
 }
