@@ -1,0 +1,3 @@
+# Tutorial Prep 04-11-2025
+
+Patriarchal equilibrium" is a concept proposed by feminist historian [Judith M. Bennett](https://www.amazon.co.uk/History-Matters-Patriarchy-Challenge-Feminism/dp/0719075653), describing a state where, despite changes in women's lives, their fundamental subordinate status relative to men has remained largely consistent over centuries. It suggests that while individual experiences and circumstances may change, the overall power dynamic of the patriarchy persists, posing a challenge for feminism to explain this continuity.
