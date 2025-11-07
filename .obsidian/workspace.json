@@ -11,10 +11,15 @@
             "id": "b6979c4807a94400",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Transformation of the Roman World - Semester 1/Essay Prep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Essay Prep"
             }
           }
         ]
