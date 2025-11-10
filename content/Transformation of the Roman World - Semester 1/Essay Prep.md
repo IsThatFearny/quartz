@@ -55,3 +55,49 @@
 </br>
 
 #### Transformations of Romanness
+
+“so that ethnic change is much more about the acquisition of new layers and the reshuffling of old ones through time than it is about swapping one for another.”
+
+“He does not talk all that often about Franci; Saxones crop up a couple of times, once famously or infamously cutting their hair and dressing in the Breton style; a Goth makes an appearance here and there; and that is about that”
+
+“The implication of Goffart’s article is that people had no ethnic identity of any significance if that was not ‘Germanic’.”
+
+“the concept of ‘Roman’ functioned at a structural as well as a taxonomic level and that these two levels could sometimes be run together.”
+
+“By the structural level I mean the use of the terms ‘Roman’ and ‘barbarian’ to mark an important organisational, cultural difference between civilised and savage. By the taxonomic level I mean the way in which the world was described as divided up into the territories of different peoples”
+
+“Ethnic identity was alive and well throughout imperial history.”
+
+“In Salic Law, the Romans are clearly a parallel population to the Franks, even if legally disadvantaged in some ways.”
+
+“moderation, control of the emotions, reason. These aspects learned during socialisation, paideia, enabled participation in legitimate government and rendered Roman forms of government superior to others”
+
+“It is by no means clear that any of these identities functioned differently in social relations within the Empire”
+
+“It nevertheless seems clear that following the division of civil and military services the army began to create a set of new identities that centred on the very antitheses of the civic Roman masculine ideal: animal, ferocious, braggart, barbarian”
+
+“The key feature of fifth-century politics, especially after Valentinian III’s assassination, was faction fighting between groups made up of Romans and barbarians”
+
+“the middle of the sixth century, when a Roman civil aristocracy and administration served alongside a barbarian army.”
+
+“when I would argue that people were aware that the Western Roman Empire was no longer functioning but not that it had ended, it is unsurprising that discussions of Roman identity largely took the form of discussions of legal relationships between Roman citizens and barbarian soldiers”
+
+“Simultaneously, the Church was adopting classical aspects of Roman civic masculinity”
+
+“there was change and an opposition to a very unRoman competitive asceticism”
+
+“It is difficult to see how this situation could fail to cause the renegotiation of Roman identity.”
+
+“In the sixth century the personnel of the Gallic church was dominated by people with Roman names. Around 600, that changed so that bishops overwhelmingly had Frankish names.”
+
+“Roman identity is conspicuous by its absence.”
+
+“Roman history, as one might expect, has been displaced in favour of Christian history.”
+
+“By around 600, then, it is difficult to see Roman identity in Gaul as a pole of attraction. Much of its component elements had been displaced into other areas. The ideal behaviour associated with legitimate political authority was no longer exclusively associated with Roman education and subjectivization.”
+
+“Roman identity had never been an immutable or monolithic identity – like any other identity it never could have been”
+
+“Roman identity survived the supposed barbarian invasions of the fifth century in the West as perhaps diminished – temporarily inconvenienced – but nonetheless as an important resource in political activity.” 
+
+“Roman identity could not survive in anything like the old way.”
