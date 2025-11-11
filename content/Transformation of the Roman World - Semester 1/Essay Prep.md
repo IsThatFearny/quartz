@@ -162,4 +162,10 @@
 
 "What did come to an end in 476 was any attempt to maintain the western Roman Empire as an overarching, supra-regional political structure"
 
-""
+"The Roman state had consisted, at its simplest, of a decision-making centre - emperor, court and bureaucracy - tax-raising mechanisms, and a professional army whose military power defined and defended the area of its dominion. Equally important were the centrally generated legal structures that had defined and protected provincial Roman landowners."
+
+"Within the social circle of these landowners operated most of the cultural norms that made Romanness a distinctive phenomenon"
+
+"In many places, then, local Romanness survived pretty well. Catholic Christianity, a Latin-literate laity, villas, towns and more complex forms of economic production and exchange all endured to some extent... on the back of the landowning class"
+
+</br>
