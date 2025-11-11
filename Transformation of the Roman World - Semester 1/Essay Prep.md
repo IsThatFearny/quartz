@@ -122,4 +122,8 @@
 
 "the idea that surviving Roman troops willingly incorporated themselves into the Frankish armies is perfectly plausible"
 
+"Theoderic's Italy was the most 'Roman' of all barbarian states"
+
+"Theoderic had transcended his origins, and was now in a position to teach other barbarians how to leave their barbarism behind"
+
 ""
