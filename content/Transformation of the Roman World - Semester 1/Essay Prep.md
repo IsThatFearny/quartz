@@ -40,7 +40,7 @@
 
 "Most of the new rulers ran their kingdoms in a style that closely imitated that of the empire"
 
-"most of the basic structures of society... (the Christian Church, the cities, secular administration, Roman law, and so on, persisted under Germanic rule)"
+"most of the basic structures of society... (the Christian Church, the cities, secular administration, Roman law, and so on), persisted under Germanic rule"
 
 "the early Germanic Kings of Italy, and elsewhere, even minted their gold coins in the name of the reigning emperor in the East, as though the Roman empire was still in existence"
 
