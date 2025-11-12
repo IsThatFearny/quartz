@@ -175,3 +175,6 @@
 - Themes
 	- Governance (bureaucracy, kings, etc.)
 	- Christianity
+	- Military
+	- Architecture and buildings
+	- Culture
