@@ -16,6 +16,6 @@ The leaders of the 'barbarian' kingdoms were often keen to portray themselves as
 
 [^1]: Heather (2005), 438
 [^2]: Halsall (2007), 326
-[^3]: Halsall (2018), 64
+[^3]: Hen (2018), 64
 [^4]: Heather (2005), 438
 [^5]: Hen (2007)
