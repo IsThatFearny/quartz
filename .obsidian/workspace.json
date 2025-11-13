@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Transformation of the Roman World - Semester 1/Essay Prep.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -37,7 +37,8 @@
               "title": "Essay"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,10 +163,10 @@
       "cmdr:Custom Frames: Open iCloud Reminders": false
     }
   },
-  "active": "efcf69d2789aa97e",
+  "active": "d2a5186893390ede",
   "lastOpenFiles": [
-    "Transformation of the Roman World - Semester 1/Essay.md",
     "Transformation of the Roman World - Semester 1/Essay Prep.md",
+    "Transformation of the Roman World - Semester 1/Essay.md",
     "Ancient Historiography - Semester 1/Lecture 18 - 13-11-2025.md",
     "Ancient Historiography - Semester 1/Lecture 14 - 30-10-2025.md",
     "Transformation of the Roman World - Semester 1/Tutorial Prep 11-11-2025.md",
