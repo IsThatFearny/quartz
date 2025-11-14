@@ -14,6 +14,8 @@ In a similar vein, the legal codes of the 'barbarian' kingdoms were often simply
 
 The leaders of the 'barbarian' kingdoms were often keen to portray themselves as 'Roman', and this is another element of the former empire that can be seen in the post-Roman era. Often, this was used as a tactic to consolidate power (as with the adoption of Christianity), and a method with which to relate to the newly conquered former Roman population. Theoderic, for example, described his rule as 'Roman', and directly contrasted himself with the 'barbaric' rulers of the Visigoths.[^23] As well as this, he used Ravenna as his capital, harking back when it was the capital in the final years of the Western Empire, and rebuilt it to its former glory as an 'imperial' capital; and made a visit to Rome in the 30th year of his reign.[^24] Theoderic made an effort to style himself as 'imperator', likely in an attempt to legitimise his rule. He hosted gladiatorial games, imitating the Rome of old, whilst Romans and Goths are even known to have likened him to Trajan or Valentinian.[^25] Other rulers in various kingdoms followed suit: Childeric I (d. 481 CE), the Frankish leader in Gaul, was buried in a Roman cemetery, adorned with a ring reading "CHILDERICI REGIS" and a brooch similar to one often worn by Roman generals and officials.[^26] 'Romanness' not only persisted amongst the general populace, but its adoption was also a choice made by rulers in order to present themselves as legitimate rulers.
 
+Perhaps what defined the post-Roman kingdoms as remaining Roman to the greatest extent is the population and identity of said kingdoms. Despite the ruling race being Gothic, Lombard, Frankish, Vandal, and the like, the native population remained Roman, and in most kingdoms vastly outnumbered the ruling races - Procopius alleges that only approximately 80,000 Vandals entered Northern Africa (a number that is likely to have been exaggerated to spread fear amongst the newly occupied population).[^27] He then elaborates on the fact that there were many more natives than Vandals, saying of the Libyans "how could any man estimate the multitude of them" and that the Moors were "still more numerous than these".[^28] 
+
 [^1]: Heather (2005), 438
 [^2]: Halsall (2007), 326
 [^3]: Hen (2018), 64
@@ -24,7 +26,7 @@ The leaders of the 'barbarian' kingdoms were often keen to portray themselves as
 [^8]: Hen (2018), 59
 [^9]: Hen (2007), 32
 [^10]: Carcopino (1956), 229
-[^11]: Procop., *History of the Wars* 4.9.11-16
+[^11]: Procopius, *History of the Wars* 4.9.11-16
 [^12]: Ward-Perkins (2005), 66
 [^13]: Ward-Perkins (2005), 67
 [^14]: Ward-Perkins (2005), 71
@@ -40,3 +42,5 @@ The leaders of the 'barbarian' kingdoms were often keen to portray themselves as
 [^24]: Hen (2007), 32
 [^25]: *Anonymus Valesianus*, 7.65–7
 [^26]: James (2014), 80
+[^27]: Procopius, *The Secret History*, 18.5
+[^28]: Procopius, *The Secret History*, 18.7
