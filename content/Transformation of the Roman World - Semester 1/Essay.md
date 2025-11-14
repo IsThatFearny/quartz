@@ -4,7 +4,7 @@
 
 ## How Roman were the post-Roman ‘barbarian kingdoms’ in the West?
 
-The 'barbarian kingdoms' which were established throughout and after the fall of the Western Roman Empire endured quite different processes of political and economic development and power consolidation. However, each shared common ground: various aspects of society remained 'Roman', whether that have been in terms of culture, administration, architecture, or religion. Whether these kingdoms were true 'successor states' is debatable, but there is very little doubt that elements 'Romanness' remained commonplace throughout the Visigothic, Ostrogothic, Lombard, and Frankish kingdoms despite the supposed 'fall' of the Western Empire.
+The 'barbarian kingdoms' which were established throughout and after the fall of the Western Roman Empire endured quite different processes of political and economic development and power consolidation. However, each shared common ground: various aspects of society remained 'Roman', whether that have been in terms of populace and culture, administration, leadership, or religion. Whether these kingdoms were true 'successor states' is debatable, but there is very little doubt that elements 'Romanness' remained commonplace throughout the Visigothic, Ostrogothic, Lombard, and Frankish kingdoms despite the supposed 'fall' of the Western Empire.
 
 One of the primary lasting features of the former Western Empire was Christianity, which was widely practised in the majority of 'barbarian' territory.[^1] A religion popularised by the Roman Empire, it is perhaps no surprise that it remained the dominant religion for the barbarian kingdoms.[^2] 'Romanness' from the 4th-century onwards was characterised largely by Christianity, and indeed after the fall of the Western Empire, much of Rome's authority was derived from its status as a Christian city, having been the stage for significant apistolic events and various martyrdoms.[^3] The Church, whether in its Arian or Catholic form, survived the collapse of the Western Empire, and its survival also protected its inherent moral authority, as well as preserving the Latin language (if only usually in ecclesiastical contexts).[^4] Theoderic, in particular, was a devout Christian, as was Clovis.[^5] The local populations of their kingdoms, largely former Roman citizens, remained true to their Christian faith, and thus the rulers of newly acquired ex-Roman territories saw adopting Christianity as a relatively simple way to both legitimise their authority and power, to create a link between their rule and divine will, and to connect themselves to the population over which they now had command.[^6] This meant that many existing structures of the Roman church such as Bishops, monasticism, and the papacy were allowed to remain in the post-Roman world, both centrally and provincially.[^7] Christianity was a binding force in barbarian rulers' attempts to integrate themselves and the ethnic groups associated with them with native populations. 'Romanness', when characterised by Christianity, can be seen to have been maintained throughout much of the former Western Empire.[^8] However, whilst Christianity remained, the form in which it did so varied significantly. Former Roman citizens largely adhered to Catholicism, whereas their new rulers were usually Arian Christians.[^9] In Ostrogothic Italy, this was of little concern: Theoderic promulgated Arian Christianity, but did not persecute Catholics; however, in some areas of the former Western Empire, anti-Catholic policies were actively pursued. North Africa, ruled by the Vandals, was a prime example of this.[^10] Under Thrasamund, Geiseric, and Gelimer, practising Nicean (Catholic) Christians could face deposition, exile, and various other penalties, in a blatant attempt to bring the Vandal kingdom under one form of Christianity - indeed, so faithful were the Vandals to Arianism that Gelimer refused a role amongst the patricians if it required conversion from Arianism.[^11] It must be argued, then, that whilst Christian Romanness persisted in some regions of the former Western Empire, this did not apply to all kingdoms, where different forms of Christianity took precedent.
 
@@ -14,36 +14,38 @@ In a similar vein, the legal codes of the 'barbarian' kingdoms were often simply
 
 The leaders of the 'barbarian' kingdoms were often keen to portray themselves as 'Roman', and this is another element of the former empire that can be seen in the post-Roman era. Often, this was used as a tactic to consolidate power (as with the adoption of Christianity), and a method with which to relate to the newly conquered former Roman population. Theoderic, for example, described his rule as 'Roman', and directly contrasted himself with the 'barbaric' rulers of the Visigoths.[^23] As well as this, he used Ravenna as his capital, harking back when it was the capital in the final years of the Western Empire, and rebuilt it to its former glory as an 'imperial' capital; and made a visit to Rome in the 30th year of his reign.[^24] Theoderic made an effort to style himself as 'imperator', likely in an attempt to legitimise his rule. He hosted gladiatorial games, imitating the Rome of old, whilst Romans and Goths are even known to have likened him to Trajan or Valentinian.[^25] Other rulers in various kingdoms followed suit: Childeric I (d. 481 CE), the Frankish leader in Gaul, was buried in a Roman cemetery, adorned with a ring reading "CHILDERICI REGIS" and a brooch similar to one often worn by Roman generals and officials.[^26] 'Romanness' not only persisted amongst the general populace, but its adoption was also a choice made by rulers in order to present themselves as legitimate rulers.
 
-Perhaps what defined the post-Roman kingdoms as remaining Roman to the greatest extent is the population and identity[^30] of said kingdoms. Despite the ruling race being Gothic, Lombard, Frankish, Vandal, and the like, the native population remained Roman, and in most kingdoms vastly outnumbered the ruling races - Procopius alleges that only approximately 80,000 Vandals entered Northern Africa (a number that is likely to have been exaggerated to spread fear amongst the newly occupied population).[^27] He then elaborates on the fact that there were many more natives than Vandals, saying of the Libyans "how could any man estimate the multitude of them" and that the Moors were "still more numerous than these".[^28] It is clear that former Roman citizens, even if legally disadvantaged (as previously alluded to), lived alongside their new rulers in relative harmony, preserving their culture and customs. This is no coincidence: the sheer numbers of the native population would have prevented their conquerors from suppressing mass dissent easily, and so co-existence was a necessity. The result of this *modus vivendi* was that Roman identity remained in the post-Roman 'barbarian kingdoms'. It had perhaps been slightly hindered in the immediate aftermath of the invasions, but made its return quickly afterwards.[^29] The divide between 'Roman' and 'barbarian' identity is made clear by various contemporary authors: Procopius often depicts the campaigns of Belisarius as defending the 'civilised' ways of the Romans, portraying the 'barbarian' invaders as unholy and 'un-Roman'; Gregory of Tours frames Roman identity through a Christian lens, contrasting the Gothic races (who were primarily Arian) with the Nicean populations of the occupied territories; and Jordanes, writing in the mid-6th century, often depicts the Goths and the Romans as being distinct populations.[^31]
+Perhaps what defined the post-Roman kingdoms as remaining Roman to the greatest extent is the population and identity[^30] of said kingdoms. Despite the ruling race being Gothic, Lombard, Frankish, Vandal, and the like, the native population remained Roman, and in most kingdoms vastly outnumbered the ruling races - Procopius alleges that only approximately 80,000 Vandals entered Northern Africa (a number that is likely to have been exaggerated to spread fear amongst the newly occupied population).[^27] He then elaborates on the fact that there were many more natives than Vandals, saying of the Libyans "how could any man estimate the multitude of them" and that the Moors were "still more numerous than these".[^28] It is clear that former Roman citizens, even if legally disadvantaged (as previously alluded to), lived alongside their new rulers in relative harmony, preserving their culture and customs. This is no coincidence: the sheer numbers of the native population would have prevented their conquerors from suppressing mass dissent easily, and so co-existence was a necessity. The result of this *modus vivendi* was that Roman identity remained in the post-Roman 'barbarian kingdoms'. It had perhaps been slightly hindered in the immediate aftermath of the invasions, but made its return quickly afterwards.[^29] The divide between 'Roman' and 'barbarian' identity is made clear by various contemporary authors: Procopius often depicts the campaigns of Belisarius as defending the 'civilised' ways of the Romans, portraying the 'barbarian' invaders as unholy and 'un-Roman'; Gregory of Tours frames Roman identity through a Christian lens, contrasting the Gothic races (who were primarily Arian) with the Nicean populations of the occupied territories and the 'Romanised' Franks, giving them divine legitimacy; and Jordanes, writing in the mid-6th century, often depicts the Goths and the Romans as being distinct populations.[^31] The fact that so many societal structures and administrative systems had been retained by the new rulers meant that Roman identity was able to survive the fall of the Western Empire and to persist throughout the newly established barbarian kingdoms. Such persistence leads one to conclude that, in terms of the populace, the post-Roman kingdoms were indeed, 'Roman' in culture and in wider society.
 
-[^1]: Heather (2005), 438
-[^2]: Halsall (2007), 326
-[^3]: Hen (2018), 64
-[^4]: Heather (2005), 438
-[^5]: Hen (2007), 32
-[^6]: Hen (2018), 66
-[^7]: Ward-Perkins (2005), 68
-[^8]: Hen (2018), 59
-[^9]: Hen (2007), 32
-[^10]: Carcopino (1956), 229
-[^11]: Procopius, *History of the Wars* 4.9.11-16
-[^12]: Ward-Perkins (2005), 66
-[^13]: Ward-Perkins (2005), 67
-[^14]: Ward-Perkins (2005), 71
-[^15]: Hen (2007), 30
+The post-Roman 'barbarian' kingdoms could be considered to be 'successor states' to the Western Roman Empire when considered in the context of 'Romanness'. This characterisation applies both in terms of elites and gove
+
+[^1]: Heather (2005), 438.
+[^2]: Halsall (2007), 326.
+[^3]: Hen (2018), 64.
+[^4]: Heather (2005), 438.
+[^5]: Hen (2007), 32.
+[^6]: Hen (2018), 66.
+[^7]: Ward-Perkins (2005), 68.
+[^8]: Hen (2018), 59.
+[^9]: Hen (2007), 32.
+[^10]: Carcopino (1956), 229.
+[^11]: Procopius, *History of the Wars* 4.9.11-16.
+[^12]: Ward-Perkins (2005), 66.
+[^13]: Ward-Perkins (2005), 67.
+[^14]: Ward-Perkins (2005), 71.
+[^15]: Hen (2007), 30.
 [^16]: James (2014), 81
-[^17]: Ward-Perkins (2005), 65; Ward-Perkins (2005), 71
-[^18]: Ward-Perkins (2005), 71
-[^19]: James (2014), 78
-[^20]: Sidonius, *Letters* 5.5
-[^21]: Heather (2005), 432
-[^22]: Ward-Perkins (2005), 66
-[^23]: Cassiodorus, *Variae*, 3.17
-[^24]: Hen (2007), 32
-[^25]: *Anonymus Valesianus*, 7.65–7
-[^26]: James (2014), 80
-[^27]: Procopius, *The Secret History*, 18.5
-[^28]: Procopius, *The Secret History*, 18.7
-[^29]: Halsall (2018), 56
-[^30]: It is important to note here that Roman 'identity' was not one of ethnic origin, but one put in place through societal and political structures; see Halsall (2018) for further study
-[^31]: In Procopius, *History of the Wars*, 6.25: "For these barbarians, though they have become Christians, preserve the greater part of their ancient religion; for they still make human sacrifices and other sacrifices of an unholy nature, and it is in connection with these that they make their prophecies" and in Procop. *Wars*, 5.8 "barbarian tyrants"; In Gregory of Tours, *History of the Franks*; Jordanes wrote two histories, *Romana* and *Getica*, distinguishing the origins of the two peoples and their practises and thus distinguishing their identities
+[^17]: Ward-Perkins (2005), 65; Ward-Perkins (2005), 71.
+[^18]: Ward-Perkins (2005), 71.
+[^19]: James (2014), 78.
+[^20]: Sidonius, *Letters* 5.5.
+[^21]: Heather (2005), 432.
+[^22]: Ward-Perkins (2005), 66.
+[^23]: Cassiodorus, *Variae*, 3.17.
+[^24]: Hen (2007), 32.
+[^25]: *Anonymus Valesianus*, 7.65–7.
+[^26]: James (2014), 80.
+[^27]: Procopius, *The Secret History*, 18.5.
+[^28]: Procopius, *The Secret History*, 18.7.
+[^29]: Halsall (2018), 56.
+[^30]: It is important to note here that Roman 'identity' was not one of ethnic origin, but one put in place through societal and political structures; see Halsall (2018) for further study.
+[^31]: In Procopius, *History of the Wars*, 6.25: "For these barbarians, though they have become Christians, preserve the greater part of their ancient religion; for they still make human sacrifices and other sacrifices of an unholy nature, and it is in connection with these that they make their prophecies" and in Procop. *Wars*, 5.8 "barbarian tyrants"; In Gregory of Tours, *History of the Franks* 2.37 "And when the Goths had fled as was their custom, King Clovis won the victory by God's aid"; Jordanes wrote two histories, *Romana* and *Getica*, distinguishing the origins of the two peoples and their practises and thus distinguishing their identities.
