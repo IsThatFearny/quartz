@@ -11,10 +11,15 @@
             "id": "2b5fcfc0b8638763",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Ancient Historiography - Semester 1/Essay Prep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Essay Prep"
             }
           }
         ]
@@ -144,6 +149,7 @@
   },
   "active": "2b5fcfc0b8638763",
   "lastOpenFiles": [
+    "Ancient Historiography - Semester 1/Essay Prep.md",
     "Transformation of the Roman World - Semester 1/Essay.md",
     "Transformation of the Roman World - Semester 1/Essay Prep.md",
     "Ancient Historiography - Semester 1/Lecture 18 - 13-11-2025.md",
@@ -169,7 +175,6 @@
     "Intro to Historiography - Semester 1/Essay 1.md",
     "Intro to Historiography - Semester 1/Tutorial Prep.md",
     "Intro to Historiography - Semester 1/Essay 1 Planning.md",
-    "Ancient Historiography - Semester 1/Lecture 12 - 23-10-2025.md",
     "Attachments/Pasted image 20251020122917.png",
     "Attachments/Pasted image 20250924121844.png",
     "Intro to Historiography/Lecture 2 - 19/09",
