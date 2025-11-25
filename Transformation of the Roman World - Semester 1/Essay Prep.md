@@ -26,7 +26,7 @@
 
 "the foundation of the new kingdoms certainly restored a degree of stability to the West, allowing normal life to resume its course"
 
-"in order for their regimes to operate smoothly, the new rules needed and wanted Roman aristocratic administrators and supporters"
+"in order for their regimes to operate smoothly, the new rulers needed and wanted Roman aristocratic administrators and supporters"
 
 "the author of a sermon... was putting a brave face on things, but not being entirely untruthful, when he said of the conquerors: '...he was was considered a barbarian, comes to you with a Roman spirit'"
 
@@ -40,7 +40,7 @@
 
 "Most of the new rulers ran their kingdoms in a style that closely imitated that of the empire"
 
-"most of the basic structures of society... (the Christian Church, the cities, secular administration, Roman law, and so on, persisted under Germanic rule)"
+"most of the basic structures of society... (the Christian Church, the cities, secular administration, Roman law, and so on), persisted under Germanic rule"
 
 "the early Germanic Kings of Italy, and elsewhere, even minted their gold coins in the name of the reigning emperor in the East, as though the Roman empire was still in existence"
 
@@ -126,4 +126,55 @@
 
 "Theoderic had transcended his origins, and was now in a position to teach other barbarians how to leave their barbarism behind"
 
-""
+</br>
+
+#### Adaptation: The Ostrogothic Court of Theoderic the Great
+
+“He had, so it seems, no problem in accepting the sovereignty of the eastern Roman emperor, and in 477/8 he even sent the western imperial regalia back to Constantinople”
+
+“he nevertheless made no assault on the Catholic religion; he gave games in the circus and the amphitheatre, so that even by the Romans he was called a Trajan or a Valentinian, whose times he took as a model”
+
+“Military service for the Romans he kept on the same footing as under the emperors.”
+
+“Theoderic understood from the outset that in order to consolidate his rule over Italy he needed the co-operation of the Roman senatorial aristocracy.”
+
+“It should, therefore, come as no surprise that the Ostrogothic king made an effort to cast himself as a Roman ruler. He maintained himself and his court at Ravenna in imperial splendour. He wore purple dress in official and public ceremonies,9 and he held lavish banquets in Roman style at his palace.10 His royal legislation that survives, the so-called Edictum Theoderici, demonstrates a clear connection to Roman law in both form and content”
+
+“Moreover, the Roman ideology of triumphal rulership continued to flourish under Ostrogothic rule, and in 500 Theoderic paid his sole visit to Rome, in celebration of his tricennalia, that is, the thirtieth year of his rule”
+
+“Theoderic, the Barbarian Arian ruler of Italy, became the most distinguished guardian of Catholic Rome and its tradition”
+
+“Ravenna retained its central position even after Romulus Augustulus, the last Roman emperor in the West, was deposed in 476. Odoacer, the new ruler of Italy, settled with his administrative court in Ravenna, and subsequently the Ostrogothic leader Theoderic chose that city as his royal residence and turned it into one of the most impressive royal capitals of the early medieval West.”
+
+“Theoderic was determined to give Ravenna a proper imperial appearance, as part of his careful attempt to cast himself in the mould of a Roman ruler.”
+
+“Ostrogothic Ravenna maintained many continuations with the Roman past.”
+
+</br>
+
+#### The Fall of Rome
+
+"To my mind, however, the rise of Islam in the seventh century cause a decisive break in east Mediterranean" Romanness"
+
+"there were many living in western Europe and North Africa who continued to think of themselves, and were thought of by others, as Romans"
+
+"In the 510s and 520s, Romans were still referred to as a specific group in the official documents"
+
+"What did come to an end in 476 was any attempt to maintain the western Roman Empire as an overarching, supra-regional political structure"
+
+"The Roman state had consisted, at its simplest, of a decision-making centre - emperor, court and bureaucracy - tax-raising mechanisms, and a professional army whose military power defined and defended the area of its dominion. Equally important were the centrally generated legal structures that had defined and protected provincial Roman landowners."
+
+"Within the social circle of these landowners operated most of the cultural norms that made Romanness a distinctive phenomenon"
+
+"In many places, then, local Romanness survived pretty well. Catholic Christianity, a Latin-literate laity, villas, towns and more complex forms of economic production and exchange all endured to some extent... on the back of the landowning class"
+
+</br>
+
+#### General Notes
+
+- Themes
+	- Governance (bureaucracy, kings, etc.)
+	- Christianity
+	- Military
+	- Architecture and buildings
+	- Culture
