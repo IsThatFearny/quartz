@@ -278,7 +278,7 @@ V. Conclusion Summarize the main points and reiterate how understanding Josephus
 
 “A legitimate inference from these encounters is that Josephus could already communicate in Greek, which would have worked well enough in Roman court circles, though admittedly the use of an interpreter is feasible. Conceivably he knew some Latin as well” (Rajak, 2005, p. 85)
 
-“Unless we regard the story as pure fabrication, we will probably seek a rationalexplanation, and one is to hand, in the observation that Josephus is likely to have been connected with those eastern circles that manufactured the declaration of Vespasian as imperator by the legions of Alexandria, followed closely by those in Palestine.” (Rajak, 2005, p. 86)
+“Unless we regard the story as pure fabrication, we will probably seek a rational explanation, and one is to hand, in the observation that Josephus is likely to have been connected with those eastern circles that manufactured the declaration of Vespasian as imperator by the legions of Alexandria, followed closely by those in Palestine.” (Rajak, 2005, p. 86)
 
 “8. We have to consider the likelihood that, when Josephus cites in his Antiquities decrees and edicts in favour of the Jews, 89 Tessa Rajah he is drawing not on the versions displayed at Rome, to which he twice proudly refers, but rather on local sources of documents.” (Rajak, 2005, p. 89)
 
