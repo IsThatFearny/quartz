@@ -1,0 +1,147 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "2f101dd487cf13b7",
+        "type": "split",
+        "children": [
+          {
+            "id": "9206fb2f2b0e7956",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e2d9d054355b6ac2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Other/Cambridge Interview Prep/Interviewers.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "75c6fb84b4e4f296",
+        "type": "split",
+        "children": [
+          {
+            "id": "2882572433d44828",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6e4e2689a489d6e5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f8a6e689d13b1869",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7e0c59b496d1b9af",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 264.5
+      },
+      "right": {
+        "id": "9d906252660f3b9a",
+        "type": "split",
+        "children": [
+          {
+            "id": "37fd1727fad42ac4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b3bc93b70bd3f88",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-icloud-reminders",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a00440ac5f893ad0",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Other/Cambridge Interview Prep/Interviewers.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 361,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "hide-folders:Hide hidden folders again": false,
+          "zotero-sync-client:Sync with Zotero": false,
+          "obsidian-custom-frames:Open Google": false,
+          "obsidian-custom-frames:Open JSTOR": false,
+          "obsidian-custom-frames:Open ChatGPT": false,
+          "obsidian-custom-frames:Open iCloud Reminders": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "obsidian-file-cleaner:Clean files": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "omnisearch:Omnisearch": false,
+          "cmdr:Custom Frames: Open ChatGPT": false,
+          "cmdr:Custom Frames: Open Google": false,
+          "cmdr:Custom Frames: Open iCloud Reminders": false,
+          "obisidian-note-linker:Note Linker": false,
+          "float-search:Search Obsidian In Modal": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "periodic-notes:Open this week": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "e2d9d054355b6ac2"
+    }
+  },
+  "active": "Default"
+}
