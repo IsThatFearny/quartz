@@ -16,6 +16,15 @@ IV. Key themes and examples Delve deeper into specific themes and examples that 
 
 V. Conclusion Summarize the main points and reiterate how understanding Josephus' audience is essential to appreciating his historical approach. Reflect on the implications of this analysis for our broader understanding of ancient historiography and the complexities of writing history for diverse audiences.
 
+
+### General thoughts
+
+- Use of God as the force behind certain events to avoid outright criticism of audience
+- Concept of publishing?
+- What parts of Roman society does Josephus glorify?
+- Portrayal of the jews
+- Rewriting of the bible
+
 ## Hebrew and Greek Sources in the Speeches of Josephus' "Jewish War"
 
 "The concept that God is on the side of the Romans probably originated in a pragmatic application of Jewish historical interpretation - what could be called divine determinism - to the contemporary situation. The speech of Josephus in Bk. V clearly illustrates this: those whom the Jews were able to defeat throughout the whole course of their history were believed to have been defeated by God. Therefore, those who have defeated the Jews obviously did so with at least the permission, if not the active help of God. Josephus' projection of the idea that God is actively on the side of the Roman seems, moreover, to be connected to his interpretation of the impious action of the 'rebels' which require a serious punishment" p. 329
