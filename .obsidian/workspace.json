@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bef4756f9fbe0d2d",
+            "id": "9d8e6e244d43930a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +20,27 @@
               },
               "icon": "lucide-file",
               "title": "Essay 2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "55765d0d57d1ad49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "209d0c738971f22b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Historiography - Semester 1/Essay 2 Planning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Essay 2 Planning"
             }
           }
         ]
@@ -147,7 +168,7 @@
       "cmdr:Custom Frames: Open iCloud Reminders": false
     }
   },
-  "active": "bef4756f9fbe0d2d",
+  "active": "9d8e6e244d43930a",
   "lastOpenFiles": [
     "Intro to Historiography - Semester 1/Essay 2 Planning.md",
     "Intro to Historiography - Semester 1/Essay 2.md",
