@@ -374,4 +374,154 @@
 	- Forums and agoras
 	- Temples
 	- Monumental public buildings
-	- Entertainment: theatres and 
+	- Entertainment: theatres and hippodromes
+	- Large bathhouses
+- Sixth/Seventh Century City
+	- Encroachment
+	- Re-appropriation of monumental public buildings
+	- Churches
+	- Walls
+	- Smaller bathhouses
+
+</br>
+
+## Late Antique Society: From Senators to Slaves
+
+### Extreme Inequality
+
+- Largest Roman private fortunes equalled approx. 1.5 million times average per capita income across the empire
+- Melania and Pinianus owned land equivalent to the territory of several cities, requiring 25-50k labourers to maintain, and with an income of 120,000 *solidi*
+- One property consisted of a palace surrounded by 60 *villae*, each with 40 slaves (total of 2.4k)
+
+### The value of Roman citizenship
+
+- Special rights and privileges traditionally limited to citizens
+- Free non-citizens were *peregrini*
+- Enlisting in the army gave one access to citizenship
+- 212 CE: grant of universal citizenship under Caracalla
+- The value of citizenship effectively devalued
+
+### A Caste-based Society?
+
+- Hereditary trades: sons of bakers, butchers, shipbuilders, etc. legally obliged to remain in their parents' trades; sons of soldiers to continue serving in the military
+- Increasing number of peasants tied to the land
+- City councillors expected to peform curial duties in their cities; laws to send them back if they join the civil service
+- Slavery still widespread
+
+</br>
+
+### Changing circumstances in the New Empire of Diocletian and Constantine
+
+- Greater taxation
+- Smaller provinces
+- Burgeoning beaureacracy
+- Second senate in Constantinople and vast expansion in number of senators in course of fourth century
+- Army divided into local troops and elite, mobile field army
+
+#### Growth of the Senate
+
+- Increasing number of roles carry senatorial membership
+- More and more provincial governorships
+- Senate of Constantinople: expansion drive under Themistius in late 350s - from 300 to 2000 by the 380s
+- Generals become senators under Valentinian and Valens
+
+</br>
+
+### The Squeezed Middle Class
+
+- Many decurions take up the increasing number of attractive government or army jobs
+- Others look for traditional routes out (e.g. becoming an academic)
+- Periodic attempts are made to force decurions out of the army/civil service
+- Constantine exempts Christian priests; Julian the Apostate cancels the exemption - successors side with Julian
+- Remaining councillors feel under financial pressure and as if they are losing social status
+- Traditional rights begin to be eroded
+
+#### Decline of Slavery?
+
+- Slavery accepted by the Church
+- The rich owned huge numbers of slaves
+- Idea of decline in slavery in 4<sup>th</sup>-5<sup>th</sup> centuries strongly refuted by some scholars
+
+</br>
+
+## The End of the Roman Empire in the West
+
+**Who were the Huns?**
+
+- Xiugnu: A powerful nomadic empire from the Eurasian steppe, largely destroyed by the Han Empire in the 1<sup>st</sup> century BCE
+- Whether they can be identified with the *Hunnoi* of the 4<sup>th</sup> century AD cannot be answered definitively
+- Ancient literary sources are highly problematic in their blatantly ideological depictions
+- No dramatic ’Hunnensturm’ (floodtide of Huns)  
+- No coherent body of ‘Huns’  
+- No coherent ‘Hunnic empire’
+
+</br>
+
+- Term comes from anthropology  
+- The emergence of new social groups that define themselves (or are defined by others) as having a  
+shared cohesive identity: an an ethnic group  
+- ‘Barbarian’ groups share a process of cultural and political self-formation  
+- They construct their identity through various strategies: e.g. developing origin myths, lines of succession, promote ‘ethnicity’ as a characteristic of group elites
+
+</br>
+
+### The Goths#
+
+- The terms 'Visigoth' and 'Ostrogoths' were later inventions
+- Entered the Empire in 376
+- Ask for resettlement - this was not a planned invasion
+- A range of small revolts gatherered momentum and turned into the 'Gothic War'
+- Roman Emperor Valens defeated and killed at Adrianople in 378
+- Peace made in 382: many Goths absorbed into local populations
+
+</br>
+
+- 395: death of Theodosius I - sons become emperors, with Arcadius in Constantinople and Honorius in Milan (under guardianship of Stilicho)
+- Visigoths invade Italy under Alaric in 401
+- Honorius beseiged in Milan; imperial court is moved to Ravenna in 402
+
+</br>
+
+- 405-6: Alans, Sueves, Vandals and others invade Spain  
+- 405-6 Barbarians overrun Gaul  
+- 407 Deal done between Alaric and Stilicho, but falls through (planned invasion called off): Alaric demands compensation 
+- 408: fall of Stilicho  
+- Negotiations with Alaric fail
+
+</br>
+
+### The Sack of Rome
+
+- Very little evidence of physical destruction, certainly not systematic
+- Looting was the primary form of attack
+- Psychological and ideological effect was much greater than any destructive effect
+
+</br>
+
+### The Fifth-Century
+
+- Roman garrisons withdraw from Britain in 410
+- Wheel-made pottery disappeared, as did building with stone, mortar, bricks, and tiles
+- Brittany and North-west Gaul were lost at a similar time
+- **Spain:** invasions of Suebi, Alans, and Vandals in 406; Rome's Visigothic allies settled in the north in 418 - Roman control became very patchy
+
+</br>
+
+### The Vandals in Africa
+
+- Vandals began moving across spain in 429 - 80,000, led by Genseric and joined by Alans and Goths crossed to North Africa
+- They overran Mauretania after facing very little resistance
+- Much of North Africa was vulnerable, concentrating their resources on the fortification of Carthage, which was not capture until 439 
+- Historiographical tradition on this is heavily influenced by Catholic views on Arians
+- A treaty was signed in 442, conceding much of North Africa to Genseric - this was an important ideological and economic turning point, breaking the 'tax spine' of the Empire
+
+</br>
+
+### Sidonius
+
+- Born in Lyon c. 430 to a Praetorian Prefect of Gaul
+- Marries Papianilla, daughter of the future emperor (ascension in 455)
+- Prefect of Rome 468-469, then Bishop of Clermont 470-479
+- 9 books from 147 letters survive, as well as 24 poems
+
+</br>
