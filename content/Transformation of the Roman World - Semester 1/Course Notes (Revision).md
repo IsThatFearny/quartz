@@ -283,3 +283,95 @@
 - Physical embellishment
 	- Hippodrome, theatres, baths, etc.
 	- Collection of statues and artwork from across the eastern half of the empire on an unprecedented scale
+
+**Constantinople as a Theodosian City**
+
+- Theodosius I (r. 379-95): Constantinople becomes the main residence of the emperor and for a short period of time the reigning city over the whole empire
+- Theodosius II (r. 408-50)
+	- New urban liturgies
+	- Translation of relics
+	- Pandidakterion ('imperial university') inaugurated in 425
+	- Law code introduced (*Codex Theodosianus*)
+
+</br>
+
+- Second and fourth ecumenical councils - Constantinople 381 and Chalcedon 451 - declared Constantinople equal with Rome in all but honour
+- This gave rise to tensions between the Pope and the Patriarch of Constantinople with a schism growing from the ninth-century
+- From 5th century onwards, Rome evoked Petrine apostolicity; Constantinople responded by claiming apostolic descent from St Peter's elder brother, Andrew
+
+</br>
+
+### First Siege of Constantinople
+
+- 80k Avars and Slavs laid siege to Constantinople, with the Persians under Sharbaraz encamped at Chalcedon
+- Emperor Herakleios dispatched a unit to the city (12k strong)
+- Defence of the city entrusted to Theotokos and the patriarch Sergios
+- Avars could not overcome the impregnable walls of the city and had to withdraw after two weeks, but managed to destroy the aqueduct (only to be rebuilt in 766)
+
+</br>
+
+### Constantinople: The New Jerusalem
+
+- Major churches
+	- Hagia Sophia
+	- Holy Apostles
+	- Blachernai church
+- Relics
+	- Relics of the true cross
+	- Bodies of the apostles Timothy, Andrew, and Luke
+	- Body - and a couple of head - of John the Baptist
+	- Right arm of St. Stephen, the first martyr
+	- *maphorion* (robe) of the Theotokos
+- Venue of ecumenical councils and synods
+- Major monasteries join the churches, which after Iconoclasm came to house major icons of the Mother of God
+- Stage of religious processions through urban liturgies in the city's sacred topography, complementing and completing Roman political language
+
+</br>
+
+## Christianisation
+
+</br>
+
+### Evidence of the Law Codes
+
+- *Theodosian Code* - a collection of *leges generales*, compiled at the order of Theodosius II in Constantinople
+	- Contains 2777 surviving laws, organised in 16 books
+	- Religious laws mostly in book 16
+- *Justinianic Code*, larger codification project under Justinian I
+	- Laws often reactive, issued in response to something, including lobbying by pressure groups
+
+</br>
+
+### Anti-Pagan Laws
+
+- Focus on practise: laws against sacrifice
+- Focus on buildings: suppression of temples, particularly in the countryside - but protection of notable public buildings in cities
+- Repeal of privileges of pagan priests
+- Removal of pagans from imperial and civil service
+- Notable focus on public figures
+- Notable intensification in anti-pagan legal activity in the 380s
+- Penalties ranged from fines to confiscation of property to death
+- Increase in severity of punishment
+
+### Temples
+
+#### Alternative uses of temples
+
+- Antioch: tax office, library
+- Luxor Temple (Egypt): military camo
+- Deir al-Bahari (Egypt): monastery
+- Oxyrhynchus (Egypt): Prison and courthouse
+- Hermopolis Magna (Egypt): Apartment block
+- Bulla Regia (Tunisia): Statue storage
+
+</br>
+
+## The City of Late Antiquity
+
+- Classical City
+	- Broad, paved streets
+	- Colonnades and porticoes
+	- Forums and agoras
+	- Temples
+	- Monumental public buildings
+	- Entertainment: theatres and 
