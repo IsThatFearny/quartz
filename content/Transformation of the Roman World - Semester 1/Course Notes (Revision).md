@@ -121,6 +121,67 @@
 
 - Several 'field marshall' posts created, directly controlled by the emperor
 - General increase in the size of the army (up to 600k effective troops)
-- 
+- Division of the army into elite imperial troops, mobile troops, and stationary frontier troops
+
+**The Economy**
+
+- Creation of a new standard unit, the gold *solidus*
+- Smaller than the earlier *aureus,* the *solidus* is used as the standard unit for the state
+- In the long-run: Pre-eminence of gold fosters the concentration of money in the hands of the wealthy; Bronze coins used by ordinary people in daily life continue to suffer from inflation
+
+**Religious Policy**
+
+- Open support for Christianity from 312, toleration from accession
+- Exemptions granted to clergy and financial revenues afforded to local churches
+- Bishops given limited local civil jurisdiction
+- Pagan religious rites received disapproval, and blood sacrifice is banned in the east
+- Laws endorsing Sunday as a day of rest introduced
+- Restrictions on divorce
+- Ban on crucifixion
 
 
+### Constantine's Succession
+
+- Appointed five successors
+	- Sons Constantine, Constantius, and Constans as Caesars
+	- Nephews Dalmatius (Caesar) and Hannibalianus (Rex regum et ponticarum gentium)
+- After the death of constantine, his sons kill the rest of the family, leaving only Gallus and Julian alive
+- 340: Constantine is defeated and killed by Constants
+- 350: Constans defeated and killed by usurper Magnentius. Constantius defeats him in 353 and remains sole ruler
+- Constantius appoints Gallus and Julian as Caesars - Gallus rules the east, but is killed in 354 for becoming too independent; Julian is sent to Gaul and proclaims himself Augustus in 360 - Constantius dies before a confrontation in 361
+
+</br>
+
+### Julian
+
+- Reigned 361-363
+- Educated Christian by converts to Hellenism
+- Attempts to restore Paganism
+- Left considerable rehtorical and philosophical works
+
+</br>
+
+## Divisions of Empire
+
+</br>
+
+### The Valentinianic Dynasty
+
+- Jovian has a successful (yet not senior) career under Constantius and Julian
+- Acclaimed Augustus on the death of Julian (363) but only reigns until he dies of natural causes in 364 (probably...)
+- Valentinian I: born in Pannonia; career under Constantius; acclaimed as Augustus in Nicaea on the death of Jovian
+- Appoints his brother Valens as joint Augustus in 364
+- Valentinian and Valens rule jointly: Valentinian based in Trier, Valens in Antioch
+- Valentinian always maintains supremacy
+- Gratian, Valentinian's older son is proclaimed Augustus (aged 8) in the West in order to ensure a smooth succession
+- Valentinian dies of a stroke on the Danube border during a campaign (375) - other emperors are too far away to intervene quickly, and so the local high command proclaims Valentinian Jr., aged 4, as Augustus, despite the fact that Gratian already holds this position
+- Decisions are now taken by officers of the *comitatus*, the empress Justina, and a council of generals
+
+#### The End of the Dynasty
+
+- 378: Valens dies fighting the Goths
+- 379: Gratian, now senior Augustus, appoints the general Theodosius as his colleague in order to deal with Goths
+- 379-83: Three emperors simultaneously
+- Valens, Gratian, and Valentinian have no sons: Theodosius starts a dynastic policy, bestowing the title on his two sons
+- 383: Gratian killed by the usurper Magnus Maximus
+- 392: Valentinian found dead; Theodosius remains sole ruler
