@@ -51,3 +51,76 @@
 	- New focus on uniformity - perceived as essential for the stability of empire
 	- Special preference given to imperially sponsored cults
 	- Diocletian and Maximian are presented as Jupiter and Hercules
+	- Increasing tolerance of religious rivals
+	- Persecution of the Manichaeans
+	- Christianity persecuted officially (at individual discretion)
+
+</br>
+
+## Constantine I and his dynasty
+
+### The Rise of Constantine
+
+305: Diocletian (and Maximian) retire  
+	Galerius and Constantius become Augusti  
+	Maximinus Daza and Severus appointed Caesars  
+306: Constantius dies in York (25 July); Constantine assumes title of Augustus  
+	Maxentius also assumes title of Augustus (28 October)  
+	Galerius recognises Constantine as Caesar  
+	Galerius sends Severus against Maxentius  
+	Severus’ army defects and he is killed  
+307: Maximian returns from retirement, following son (Maxentius)’s rebellion  
+	Alliance proposed between Constantine and Maximian & Maxentius  
+	Maximian acknowledges/promotes Constantine as Augustus, and marries his daughter Fausta to him
+
+</br>
+
+### The Collapse of the Diocletianic System
+
+**11 Nov. 308: Conference of Carnuntum**
+
+- Galerius sets up a new imperial college including Constantine, but not Maxentius (whose accession is seen as illegitimate)
+- Galerius and Licinius made Augusti; Maximius and Constantine made Caesars
+- 310 Maximian rises against Constantine and is defeated - "commits suicide"
+- 311 Galerius dies, Licinius and Maximinus control provinces in the east
+- 312: Constantine invades Italy, takes on Maxentius
+
+</br>
+
+### Constantine's Christian Visions
+
+"Constantine was advised in a dream to mark the heavenly sign of God on the shields of his soldiers and in this manner engage in battle. He does as he has been commanded and, by means of a slanted letter X with the top of its head bent round, he marks Christ on their shields. Armed with this sign, the army took up its weapons"
+
+- Constantine's visions exploit patterns of communication with the gods which are common throughout history: an 'omen' is witnessed; a moment of amazement and uncertainty follows; a person endowed with *felicitas* receives the correct interpretation from the gods themselves
+- In the above story, Christ behaves exactly like every other Roman god
+
+</br>
+
+### Constantine and Licinius
+
+- Constantine and Licinius find common cause
+- Licinius meets with Constantine following the death of Maxentius
+- Licinius defeats Maximinus in 313
+- Minor battles and skirmishes turn into civil wars in 316 & 324
+- Constantine is victorious - Licinius surrenders but is executed in 325
+
+</br>
+
+### Constantine's Reforms
+
+**Constantinople as the capital**
+
+- Easy to defend and to supply
+- Vital connecting point for the communication between Europe and Asia
+- Strategic importance for the two most important frontiers
+- Ritually founded as a Second Rome
+- Religiously, a blank state
+- Work begins in 324, dedication in 330
+
+**The Army**
+
+- Several 'field marshall' posts created, directly controlled by the emperor
+- General increase in the size of the army (up to 600k effective troops)
+- 
+
+
