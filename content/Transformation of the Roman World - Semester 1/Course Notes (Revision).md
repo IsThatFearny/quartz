@@ -1102,4 +1102,144 @@ Did Justinian have a grand-strategic plan to reconquer the West, or were his con
 	- East: the Black Sea
 	- North: the Danube and the Drava
 - Under Roman rule since the 2nd century BCE
-- 
+- Danube and Sava marked administrative boundaries of the Roman Balkans, with Sirmium the administrative centre of the Empire in the north of the peninsula
+- Linguistic division between Greek in the southern and eastern parts of the peninsula and Latin in the north-western parts
+
+### Slavic Migration
+
+- Traditional theory: the Slavs emigrated as a people from their homeland in Polesia
+- Main reason for migration: harsh climactic conditions
+- Notion of the slavs as a homogenous people migrating from a homeland must be dismissed - in fact, there were a large number of different groups with different identities, inhabiting a large area in south-eastern Europe
+- Slavic ethnic identity a construct of Roman authors, attributing ethnonyms to groups settled at the empire's borders north of the Danube
+
+</br>
+
+### Romano-Slavic interactions
+
+- First Slavic raid recorded in 518
+- Next raids recorded in 540s rather as a reaction to East Roman military activity north of the Danube
+- Slavs both enemies *and* allies of the empire simultaneously
+- 537 - 16k cavalry from the Antes and the Sklavenes fought for Belisarius in the defense of Rome against the Ostrogoths
+- Tributary agreement with the Antes to fight against the Sklavenes, the Huns or the Gepids
+- Raids of the Sklavenes in the 540s urged Justinian to materialise his great fortification project in the Balkans
+- Large network of about 600 fortresses was built in three lines in order to prevent deep penetration of Slavic raids:
+	- along the Danube
+	- along the Balkan mountain series of the Stara Planina
+	- along the Strantsa mountain series near Constantinople
+
+</br>
+
+### City-Fortresses
+
+- Sirmium
+	- Capital of the Roman province of Pannonia Inferior
+	- 100k inhabitants
+- Viminacium
+	- approx. 40k inhabitants
+	- Capital of the province Moesia superior (modern Serbia)
+- Between 550s and 570s the new fortifications proved very effective in resisting Slavic raids
+- Situation changed with the appearance of a new people, the Avars
+
+</br>
+
+### The Avars
+
+- Confederacy of steppe groups coming from Eurasia
+- Moved westwards in the mid-sixth century and by the 560s had started to put pressure on the empire
+- Together with the Lombards they destroyed the Gepids in the Carpathian basin
+- Settled there after they forced the Lombards to move into Italy
+- Gradual expansion of authority over the Slavic groups north of the Danube - raids into imperial territory in the northern Balkans
+
+</br>
+
+### Lombard Migration
+
+- 568 - Lombards under Alboin left Pannonia and moved into Italy
+- Byzantine forces too weak to withstand the invasion - large parts of Italy swiftly lost only 14 years after the restoration of imperial rule there by Narses
+- Peninsula divided between Lombard polities and Byzantine possessions:
+	- Lombard kingdom in the north; two Lombard duchies in central and south Italy, Spoleto and Benevento
+	- Byzantine control over parts of central-north and south Italy, Sicily and Corsica
+	- Byzantine territories of the mainland were reorganised into an exarchate with Ravenna as its capital and seat of the exarch
+
+</br>
+
+### Slavic Settlement
+
+- By the mid-7th century, Slavic tribes had occupied large parts of territories in the Balkans
+- Settlements names (toponyms) show that no total displacement of the indigenous Roman population took place
+- Archaeological findings, e.g. ceramic, are not always easy to identify in ethnic terms
+- Settlement names are indicative of the diffusion of Slavic populations on imperial soil
+- The toponymic evidence shows that settlements were denser in the northern part of the peninsula – Epirus and Macedonia heavily populated by Slavs as opposed to Thrace
+- In the south, smaller number of Slavic settlements – new settlers seem to have concentrated on the mainland and away from the coastline
+- Euboea, Attica, and Boeotia were less affected – the imperial authority concentrated its defence on the administrative centres in those areas: Thessaloniki, Thebes, Athens
+
+</br>
+
+### Changes as a result of the Slavic settlements
+
+- Imperial government lost control of a large part of the empire's former core territory in the Balkans - loss of revenues and human resources
+- Culmination of the decline of the late antique urban landscape in affected areas and termination of big landownership
+- No centralised political organisation: each tribe consisted of many nuclear families with a chieftain on the top
+- Slavic settlements had the form of small villages where agricultural activity and stock-raising dominated
+- Free peasants based on small landownership dominate the agricultural landscape of the Balkans after this period
+
+</br>
+
+### Proto-Bulgars
+
+- Of Turkic origin
+- Possibly connected with the Huns or the Sarmatians
+- Probable that various groups/tribes came under Avar control in the sixth century and moved westwards where they started raiding imperial territory
+
+</br>
+
+### Foundation of a Bulgar state
+
+- End of the Avar dominion north of the Danube after the late 620s
+- Curbat established a rulership on the northwest coast of the Black sea.
+- Late 7th c.: part of this group (divided under his sons) under the leadership of Asparuch settled the areas in the north of the Danube Desta and developed diplomatic and trade relations with the empire (numismatic evidence). 
+- Constantine IV led an offensive campaign to stop their raids against Byzantine territory in Thrace. 
+- Peace treaty of 681 – establishment of a Bulgar kingdom and tribute paid by the Byzantines
+- Bulgars became an important regional power and the empire's major Balkan enemy
+- 705: Bulgar Khan Tervel helped Justinian II to regain his throne and was awarded with the title of Caesar - also played a crucial role in harassing Muslim forces during the second Arab siege of Constantinople
+- Last khan of the Dulo clan died in 753 - political instability with several different power-holders
+- Two parties: pro-byzantine, favouring peace; and anti-byzantine, propagating an aggressive policy
+
+### Imperial Bulgar culture
+
+- Constantine V took advantage of Bulgar political instability, launching a series of nine campaigns in Bulgar-dominated territory: 759–60, 762–3, 763–4, 764–5, 766, 772, 773, 773–4 and 774–5, which resulted in three substantial victories (in 763, 765 and 772/4)
+- Uncertain whether Constantine’s goal was to subjugate the Bulgar state • His major achievement was to stabilize the empire’s Balkan frontier and to intimidate the Bulgars 
+- 792 – Khan Kardam achieved a major victory against Constantine VI in the battle of Marcelae, forcing the Byzantines to pay tribute 
+- These developments triggered a process of centralization of authority in the Bulgar state 
+- Bulgar political culture was influenced considerably by the Byzantine imperial culture
+
+</br>
+
+### Imperial policy of population transfers
+
+- 658, Constans II – first Byzantine campaign against the Sklaveniai in the regions of Macedonia und Thrace in 658, large number of captives resettled in Asia Minor 
+- Constantin IV campaign against the Strymonitai
+- 688 Justinian II campaigned against Slavs and Bulgars – Slavic tribes transferred and settled in the region of Bithynia in Asia Minor 
+- 758/9 campaign of Constantine V in Macedonia. Extracting tribute from the defeated Slavs 
+- 762 many Slavs fled from Bulgar to Byzantine territory – Constantine transported them to Asia Minor 
+- 745/6 campaign to Germanikeia, transfer of local Syriac populations to Thrace 
+- 750/1 similar transfer from Melitene 
+- 754–5 from the region of Theodosioupolis 
+- 759 and 762, war prisoners from Constantine’s Bulgar campaigns were transferred to Asia Minor
+
+</br>
+
+### Subjugating and integrating the Slavs
+
+- 783 – campaign launched by the logothetes tou dromou Staurakios against the Slavs in Thrace and around Thessaloniki, and in the regions of Hellas and the Peloponnese 
+- 786 – Irene and Constantine VI toured Thrace in force 
+- 787 – the Thracian frontier had almost reached that of the imperially controlled districts around Thessaloniki in the west 
+- Nikephoros I (802-811) concluded the conquest of southern Greece 
+- 803 – first major campaign under general Skleros who reconqerued the whole of the Peloponnese
+- By 809 the whole of the Greek peninsula had come under Byzantine authority again
+- Transfer of Roman populations from Asia Minor to Greece to Romanize those areas anew
+
+</br>
+
+## Iconoclasm
+
