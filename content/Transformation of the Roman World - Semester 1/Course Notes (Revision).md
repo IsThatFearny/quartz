@@ -525,3 +525,581 @@ shared cohesive identity: an an ethnic group
 - 9 books from 147 letters survive, as well as 24 poems
 
 </br>
+
+### Britain - Catastrophe
+
+- There was a clear end Roman Britain, discussed by contemporary chroniclers
+- Obvious urban decline - Wroxeter as a case study
+![[Pasted image 20251020122917.png|500]]
+
+</br>
+
+- Last supply of silver coinage ceases completely in the early 5th-century. The last issues found in British contexts come from the reign of Constantine III
+
+</br>
+
+
+#### Explanations
+
+'Is this the original BREXIT?'
+
+- Reversion to native customs:
+
+> [!quote] Zosimus, *New History* (sixth-century)
+> "the Britons revolted from the Roman Empire, no longer submitted to Roman law, and lived independently"
+
+- Perhaps Britain had never been fully romanised?
+- Iron age hillforts were re-occupied in the fifth century
+- Triggered by a Barbarian invasion?
+	- Non-Roman Germanic peoples moved towards Britain in the fifth-century
+	- Angles, Saxons, Jutes, etc.
+
+> [!quote] Bede, *Ecclesiastical History of the English People* (early eighth century)
+>"It was not long before hordes of these people eagerly crowded into the island and the number of foreigners began to increase to such an extent that they became a source of terror to the natives … Public and private buildings fell in ruins, priests were everywhere slain at their altars, prelates and people alike perished by sword and fire regardless of rank, and there was no- one left to bury those who had died a cruel death"
+
+
+- Socio-economic consequences of political turmoil?
+	- A series of imperial pretenders acclaimed by the army
+
+</br>
+
+## Justinian and the West
+
+</br>
+
+### Post-Roman
+
+- Barbarian kingdoms in the West, c. 500 CE
+	- Ostrogoths in Italy under Theoderic
+	- Franks in Northern Gaul under Clovis
+	- Burgundians in the Loire valley under Gundobad
+	- Visigoths in Southern Gaul and Spain under Alaric II
+	- Vandals in Africa under Thrasamund
+
+</br>
+
+### Procopius
+
+- Well-educated in rhetoric and law
+- Member of Belisarius' retinue as legal adviser after 527 CE
+- Accompanied Belisarius in his campaigns on the eastern front (N Africa and Italy)
+- Eyewitness to the events about which he wrote
+- Member of the senatorial elite
+- Hostile to Justinian and Theodora
+
+</br>
+
+### By 527 CE...
+
+- Visigoths pushed out of most of Gaul by the Franks (c. 508)
+- Clovis' descendants continued his expansionist policy
+- Burgundians succumbed to Frankish power within a few years of Justinian's enthronement
+- Theoderic's death in 526 CE triggered internal crisis
+- Gelimer overthrew Hilderic in 530 (in N Africa) - Hilderic enjoyed a good relationship with Justinian and had the support of the Catholic bishops
+- Gelimer (despite protests from Constantinople) systematically extinguished Hilderic's branch of the family related to the Theodosian princess Eudocia
+
+</br>
+
+### The Vandal War
+
+- Vandal kingdom established in N Africa in 435 by Geiseric as a subsidiary to Rome
+- New peace agreement made in 442 - independent Vandal kingdom in most of N Africa
+- Hilderic (r. 523-530): grandson of Geiseric, son of Huneric and Eudocia (daughter of Valentinian III)
+- Vandals adhered to Christian heresy of Arianism (condemned since the council of Nicaea)
+- Hilderic's overthrow provided a pretext for intervention from Constantinople
+
+#### Belisarius' campaign
+
+- Conclusion of eternal peace with Koshrow I in 532 enables Justinian to campaign against the Vandal kingdom
+- Belisarius commanded the fleet which left Constantinople in 533
+- 17,000 men w/ 500 transport ships and 92 war ships
+- Initial goal of the campaign is questioned
+- Belisarius defeated Gelimer's forces and swiftly ended the war in just over a year
+
+</br>
+
+Did Justinian have a grand-strategic plan to reconquer the West, or were his conquests opportunistic? Procopius testifies to internal opposition to the plan. Belisarius' swift success facilitated the conceptualisation of the campaign as a war for the restoration of imperial rule.
+
+</br>
+
+### The Gothic War
+
+- 535-554 BCE
+- Swift success in N Africa set a precedent for new expansionary endeavours to be justified in the name of Roman reconquest
+- Pretext for intervention in Ostrogothic Italy was provided by the murder of queen Amalasuintha
+
+</br>
+
+#### Amalasuintha
+
+- Born in Ravenna
+- Third daughter of Theoderic
+- Ascended to Queen Regent of the kingdom at the death of her father - her son Athalaric was only 10
+- Became sole rule after Athalaric's death in 534 CE
+- Appointed her cousin Theodahad as her co-ruler to appease opposition
+- Reactionary faction of nobles claimed that integration with the Romans had gone too far
+- Theodahad organised her imprisonment and murder
+
+</br>
+
+#### Belisarius' Campaign (again)
+
+- Landed in Siciliy in 535 CE with a small force of 8,000 men
+- Subjugated the island by the end of the year with little resistance
+- Intervention to suppress an insurrection in 536 CE
+- Invaded the mainland
+- Resistance in Naples - long siege led to subjugation and deposition of Theodohad
+- Rome captured by end of 536 CE
+- Byzantine army withstood a one-year siege
+- Witigis (new king of the Goths) surrendered in Ravenna in 540 CE
+
+</br>
+
+#### Gothic revival
+
+- Belisarius fell in disfavour - recalled to Constantinople 
+- Outbreak of the plague in 541
+- Khosrow I broke the peace in the East in 542
+- Dissatisfaction of Italian populations with Constantinople's regime due to heavy taxation
+- Reorganisation of Gothic resistance around a new king, Totila
+- Successful campaigns in the south of Italy gives the Goths the upper hand
+- 546 CE - Totila recaptures rome
+
+- General Narses was sent with a large force of about 25,000 men to Italy to deal with Totila.  
+- In 552 he landed in Ancona with the intention to march to Rome. 
+- Totila moved against the  Byzantines and clashed with them at the battle of Taginae in summer 552. -
+- Narses won a great victory and Totila was killed. 
+- Rome capitulated and the  remnants of the Gothic army  were destroyed at the Battle of  Mons Lactarius in October 553. 
+- Narses had to face the invasions of Franks and Alemanni in the following year whom he defeated with difficulty.  
+- By the end of 554 most of Italy had come under imperial control again with the capitulation of the  last Gothic garrisons.
+
+</br>
+
+#### Reality vs Propaganda
+
+- Notion of liberation of former citizens not highlighted
+- Religious arguments not equally effective because Ostrogothic rule had been tolerant towards Nicene Christians
+- Indigenous populations in part well accommodated under Ostrogothic rule
+- Belisarius' armies were not well-received everywhere - faced resistance of indigenous populations 
+- Restoration of Roman imperial rule and the arrival of Constantinople's tac collectors after 540 provoked opposition from local elements wishing to support Totila
+- War of reconquest had severe consequences for the local populations:
+	- gradual collapse of ancient landscape
+	- destruction of infrastructure, decimation of the population, severe hunger
+	- further deterioration of Rome, destruction of most aqueducts, end of the senate, sharp drop in population
+
+</br>
+
+### Visigothic Campaign
+
+- Rebellion of Athanagild with the support of local Roman aristocracy in the south of the kingdom during the reign of King Agila (549–554). 
+- Athanagild appealed for help to Justinian who sent an army of 2000 men under Liberius in 552. 
+- Not really a campaign for the reconquest of the Iberian peninsula.
+- The Byzantines captured Cartagena establishing a foothold and creating the province of Spania in the south- eastern part.
+- This campaign was the culminating point of east Roman expansion in the Mediterranean under Justinian. • Last Byzantine garrisons were expelled from the peninsula by the Visigoths in 624.
+
+</br>
+
+### Relations with other barbarian kingdoms
+
+- Britain and Ireland only a very remote concern
+- Franks established regional hegemony and put neighbours under pressure
+- Franks crushed the Thuringian kingdom in the 530s
+- Saxons to the north had to accept Frankish rule
+- Frankish kings adhered to the Nicene creed, facilitating understanding with the Byzantines
+- Byzantines and Franks had little reason for conflict, sharing common political interests
+
+</br>
+
+### Conclusions
+
+- Justinian was the last Roman emperor to reunite large parts of the Med under his sole rule
+- Reconquest of large parts of former Roman territory, although unsuccessful in the long run, consolidated the image of Constantinope as the capital of the 'eastern empire'
+- Outcome of the wars deepened the identification gap between the 'eastern' and 'western' empires
+- After 565 CE, no other emperor of Constantinople would plan or attempt such an ambitious endeavour of reconquest in the western parts of the old *orbis romanus*
+
+</br>
+
+## The Transformation of the Near East
+
+- 527 - Peace agreement between Khosrow I and Justinian broke due to rebellion in Armenia and Iberia against Persia
+    
+- 582 - Maurice comes to power as a result of his marriage with the late emperor Tiberius’ sister
+    
+- Maurice proved successful in his war against the Persians on the eastern front
+    
+- 590 - Civil War in Persia, Khosrow II fled to Byzantine territory
+    
+- 591 - Maurice aids Khosrow II in restoring his power
+    
+
+</br>
+
+- 592-602 - Maurice turns his attention to the Balkan’s and launches a series of campaigns against Avars and Slavs; Roman army is successful in defeating enemies in the North
+    
+- 602 - Mutiny of the army on the Danube frontier
+    
+
+</br>
+
+### Rebellion of Phokas
+
+- Centurion Phocas took advantage of the situation and became leader of the army
+    
+- Mutiny turned into a rebellion of usurpation; army marches to Constantinople
+    
+- Maurice loses support of the elite and is forced to abdicate and flee; soon arrested and murdered
+    
+- Phokas crowned emperor in Nov. 602
+    
+- End of a period in which the army was apolitical
+    
+
+</br>
+
+- Phokas confronted with hostility by the elite and the senate
+    
+- Endured plots against him in the early years of his reign, as well as a rebellion by general Narses in the East
+    
+- Khosrow II invaded Byzantine territory in 607, taking advantage of the instability; Phokas’ authority undermined and provided a pretext for a rebellion
+    
+- Phokas largely depicted as a tyrant
+    
+
+</br>
+
+### Civil War with Heraclius
+
+- 608 - exarch of Carthage Heraclius initiates a rebellion against Phokas w/ support of elites
+    
+- His nephew Nikita’s marched on Egypt and conquered it by 609
+    
+- Son of Heraclius (also called Heraclius) attacked Constantinople
+    
+
+</br>
+
+### Heraclius - The First Ten Years
+
+- Khosrow II declined peace offer
+    
+- 613 - defeated by the Persians in N Syria
+    
+- 614 - Persians capture Jerusalem and transfer the holy cross to Ctesiphon
+    
+- 615 - Senate offers peace with humiliating terms after Persians reach Chalcedon
+    
+- 619 - Invasion of Egypt
+    
+- Emperor’s position undermined by economic and geopolitical crisis
+    
+
+</br>
+
+### Eschatology and Apocalypse
+
+- Succession of Empires
+    
+    - Gold (Babylonian)
+        
+    - Silver (Persian-Medean)
+        
+    - Bronze (Hellenistic)
+        
+    - Iron (Roman)
+        
+        - God’s Empire
+            
+- Persian invasion may have been a sign for the Jews that the second coming of Christ may be nearby
+    
+
+</br>
+
+### Heraclius’ Persian Campaigns
+
+- Solidification of rule
+    
+    - Pacification of circus factions
+        
+    - Regency protected power whilst Heraclius away
+        
+    - Army reorganised and given financial aid from church coffers
+        
+    - War -repared based on Strategikon of Maurice - from defensive to counter-offensive
+        
+    - 622 - Victory in Euhaita
+        
+    - 623 - Peace agreement with the Avar Chagan
+        
+    - 624 - Invasion of Persia begins
+        
+    - 625 - Two great victories against Persians in Armenia
+        
+
+</br>
+
+### Siege of Constantinople
+
+- Persians at Chalcedon on opposite shore of Bosporus
+    
+- Byzantine unit dispatched to strengthen garrison of Constantinople (12,000 strong)
+    
+- City defence entrusted to patrician Bonos and patriarch Sergios
+    
+- Avars could not overcome defence and withdrew after two weeks
+
+</br>
+
+## Byzantium's struggle for survival
+### Heraclius' Legacy
+
+- Victory in the last great war of antiquity
+- Between end of Persian War (630) and his death (641):
+	- Unable to reintegrate eastern provinces
+	- Financial crisis and religious controversy
+	- Slavic settlement in the Balkans
+	- Unable to prevent Arab expansion
+- Empire which remained was smaller and weaker than the one that he had usurped
+
+</br>
+
+### Succession of Heraclius
+
+- Constantine III (Feb-May 641)
+- Heraclonas (Feb-Oct 641)
+- Constans II (Sept 641-668)
+	- 11 y/o under the control of general Valentinian
+	- Patriarch Cyrus surrenders egypt to Arabs; Arabs consolidate control over eastern provinces
+	- Expansion came at a halt in Asia Minor - Muawiya, governor of Syria, began systematic raids in Anatolia
+
+</br>
+
+### Early Islamic Conquests
+
+</br>
+
+#### Constans II (641-668)
+
+- Arab advance halted in Asia Minor along the Taurus mountains
+- Withdrawal of remaining eastern Roman armies, and resettlement across Asia Minor - new military commands (4 major ones) and restructuring of provincial administration
+- 645 - Failed Byzantine naval expedition for the recovery of Egypt
+- 646 - Muawiya restarts raids into Anatolia
+- 648 - Invasion of the exarchate of N Africa by Arabs
+
+</br>
+
+#### Trial of Pope Martin and Maximus the Confessor
+
+- 648 - Promulgation of the Typos: edict that prohibited discussion on the wills or energies of christ
+- 649 - Lateran Synod, condemnation of the Typos by the Pope and Maximus the Confessor
+- 650 - Rebellion of Exarch Olympios in Italy
+- 653 - New Exarch, Kalliopas, arrested Pope Martin and Maximus; both brought to Constantinople and condemned for treason for support of Olympios and Gregory (exarch of N Africa)
+
+</br>
+
+#### Eastern Front
+
+- 651 - truce with Muawiya - Arabs conclude conquest of Persia
+- 652 - Armenia surrenders to Muawiya - Constans personally led a campaign to reclaim Armenian and Iberian territory; partial success
+- 654 - Muawyiya builds fleet to launch a major attack against the Empire
+- 655 - Battle of the Masts: Constans' fleet defeated by the Muslims with the emperor coming very close to being captured
+- Arab attack interrupted by a rebelliong in the Caliphate which led to the murder of Caliph Uthman and the outbreak of the first Fitna
+
+</br>
+
+#### The First Fitna
+
+- 656 - Uthman murdered by rebels
+- Ali ibn Abi-Talib elected new Caliph
+- Civil war broke out between Muawiya and Ali (murdered in 661)
+- Muawiya ibn Abi Sufyan becomes first Caliph of the Umayyad dynasty
+- Damascus becomes capital
+
+</br>
+
+### Constans II in the West
+
+- Muslim civil war allowed Constans to turn attention West
+- Slavs in Greece; Lombards in Italy
+- 662 - undertook a major campaign in Italy under his command
+- Marched through eastern coastline of Greece to Athens and transported his army to Italy in ships
+- Led to conflict with the Lombards
+- Visited Rome - first emperor to do so since the fall of the Western Empire
+- Base in Syracuse, Italy
+- 665 - new Muslim invasion in N Africa
+
+</br>
+
+### The Umayyad Empire
+
+- Characterised as a *jiahd-state*
+- Islam reaches its outmost territorial expansion
+- Muslim efforts to conquer the Byzantine Empire culminated in this period
+
+</br>
+
+### First Siege of Constantinople
+
+- Emperor's long absence allowed Muawiya to intensify his war; prepared for a direct attack on Constantinople
+- Muslims took advantage of the rebellion of Saborius who offered his cooperation of the attack
+- 667 - blockade of the city begins
+- 668 - siege on the city during the summer
+- Fortifications too strong to be overcome and the effort had to be abandoned
+- Byzantine army struck a major blow against the retreating Muslim force
+- Siege accelerated developments on the empire's political scene - Constans II murdered in his bathroom in 668; succeeded by his son, Constantine IV
+
+</br>
+
+### Justinian I
+
+- 692 - Quinisext council in Constantinople
+- Elaboration of the corpus of eastern canon law
+- Image of Christ should be depicted in its human form and allegorically
+- Culmination of the practise of veneration of icons
+
+</br>
+
+### Years of Anarchy
+
+- 692 - Justinian broke the peace and campaigned against the Muslims; Byzantine defeat at the battle of Sevastopolis marked the beginning of a new period of Muslim offensive against the Empire
+- 695 - deposition of Justinian II, beginning of a period of great internal instability
+- Six emperors over next 20 years:
+	- Leontios (695-698)
+	- Tiberius II (698-705)
+	- Justinian II (705-711)
+	- Philippikos (711-713)
+	- Anastasios II (713-715)
+	- Theodosios III (715-717)
+
+</br>
+
+### Isaurian Dynasty
+
+- Leo III, 717-714 - General of the army of Anatolikon
+- Rebelled against Theodosius in 716 with support of the Opsikion army
+- Outmanoeuvred invading Muslim armies and prevented capture of Amorium
+- Rebels marched to Chysopolis in later summer 716 and began negotiations
+- Spring 717 - Leo enthroned after convincing Theodosius to abdicate and become a monk
+
+</br>
+
+### Second Arab Siege of Constantinople
+
+- Leo took power just in time to defend the city against the armies of Maslama
+- Concluded preparations for the defence of the city which Anastasios had begun
+- Peace treaty with Bulhgars of Khan Omurtag, who became allies
+- Blockade began in summer of 717 from both land and sea; lasted 13 months
+
+</br>
+
+## Land, Law, and Power in the Early Medieval West
+
+</br>
+
+- No single experience of the Fall of Rome 
+- Some cultural shifts became catastrophic (e.g. in Britain
+
+</br>
+
+- Visigothic kingdom - potentially fractious relationship between Goths and Romans, largely as a result of religious differences - took over most of the Iberian peninsula
+- Lombard kingdom tightly governed and much smaller than other kingdoms
+
+</br>
+
+### Elites
+
+- Elites usually militarised, unlike the Roman empire where elites are the civilian aristocracy
+- Status markers are hunting or military prowess - Roman status defined by education and comfort
+- Largely rural estate based - Roman had a focus on Urbanism with villa culture
+- Aristocratic status = land by office or other means
+
+</br>
+
+### Law Codes
+
+- Laws codes issued in most post-Roman successor states
+	- Frankish kingdoms: Salic law (*Lex Salica*) c.500; additions by subsequent rulers
+	- Lombard kingdom: Rothari's edict (643); additional laws e.g. Liutprand
+	- Visigothic kingdom: Visigothic code from 640s; 7th century revisions combining older fifth/sixth century codes with new laws
+- Basic framework
+	- *Wergild* (lit. 'man price') for different individuals, varying according to gender, age, status, ethnicity
+	- Compensation payments for injuries, thefts, and other offences
+	- Core rationale was to settle disputes and avoiding feuds
+
+#### Law as Ideology in the Visigothic Kingdom
+
+- Identity issues (up to the 580s)
+	- Goth vs. Roman
+	- Arian Christianity vs. Catholic christianity
+- Decentralised society
+	- Peninsula (mainly) politically united in 580s under Leovigild
+- Politics of conversion
+	- Reccared converts to Catholic Christianity; third council of Toledo (589)
+	- Previous ethnic/religious differences 'disappear'
+- Political and religious 'unity'
+	- Articulated at church councils
+	- Articulated through laws
+
+#### Law as pragmatic and ideological: Lombard Law
+
+- Additional laws issued by Lombard kings supplementing the Edict of Rothari (643)
+- Smaller kingdom *and* city-based elites
+- People make appeals to kings at Pavia: surviving documents on cases and one-off royal laws
+
+</br>
+
+## Micro-Christendoms
+
+### Conversion and Christianisation
+
+- Non-Romanised, but Christianised places:
+	- Pictland (sixth-century)
+	- Ireland (sixth-century)
+	- Frisia (early eighth-century)
+	- Saxony (later eighth-century)
+
+- Christianisation of the empire inextricably tied to **urban centres**
+- Shift in the post-Roman world - diffusion of Christianity into the countryside (deurbanisation)
+- Christianisation of society = socialisation of the Church
+	- Meringovian Francia by c. 750: 30% of land given to ecclesiastical insititutions; around 550 monasteries founded
+	- Socio-economic history? or cultural and religious history? Usually told in separate ways, but Wood says we should find a way to tell both in tandem
+- Christianisation of society = shifting gender norms
+	- Later Roman saints' lives: gender antagonism and ascetic superiority
+	- Post-Roman saints' lives: novel and nuanced gender dynamics; written for institutions with ties to saints' social networks; child oblation
+
+</br>
+
+### Christianisation as a negotiation
+
+- Christianisation is not carried down from above, but is rather a negotiation between converts and Christians
+- e.g. Augustine sent to convert the English by Pope Gregory I and found some Christians practising their religion 'incorrectly' (worshipping idols, sacrificing livestock, etc.). Rather than eradicating their religion as a whole, compromises made with local populations
+
+> [!quote] Gregory I, letter to Mellitus, c. 601
+> "For it is certainly impossible to eradicate all errors from obstinate minds at one stroke. Whoever wants to climb a mountain top, climbs gradually, step by step"
+
+- Gregory, however, is an unrepresentative source - most correspondence (of over 850 surviving letters) remained within Italy and Constantinople - and missions to Gaul and Britain were very unusual
+- Christianity largely localised outwith Italy and Constantinople
+	- e.g. 7th century England - two separate kings (North and South) both practising Christianity differently (celebrating Easter on different days, for example). Synod convened at Whitby (664) and 'Roman' traditions adopted. Rome is not a reference point because they told Christians what to do - using Rome as a reference was a conscious decision by local Christian populations
+- Christianity a guise for underlying Paganism - traditions included ritual animal sacrifice, dressing up in the guise of animals or the opposite sex, Kalends of January being the start of the year, etc.
+
+
+> [!quote] Peter Chrysologus (d. 450)
+> "But one of you says: this isn't the deliberate pursuit of sacrilege, these good luck visits are just for fun. This is a celebration of the new, not an error from the past. This is just new year, not the offence of Paganism"
+
+- What does 'Pagan' actually mean?
+	- 'pagus' = 'rural district' --> 'paganus' = 'country-dweller' --> 'Pagan' in the Christian sense
+	- Not a word of self-identification - externally imposed label in a shared language of condemnation
+	- Catch-all term
+
+</br>
+
+## Migrations and the Formation of the Medieval Balkans
+
+### The Balkan Peninsula
+
+- Geographical limits
+	- South: the Aegean Sea
+	- West: the Adriatic
+	- East: the Black Sea
+	- North: the Danube and the Drava
+- Under Roman rule since the 2nd century BCE
+- 
