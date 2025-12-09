@@ -8,7 +8,8 @@
 	- Sources: word of mouth + eyewitnesses
 	- Writes about culture and gives a good idea of greek world
 	- Interested in why events happen, often gives a divine explanation
-	- Bias towards Athens (his birthplace) against Sparta and other enemies
+	- Bias towards Athens against Sparta and other enemies
+	- 
 - Thucydides
 	- Peloponnesian war is sole focus
 	- Gets multiple eyewitnesses as single ones are fallible - this is a criticism of Herodotus
