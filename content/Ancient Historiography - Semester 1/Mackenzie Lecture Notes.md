@@ -1,0 +1,77 @@
+# Mackenzie Lecture Notes
+
+</br>
+
+- Herodotus - greco-persian wars and rise of the persian empire
+	- Used stories, whether or not he believed them - he does not, however, expect his reader to believe everything that he writes
+	- Often from his own point of view and acknowledges possible inaccuracies
+	- Disjointed narrative - jumps from rise of the persian empire and anecdotes straight to the greco-persian war
+	- Sources: word of mouth + eyewitnesses - the reader is regularly reminded of this
+	- Writes about culture and gives a good idea of greek world
+	- Interested in why events happen, often gives a divine explanation
+	- Bias towards Athens against Sparta and other enemies
+	- Disguises his authorial control over the content
+	- 
+- Thucydides
+	- Peloponnesian war is sole focus
+	- Gets multiple eyewitnes as single ones are fallible - this is a criticism of Herodotus
+	- Also criticises Herodotus for exaggerating
+	- Uses speeches to convey authorityses
+	- Criticises poets and Herodotus for using divine motivators
+	- Finishes book mid-sentence - good for Xenophon and future authors to pick up
+	- Work has immediate impact on the Greek world
+	- Bro hates everything but Pericles - styles everyone aside from him as incompetent and weak
+	- Discusses causes of war - both surface level and deeper (e.g. human nature and fear)
+- Xenophon
+	- Fights for Cyrus, is defeated, has to lead mercenaries back as the higher-ups are dead
+	- Ends up fighting for Sparta as a friend of the king and is exiled from Athens
+	- Accepts the divine as a reason for human events
+	- Compiles Herodotus and Thucydides methods
+	- Biased towards Sparta and hates Athens
+	- Occasional gaps in his history
+	- Settles down but farm gets taken from him in a revolt
+	- Even by ancient standards, difficult to read
+	- Writes a military history - writing from personal experience
+	- Student of Socrates
+- Polybius
+	- Macedonian wars + Punic wars
+	- Wrote about cycles of government - mob rule > monarchy > tyranny > aristocracy > oligarchy > democracy > mob rule 
+	- Roman constitution is flexible - has a combination of the cycles of government
+	- Put in charge of rebuilding cities after the destruction of corinth
+	- Roman success as a result of their virtue and their government, and their application of it to other countries
+- Sallust
+	- OG Hater
+	- First in his family to get into the senate - *novus homo*
+	- Thinks the senate is of the people for the people - bunch of bs
+	- Calls out senators (e.g. Cicero)
+	- Gets kicked out the senate but Caesar brings him back into the senate
+	- Gets sent on multiple campaigns and fails miserably
+	- Conquers northern Africa with Caesar, becomes governor
+	- Accused of war crimes, is got off by Caesar, and leaves politics
+- Livy
+	- 142 volumes - Hist. of rome
+	- Main criticism is that he never held public office
+	- No access to certain documents and records that would have helped him
+	- From a wealthy family during civil wars - didn't go to Greece as a result and therefore was not able to get a good education - bad greek -> latin translations
+	- Friends with Augustus and with the next three emperors after
+	- Last book he wrote was apparently a scathing review of Augustus
+	- Focuses on morality and lessons - good storyteller
+	- Doesn't hate on predecessors
+	- Wanted writings to be a one-stop-shop
+- Josephus (my boy)
+- Suetonius
+	- Wrote *lives* and *illustrious men*
+	- Basically just gossip and hearsay
+	- Not history, but rather biography
+- Tacitus
+	- Ethnographic approach
+	- Married Julia Agricola (daughter of a general in Britain)
+	- Wrote about how the emperor should behave
+	- Discusses how other writers are biased depending on whether they are writing about contemporary events
+	- Wrote under extreme censure (age of anxiety)
+- Cassius Dio
+	- Age of anxiety
+	- Access to historical documents extremely restricted
+	- Wrote about everyday life
+	- Hates Commodus
+	- All family are politicians
