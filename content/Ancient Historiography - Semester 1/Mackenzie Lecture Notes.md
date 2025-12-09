@@ -66,6 +66,7 @@
 	- Focuses on morality and lessons - good storyteller
 	- Doesn't hate on predecessors
 	- Wanted writings to be a one-stop-shop
+	- States that historians of Rome hope to surpass their predecessors
 - Josephus (my boy)
 - Suetonius
 	- Wrote *lives* and *illustrious men*
