@@ -9,12 +9,11 @@
 	- Writes about culture and gives a good idea of greek world
 	- Interested in why events happen, often gives a divine explanation
 	- Bias towards Athens against Sparta and other enemies
-	- 
 - Thucydides
 	- Peloponnesian war is sole focus
-	- Gets multiple eyewitnesses as single ones are fallible - this is a criticism of Herodotus
+	- Gets multiple eyewitnes as single ones are fallible - this is a criticism of Herodotus
 	- Also criticises Herodotus for exaggerating
-	- Uses speeches to convey authority
+	- Uses speeches to convey authorityses
 	- Criticises poets and Herodotus for using divine motivators
 	- Finishes book mid-sentence - good for Xenophon and future authors to pick up
 	- Work has immediate impact on the Greek world
