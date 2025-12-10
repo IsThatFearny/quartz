@@ -40,15 +40,19 @@
 	- Occasional gaps in his history
 	- Settles down but farm gets taken from him in a revolt
 	- Even by ancient standards, difficult to read
-	- Writes a military history - writing from personal experience
+	- Writes a military history - writing from personal experience about how to be a good military leader
 	- Student of Socrates
+	- Moralising is not 'prescriptively didactic'
 	- 
 - Polybius
 	- Macedonian wars + Punic wars
 	- Wrote about cycles of government - mob rule > monarchy > tyranny > aristocracy > oligarchy > democracy > mob rule 
 	- Roman constitution is flexible - has a combination of the cycles of government
 	- Put in charge of rebuilding cities after the destruction of corinth
-	- Roman success as a result of their virtue and their government, and their application of it to other countries
+	- Roman success as a result of their virtue and their government, and their application of it to other countries - often sides with Rome against her enemies
+	- Moral and practical didactic historian at heart and believes that this is the role of history and historiography
+	- Lots of narrative pauses in order to communicate directly with the reader - provides a much more comprehensive account than any contemporaries
+	- 
 - Sallust
 	- OG Hater
 	- First in his family to get into the senate - *novus homo*
@@ -59,7 +63,7 @@
 	- Conquers northern Africa with Caesar, becomes governor
 	- Accused of war crimes, is got off by Caesar, and leaves politics
 - Livy
-	- 142 volumes - Hist. of rome
+	- 142 volumes - Hist. of Rome
 	- Main criticism is that he never held public office
 	- No access to certain documents and records that would have helped him
 	- From a wealthy family during civil wars - didn't go to Greece as a result and therefore was not able to get a good education - bad greek -> latin translations
