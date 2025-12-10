@@ -43,7 +43,6 @@
 	- Writes a military history - writing from personal experience about how to be a good military leader
 	- Student of Socrates
 	- Moralising is not 'prescriptively didactic'
-	- 
 - Polybius
 	- Macedonian wars + Punic wars
 	- Wrote about cycles of government - mob rule > monarchy > tyranny > aristocracy > oligarchy > democracy > mob rule 
