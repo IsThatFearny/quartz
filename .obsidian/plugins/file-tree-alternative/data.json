@@ -8,7 +8,7 @@
   "showFilesFromSubFoldersButton": false,
   "revealActiveFileButton": false,
   "excludedExtensions": "",
-  "excludedFolders": "Attachments, Templates, Excalidraw, ZoteroStorage, Excalidraw, Excalidraw, Templates, Attachments, Attachments, Excalidraw, Attachments, Attachments, Attachments",
+  "excludedFolders": "Attachments, Templates, Excalidraw, ZoteroStorage, Excalidraw, Excalidraw, Templates, Attachments, Attachments, Excalidraw, Attachments, Attachments, Attachments, Excalidraw",
   "hideAttachments": false,
   "attachmentsFolderName": "attachments",
   "folderIcon": "icomoon",
