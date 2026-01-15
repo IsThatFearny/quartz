@@ -50,6 +50,36 @@
 - Bring rally from Bristo to Appleton and then into Appleton
 - Debate on whether to bring the rally *into* or *outside* the building - provisionally voted to keep rally *outside*
 
+**Food**
+
+- People and Planet might not have capacity - they have asked if they can expand out to trusted friends - voted **YES**
+
+**Numbers**
+
+- In room: 15
+- Extra 6 people than last time as more lecture theatre doors - 26ish minimum for taking
+
+**Taking**
+
+- Need an extra meeting for taking. One person from each door attends meeting
+- Mini-meeting night-of
+
+**Materials**
+
+- 4 suction cups + 2 ropes
+- 4 ropes/bike locks
+- Basement fire door: long rope
+- Shit to go in the rotating door
+- Rope for front entrance
+- More rope!
+
+- JPS Sleeping Bags and sleeping stuff
+- Lots of banners
+
+**SCALP**
+
+- 
+
 **AP Broccoli** to make occupation-specific drive and transfer docs over
 **AP Sienna to make a signal GC**
 **AP Anchor** to do a second scout
