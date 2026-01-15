@@ -31,7 +31,26 @@
 - Updates needed as a result of changes being made to accessibility to the building
 - Need - statements of demands for press
 - updated fire plan required 
-- Logistics spreadsheet for rota
+- Logistics spreadsheet for rota?
 - **AP Maple** to contact People and Planet 
 - **AP Sienna** to find out about construction next to Appleton
 - **AP Koba** to find out about lecture theatres
+
+**Changes to plan from last time**
+
+- Places planned out where resting and unmasking is possible (i.e. no CCTV)
+- Figuring out when people who take can leave
+
+**Changes to layout**
+
+- Lecture theatres now open so might have extra doors to lock up
+
+**Rally**
+
+- Bring rally from Bristo to Appleton and then into Appleton
+- Debate on whether to bring the rally *into* or *outside* the building - provisionally voted to keep rally *outside*
+
+**AP Broccoli** to make occupation-specific drive and transfer docs over
+**AP Sienna to make a signal GC**
+**AP Anchor** to do a second scout
+**AP Dotson** to message MainCom about date change

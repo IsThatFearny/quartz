@@ -87,4 +87,3 @@
 
 - Adding Leonardo PHD and scholarships to main demands
 - **AP Marcel** to get FOI info about Leonardo
-- 
