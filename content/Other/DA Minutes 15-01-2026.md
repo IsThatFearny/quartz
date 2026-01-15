@@ -48,11 +48,11 @@
 **Rally**
 
 - Bring rally from Bristo to Appleton and then into Appleton
-- Debate on whether to bring the rally *into* or *outside* the building - provisionally voted to keep rally *outside*
+- Debate on whether to bring the rally *into* or *outside* the building - provisional consensus to keep rally *outside*
 
 **Food**
 
-- People and Planet might not have capacity - they have asked if they can expand out to trusted friends - voted **YES**
+- People and Planet might not have capacity - they have asked if they can expand out to trusted friends - consensus on **YES**
 
 **Numbers**
 
@@ -74,13 +74,31 @@
 - More rope!
 
 - JPS Sleeping Bags and sleeping stuff
-- Lots of banners
+- Lots of banners! Inc. demands banner
+- Martyr's list?
+ 
+**Back Office**
 
-**SCALP**
+- Call SCALP and set up Back Office for taking night
+- Set up Back Office for an eviction notice
 
-- 
+**Collab**
+
+- Leaning towards no for collaboration with other societies (esp. EUSA-affiliated)
+- Opening up - messaging needs to be clear on entering the occupation; strongly encourage/mandate masking; people on the door doing some level of vouching for those who enter [Tabled for future]
+
+**Risk**
+
+- Setting a leave date and telling the uni?:
+	- Pros: Leaving on our own terms; good de-escalatory tactic
+	- Cons: Weakens our position and is perhaps less disruptive; could be construed as a compromise or a de-escalation from our original escalation
+	- Proposal: tiers of information given to administration depending on their escalation level - consensus on yes
+	- 
 
 **AP Broccoli** to make occupation-specific drive and transfer docs over
 **AP Sienna to make a signal GC**
 **AP Anchor** to do a second scout
 **AP Dotson** to message MainCom about date change
+**AP Sparrow** to message SCALP
+**AP Maple** to coordinate demands banner
+**AP Sparrow** to get Bust Cards
