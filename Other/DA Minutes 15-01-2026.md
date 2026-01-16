@@ -93,7 +93,6 @@
 	- Pros: Leaving on our own terms; good de-escalatory tactic
 	- Cons: Weakens our position and is perhaps less disruptive; could be construed as a compromise or a de-escalation from our original escalation
 	- Proposal: tiers of information given to administration depending on their escalation level - consensus on yes
-f
 
 **AP Broccoli** to make occupation-specific drive and transfer docs over
 **AP Sienna to make a signal GC**
