@@ -11,10 +11,15 @@
             "id": "8cced56a3294d9c8",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Empires - Semester 2/Lecture 3 - 20-01-2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 3 - 20-01-2026"
             }
           }
         ]
@@ -144,6 +149,7 @@
   },
   "active": "8cced56a3294d9c8",
   "lastOpenFiles": [
+    "Empires - Semester 2/Lecture 3 - 20-01-2026.md",
     "Other/DA Minutes 15-01-2026.md",
     "Other/MainCom Minutes 14-01-2026.md",
     "Themes and Theories - Semester 2/Lecture 2 - 15-01-2026.md",
@@ -173,7 +179,6 @@
     "Ancient Historiography - Semester 1/Essay Prep.md",
     "Ancient Historiography - Semester 1/Lecture 14 - 30-10-2025.md",
     "Ancient Historiography - Semester 1/Lecture 15 - 04-11-2025.md",
-    "Ancient Historiography - Semester 1/Lecture 16 - 06-11-2025.md",
     "Attachments/Pasted image 20251020122917.png",
     "Attachments/Pasted image 20250924121844.png",
     "Intro to Historiography/Lecture 2 - 19/09",
