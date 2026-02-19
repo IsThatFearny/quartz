@@ -119,3 +119,11 @@ Frontier Architecture
 
 **Urban Warfare**
 
+- Operational Theory Research Institute (OTRI) established as a think-tank to reconceptualise responses to 'low-intensity' wars in the occupied territories - US confirmed collaboration with OTRI
+- Conflict since the second Intifada has had a distinctly urban aspect to it - targets of both the IDF and Palestinian resistance movements were the cities of the other
+- West Bank has become a laboratory in urban warfare
+- Urban warfare strategy cannot be centralised or planned - it is based on probability, chance, and opportunity. Civilians become fighters, and fighters can become civilians. 'Swarm' tactics are often used, replacing orders from a central command with communication between individual 'autarkic' units. This allows units to respond to emergent situations more quickly and counteract unpredictable warfare
+- Military capabilities adapt to techniques used by guerrilla fighters, who respond in turn to the advancements made by the military
+- Diffusion of Palestinian resistance forces minimises the effect that Israeli attacks can have
+- 'Walking through walls' became the primary method of urban warfare: IDF soldiers would break through walls of settlements rather than using the conventional methods of moving around an urban area (doors, streets, etc.) in order to a) maintain the element of surprise on targets, and b) to prevent guerrilla fighters from anticipating troop movements. Using this method, a group of soldiers gathers next to a wall, blows it up, and takes the often unsuspecting Palestinian civilians hostage in their own house without food, water, or sanitation, often for several days until the operation is concluded
+- 
