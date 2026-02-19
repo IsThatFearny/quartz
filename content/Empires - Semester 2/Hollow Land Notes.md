@@ -133,4 +133,11 @@ Frontier Architecture
 
 - Evacuated settlements were offered back to Palestinians for a price - this was rejected by the PA in favour of the removal of the settlements (a move that was interpreted by Israel as a double bluff). The proposal was that the majority of the land be redeveloped for agriculture
 - Architecture was widely understood to be one of the instruments of Israeli occupation, and as such Palestinians would not live in Gaza settlements in which their oppressors once lived
+- Proposals were made to build high-rise (and therefore permanent) housing for refugees. The removal of the temporary camps in favour of permanent structures raised the concern that it would eliminate the urgency of the Palestinian claim to the land. Palestinian political organisations wanted to maintain the sense of temporariness and kept infrastructure to a bare minimum to reinforce this
+- The 'refugee problem' was seen by Israeli politicians as central and a precondition to the conflict, with the belief that many problems could be solved by turning refugees into city or village dwellers - this reduced political problems into socio-economic/urban ones. Dayan believed that if Palestinians were to move out of refugee camps, then they might forget their claim to their land and form a new attachment to their new 'home'
+
+**Targeted Assassinations**
+
+- Even without physical presence on the ground, Israel wanted to be able to control the Gaza strip from the air, referring to this as 'the occupation after the occupation', and the 'invisible occupation'
+- Targeted assassination from the air became the most frequently used method of occupation (obvs this has changed since the start of the current genocide)
 - 
