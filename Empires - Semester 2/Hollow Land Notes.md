@@ -112,4 +112,4 @@ Frontier Architecture
 - Do more research into HCJ. Seem to be quite law-abiding so to speak
 - Often the wall would cut through Palestinian villages in the interest of ‘security’, cutting residents off from public facilities
 - Regime behind the construction of the wall has been somewhat legitimised by the HCJ - 'improvements' suggested to alleviate the suffering of Palestinians make the regime look better in the eyes of international onlookers
-- Counter-p
+- Counter-petitioners 
