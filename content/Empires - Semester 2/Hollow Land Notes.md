@@ -113,4 +113,9 @@ Frontier Architecture
 - Often the wall would cut through Palestinian villages in the interest of ‘security’, cutting residents off from public facilities
 - Regime behind the construction of the wall has been somewhat legitimised by the HCJ - 'improvements' suggested to alleviate the suffering of Palestinians make the regime look better in the eyes of international onlookers
 - Counter-petitioners have managed to appeal to the HCJ to divert the wall in their interests, against the interests of Palestinians whom the HCJ had previously ruled to protect
-- 
+- 'Depth barriers' created to enclose Israeli settlements in Palestinian space - disconnected from the main wall and so largely free from international criticism. The areas encircled by these barriers have been declared by the IDF as 'special security zones' and the surrounding area described as 'sterile', giving the IDF a pretext to shoot-to-kill Palestinians who wander into this area
+- The wall is seen by many international onlookers as a defined 'border'; it is actually a perpetually shifting frontier
+- Highways and roads under Israeli control but built above Palestinian land - Tirza argued that this would reduce the 'friction' between settlers and Palestinians, significantly reducing the chance of an 'encounter' with one another
+
+**Urban Warfare**
+
