@@ -1,21 +1,19 @@
 # Hollow Land Notes
 
-Frontier Architecture
+**Frontier Architecture**
 
 - ‘Politics of Verticality’: tunnels, water sources, bridges vs tunnels negotiated at camp david (Israel favoured tunnels; why?)
 - Sewage and Hygeine - Raw sewage flows from hilltop settlements into Palestinian villages; affirms a ‘common national-territorial imagination that sees the presence of Palestinians as a ‘defiled’ substance within the Israeli landscape’ (see Mary Douglas, Purity and Danger)
-    
 
 **Jerusalem**
 
 - Jerusalem: outer circle of settlements termed an ‘organic’ wall, without of which is the actual separation wall; ‘metropolitan Jerusalem *is* the occupation’ - Jeff Halper; new buildings have to be built with ‘Jerusalem stone’, giving the impression of unity and a ‘connection’ to the Holy City - ‘stone embodied biblical tradition’. Stone was also too expensive for local inhabitants, pricing them out of the city despite it being the alleged vernacular. Many new buildings are merely clad with stone and provisions have been put in place to make sure that such cladding ‘conveys an emotional message’ even at extra cost. The perceived ‘holiness’ of this material ensured that Jerusalem was characterised as a ‘holy city’ in itself, and the further it expanded, the more land was made ‘holy’
-- Colonel Ronald Storrs (Military gov. of Jerusalem in 1917): the Zionist enterprisewas ‘forming for england a little loyal Jewish Ulster in a sea of potentially hostile Arabism’
+- Colonel Ronald Storrs (Military gov. of Jerusalem in 1917): the Zionist enterprise was ‘forming for england a little loyal Jewish Ulster in a sea of potentially hostile Arabism’
 - Archaeology: A method of tying the state of Israel to the land; often carried out by secularists with nationalist ambitions (as opposed to religious ones). Archaeological and historical sites designated as ‘nations and cultural property’, ‘amounting to a de facto annexation of the ground beneath the Occupied Territories. In some cases, upper storeys of new homes would be built on their archaeological foundations. Ram Karmi: ‘the search for nations identity must be conducted through architecture’
 - Jerusalem Old City: ‘Rather than a multicultural city centre the Jewish Quarter might be better described as an artificial, ethnically homogenous, gated neighbourhood, who construction was made possible by the forced displacements of its inhabitants. It is a ‘biblical’ theme park, sending out further tentacles of Jewish housing enclaves and religious study-centres into the Muslim quarter to which it is connected above street level via protected and exclusive roof paths. The separation of this enclave from its surroundings is further enforced by the fact that all entrances and exits to the Jewish quarter are guarded by the border police, providing access, after body and bag scans, only to Jewish residents/settlers, tourists, and the Israeli army and police’
 - Jerusalem demographics: Arab 28%, Jew 72% - this target is achieved by housing development and urban planning e.g. causing overcrowding in Palestinian areas and thereby forcing house prices up - by leaving the city, Palestinians lose ‘Israeli residency’ which allows them access to state service and healthcare
 - Kollek: ‘the primary purpose of defining Shuafat ridge as a green area was the prevent arab building until the time was ripe to build a new Jewish neighbourhood’
 - Palestinian neighbourhoods are prevented from expanding outward or upward under the pretext of preservation - permitted floor area ratio is kept low to prevent more building on an owned plot of land
-    
 
 **Fortifications**
 
