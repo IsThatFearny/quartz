@@ -1,0 +1,24 @@
+{
+  "cronInterval": 10,
+  "runOnStartup": true,
+  "enableMobile": true,
+  "watchObsidianSync": false,
+  "crons": [
+    {
+      "id": "432f755c-b939-4ad1-bdbc-c0f3e9a3e76c",
+      "name": "Sync",
+      "job": "obsidian-shellcommands:shell-command-5gxhwy79ea",
+      "frequency": "10",
+      "settings": {
+        "enableMobile": false
+      }
+    }
+  ],
+  "locks": {
+    "432f755c-b939-4ad1-bdbc-c0f3e9a3e76c": {
+      "locked": false,
+      "lockedDeviceName": "WillsLaptop",
+      "lastRun": "2025-02-04T18:21:19+00:00"
+    }
+  }
+}
