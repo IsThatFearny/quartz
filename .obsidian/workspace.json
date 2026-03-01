@@ -11,10 +11,15 @@
             "id": "73c3a45a2db4ae1f",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "History of the US - Semester 2/Historiography Essay Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Historiography Essay Notes"
             }
           }
         ]
@@ -144,6 +149,7 @@
   },
   "active": "73c3a45a2db4ae1f",
   "lastOpenFiles": [
+    "History of the US - Semester 2/Historiography Essay Notes.md",
     "Empires - Semester 2/Hollow Land Book Review.md",
     "Empires - Semester 2/Hollow Land Notes.md",
     "Other/MainCom Minutes 14-01-2026.md",
@@ -174,7 +180,6 @@
     "Transformation of the Roman World - Semester 1/Lecture 15 - 05-11-2025.md",
     "Transformation of the Roman World - Semester 1/Lecture 14 - 03-11-2025.md",
     "Transformation of the Roman World - Semester 1/Lecture 13 - 29-10-2025.md",
-    "Transformation of the Roman World - Semester 1/Lecture 11 - 20-10-2025.md",
     "Attachments/Pasted image 20251020122917.png",
     "Attachments/Pasted image 20250924121844.png",
     "Intro to Historiography/Lecture 2 - 19/09",
