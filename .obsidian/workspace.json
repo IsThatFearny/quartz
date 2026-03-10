@@ -11,10 +11,15 @@
             "id": "2a49bbb568f2df93",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Themes and Theories - Semester 2/Assessment Prep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Assessment Prep"
             }
           }
         ]

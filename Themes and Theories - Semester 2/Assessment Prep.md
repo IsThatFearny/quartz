@@ -12,3 +12,9 @@
 - Why might they be different to previous attitudes? (gibbon e.g.?)
 - How have they affected modern study?
 - Positives/negatives for studying through a modern lens 
+
+</br>
+
+**Notes**
+
+- Modern study through a 'colonial' lens - along racial lines (european vs non-european)
