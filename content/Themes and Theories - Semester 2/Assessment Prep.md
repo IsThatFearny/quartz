@@ -18,3 +18,4 @@
 **Notes**
 
 - Modern study through a 'colonial' lens - along racial lines (european vs non-european)
+- Decolonial perspectives?
