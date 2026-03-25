@@ -11,10 +11,15 @@
             "id": "bbc7af8539e13d5b",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Themes and Theories - Semester 2/Long Essay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Long Essay"
             }
           }
         ]
