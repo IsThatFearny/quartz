@@ -4,4 +4,4 @@
 
 ---
 
-George Lucas' 
+*Star Wars*, George Lucas' famed space opera, 
